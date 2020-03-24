@@ -965,3 +965,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.24-00.17.50:032][326]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2020.03.24-00.17.50:032][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.03.24-00.17.59:054][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.03.24-00.18.19:425][ 22]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Options.Options
+[2020.03.24-00.18.38:789][929]LogSlate: Window 'Options' being destroyed
+[2020.03.24-00.18.38:795][929]LogSlate: Window 'Options' being destroyed
+[2020.03.24-00.18.38:796][929]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.18.38:796][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.18.38:815][929]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.18.38:815][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.18.40:228][ 71]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.03.24-00.18.57:107][905]LogSlate: Window 'MainMenu' being destroyed
+[2020.03.24-00.18.57:113][905]LogSlate: Window 'MainMenu' being destroyed
+[2020.03.24-00.18.57:117][905]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.18.57:117][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.18.57:135][905]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.18.57:135][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.18.58:563][ 61]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Options.Options
+[2020.03.24-00.20.53:892][851]BlueprintLog: New page: Compile Options
+[2020.03.24-00.20.54:151][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.03.24-00.20.55:078][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Options.uasset" SILENT=true
+[2020.03.24-00.20.55:094][935]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Options8CE587B640420ECE5082998CDCFA4B85.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Options.uasset'
+[2020.03.24-00.20.55:107][935]AssetCheck: New page: Asset Save: Options
+[2020.03.24-00.20.55:107][935]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.03.24-00.20.57:130][150]LogSlate: Window 'Options' being destroyed
+[2020.03.24-00.20.57:136][150]LogSlate: Window 'Options' being destroyed
+[2020.03.24-00.20.57:140][150]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.20.57:141][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.20.57:162][150]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.20.57:162][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.21.07:045][718]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.03.24-00.21.07:081][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.03.24-00.21.07:083][718]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.24-00.21.07:083][718]LightingResults: New page: Lighting Build
+[2020.03.24-00.21.07:086][718]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.03.24-00.21.07:086][718]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.21.07:086][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.21.07:086][718]MapCheck: New page: Map Check
+[2020.03.24-00.21.07:086][718]LightingResults: New page: Lighting Build
+[2020.03.24-00.21.07:121][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.03.24-00.21.07:161][718]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.03.24-00.21.07:198][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.03.24-00.21.07:201][718]LogAIModule: Creating AISystem for world MainMenu
+[2020.03.24-00.21.07:202][718]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.24-00.21.07:237][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.03.24-00.21.07:265][718]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.24-00.21.07:267][718]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.613ms to complete.
+[2020.03.24-00.21.07:267][718]LogFileHelpers: Loading map 'MainMenu' took 0.185
+[2020.03.24-00.21.13:845][ 61]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.03.24-00.22.01:273][921]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.24-00.23.44:970][621]BlueprintLog: New page: Compile MainMenu
+[2020.03.24-00.23.45:008][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.03.24-00.23.46:316][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.24-00.23.46:360][770]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.03.24-00.23.46:624][770]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/MainMenuD255147441C5668931535A96C63C3986.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/MainMenu.umap'
+[2020.03.24-00.23.46:653][770]LogFileHelpers: Saving map 'MainMenu' took 0.338
+[2020.03.24-00.23.46:665][770]AssetCheck: New page: Asset Save: MainMenu
+[2020.03.24-00.23.46:665][770]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.03.24-00.23.53:004][210]LogSlate: Window 'MainMenu' being destroyed
+[2020.03.24-00.23.53:008][210]LogSlate: Window 'MainMenu' being destroyed
+[2020.03.24-00.23.53:019][210]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.23.53:019][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
