@@ -728,3 +728,101 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.23-23.58.38:854][617]LogContentValidation: Display: Validating World /Game/Levels/test_map.test_map
 [2020.03.23-23.58.38:854][617]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/test_map_BuiltData.test_map_BuiltData
 [2020.03.23-23.58.44:886][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.03.23-23.59.11:983][497]LogAIModule: Creating AISystem for world level_1
+[2020.03.23-23.59.11:983][497]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/level_1.level_1
+[2020.03.23-23.59.12:010][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.03.23-23.59.12:012][497]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.23-23.59.12:012][497]LightingResults: New page: Lighting Build
+[2020.03.23-23.59.12:012][497]LoadErrors: New page: Loading map: level_1.umap
+[2020.03.23-23.59.12:013][497]LogWorld: UWorld::CleanupWorld for test_map, bSessionEnded=true, bCleanupResources=true
+[2020.03.23-23.59.12:013][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.23-23.59.12:013][497]MapCheck: New page: Map Check
+[2020.03.23-23.59.12:013][497]LightingResults: New page: Lighting Build
+[2020.03.23-23.59.12:044][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.03.23-23.59.12:066][497]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.23-23.59.12:093][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.03.23-23.59.12:119][497]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.23-23.59.12:119][497]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2020.03.23-23.59.12:119][497]LogFileHelpers: Loading map 'level_1' took 0.109
+[2020.03.23-23.59.17:309][ 99]LogActorFactory: Actor Factory created Plane
+[2020.03.23-23.59.18:228][206]LogActorFactory: Actor Factory created Plane
+[2020.03.23-23.59.29:951][587]Cmd: DELETE
+[2020.03.23-23.59.29:951][587]Cmd: ACTOR DELETE
+[2020.03.23-23.59.29:952][587]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.23-23.59.29:979][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.03.23-23.59.29:980][587]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.23-23.59.30:962][697]LogActorFactory: Actor Factory created Cube
+[2020.03.23-23.59.31:544][766]LogActorFactory: Actor Factory created Cube
+[2020.03.23-23.59.33:680][ 14]Cmd: TRANSACTION UNDO
+[2020.03.23-23.59.33:680][ 14]LogEditorTransaction: Undo Scale Actors
+[2020.03.24-00.00.35:026][ 90]Cmd: EDIT COPY
+[2020.03.24-00.00.35:286][120]Cmd: EDIT PASTE
+[2020.03.24-00.01.01:546][158]LogAIModule: Creating AISystem for world test_map
+[2020.03.24-00.01.01:568][158]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/test_map.test_map
+[2020.03.24-00.01.01:602][158]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.03.24-00.01.05:003][158]LogSlate: Window 'Save Content' being destroyed
+[2020.03.24-00.01.05:024][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/level_1" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.24-00.01.05:049][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.03.24-00.01.05:059][158]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/level_1C4B2458D47DC44553DDDA289AA660BD7.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/level_1.umap'
+[2020.03.24-00.01.05:085][158]LogFileHelpers: Saving map 'level_1' took 0.062
+[2020.03.24-00.01.05:086][158]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/test_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.24-00.01.05:086][158]LightingResults: New page: Lighting Build
+[2020.03.24-00.01.05:088][158]LoadErrors: New page: Loading map: test_map.umap
+[2020.03.24-00.01.05:088][158]LogWorld: UWorld::CleanupWorld for level_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.01.05:088][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.01.05:088][158]MapCheck: New page: Map Check
+[2020.03.24-00.01.05:088][158]LightingResults: New page: Lighting Build
+[2020.03.24-00.01.05:110][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.03.24-00.01.05:117][158]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.24-00.01.05:142][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.24-00.01.05:165][158]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.24-00.01.05:165][158]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2020.03.24-00.01.05:165][158]LogFileHelpers: Loading map 'test_map' took 0.080
+[2020.03.24-00.01.05:213][158]AssetCheck: New page: Asset Save: level_1
+[2020.03.24-00.01.05:213][158]LogContentValidation: Display: Validating World /Game/Levels/level_1.level_1
+[2020.03.24-00.01.05:216][158]LogAIModule: Creating AISystem for world level_1
+[2020.03.24-00.01.09:701][667]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.03.24-00.01.51:850][123]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/level_1.level_1
+[2020.03.24-00.01.51:887][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.03.24-00.01.51:890][123]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.24-00.01.51:890][123]LightingResults: New page: Lighting Build
+[2020.03.24-00.01.51:891][123]LoadErrors: New page: Loading map: level_1.umap
+[2020.03.24-00.01.51:892][123]LogWorld: UWorld::CleanupWorld for test_map, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.01.51:892][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.01.51:892][123]MapCheck: New page: Map Check
+[2020.03.24-00.01.51:892][123]LightingResults: New page: Lighting Build
+[2020.03.24-00.01.51:932][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.03.24-00.01.51:934][123]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.24-00.01.51:971][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.03.24-00.01.52:006][123]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.24-00.01.52:007][123]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2020.03.24-00.01.52:007][123]LogFileHelpers: Loading map 'level_1' took 0.119
+[2020.03.24-00.02.07:618][950]Cmd: DELETE
+[2020.03.24-00.02.07:618][950]Cmd: ACTOR DELETE
+[2020.03.24-00.02.07:619][950]LogEditorActor: Deleted Actor: Actor
+[2020.03.24-00.02.07:648][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.03.24-00.02.07:650][950]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.24-00.02.15:823][906]LogAIModule: Creating AISystem for world test_map
+[2020.03.24-00.02.15:846][906]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/test_map.test_map
+[2020.03.24-00.02.15:877][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.03.24-00.02.18:789][906]LogSlate: Window 'Save Content' being destroyed
+[2020.03.24-00.02.18:806][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/level_1" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.24-00.02.18:831][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.03.24-00.02.18:844][906]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/level_1185A577644E7E7FAA4BF66B96A48ADB0.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/level_1.umap'
+[2020.03.24-00.02.18:870][906]LogFileHelpers: Saving map 'level_1' took 0.065
+[2020.03.24-00.02.18:871][906]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/test_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.24-00.02.18:872][906]LightingResults: New page: Lighting Build
+[2020.03.24-00.02.18:872][906]LoadErrors: New page: Loading map: test_map.umap
+[2020.03.24-00.02.18:872][906]LogWorld: UWorld::CleanupWorld for level_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.02.18:872][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.02.18:873][906]MapCheck: New page: Map Check
+[2020.03.24-00.02.18:873][906]LightingResults: New page: Lighting Build
+[2020.03.24-00.02.18:898][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.03.24-00.02.18:904][906]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.24-00.02.18:933][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.03.24-00.02.18:958][906]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.24-00.02.18:958][906]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2020.03.24-00.02.18:958][906]LogFileHelpers: Loading map 'test_map' took 0.088
+[2020.03.24-00.02.19:015][906]AssetCheck: New page: Asset Save: level_1
+[2020.03.24-00.02.19:015][906]LogContentValidation: Display: Validating World /Game/Levels/level_1.level_1
+[2020.03.24-00.02.19:018][906]LogAIModule: Creating AISystem for world level_1
