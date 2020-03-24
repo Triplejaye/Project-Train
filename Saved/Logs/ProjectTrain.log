@@ -826,3 +826,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.24-00.02.19:015][906]AssetCheck: New page: Asset Save: level_1
 [2020.03.24-00.02.19:015][906]LogContentValidation: Display: Validating World /Game/Levels/level_1.level_1
 [2020.03.24-00.02.19:018][906]LogAIModule: Creating AISystem for world level_1
+[2020.03.24-00.03.09:004][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.03.24-00.03.09:005][658]LogMetaData: Removing '/Game/Levels/world.world_C' ref from Metadata '/Game/Levels/test_map.PackageMetaData'
+[2020.03.24-00.03.09:005][658]LogMetaData: Removing '/Game/Levels/world.SKEL_world_C' ref from Metadata '/Game/Levels/test_map.PackageMetaData'
+[2020.03.24-00.03.09:029][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/world_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/world_BuiltData.uasset" SILENT=true
+[2020.03.24-00.03.09:977][658]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/world_BuiltData0DE1DC7C49D02211ED9682B2E6EE2EDE.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/world_BuiltData.uasset'
+[2020.03.24-00.03.09:979][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/world" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/world.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.24-00.03.10:010][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.03.24-00.03.10:173][658]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/world70DB1A1242137FB242C09F88B6592E45.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/world.umap'
+[2020.03.24-00.03.10:198][658]LogFileHelpers: Saving map 'world' took 0.219
+[2020.03.24-00.03.10:447][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.03.24-00.03.10:481][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.03.24-00.03.10:518][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.03.24-00.03.10:546][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.03.24-00.03.10:589][658]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/FirstPersonExampleMap_BuiltDataD64BD63E41F755D449978F858EF57637.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.24-00.03.10:665][658]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.24-00.03.10:665][658]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/world_BuiltData.world_BuiltData
+[2020.03.24-00.03.10:665][658]LogContentValidation: Display: Validating World /Game/Levels/world.world
+[2020.03.24-00.03.10:665][658]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.24-00.03.15:996][100]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/level_1.level_1
+[2020.03.24-00.03.16:020][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.03.24-00.03.16:022][100]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.24-00.03.16:022][100]LightingResults: New page: Lighting Build
+[2020.03.24-00.03.16:023][100]LoadErrors: New page: Loading map: level_1.umap
+[2020.03.24-00.03.16:024][100]LogWorld: UWorld::CleanupWorld for world, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.03.16:024][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.03.16:024][100]MapCheck: New page: Map Check
+[2020.03.24-00.03.16:024][100]LightingResults: New page: Lighting Build
+[2020.03.24-00.03.16:057][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.03.24-00.03.16:077][100]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.24-00.03.16:109][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.03.24-00.03.16:137][100]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.24-00.03.16:137][100]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2020.03.24-00.03.16:137][100]LogFileHelpers: Loading map 'level_1' took 0.116
+[2020.03.24-00.03.18:451][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.24-00.03.19:665][504]Cmd: DELETE
+[2020.03.24-00.03.19:665][504]Cmd: ACTOR DELETE
+[2020.03.24-00.03.19:666][504]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.24-00.03.19:694][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.03.24-00.03.19:696][504]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.24-00.03.20:954][654]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.03.24-00.03.21:298][691]Cmd: DELETE
+[2020.03.24-00.03.21:298][691]Cmd: ACTOR DELETE
+[2020.03.24-00.03.21:299][691]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.03.24-00.03.21:329][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.03.24-00.03.21:330][691]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.24-00.03.22:188][794]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight2)
+[2020.03.24-00.03.22:310][805]Cmd: DELETE
+[2020.03.24-00.03.22:310][805]Cmd: ACTOR DELETE
+[2020.03.24-00.03.22:311][805]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.03.24-00.03.22:342][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.03.24-00.03.22:343][805]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.24-00.03.23:237][911]LogEditorViewport: Clicking on Actor (double click): SkyLight (SkyLight)
+[2020.03.24-00.03.23:612][953]Cmd: DELETE
+[2020.03.24-00.03.23:612][953]Cmd: ACTOR DELETE
+[2020.03.24-00.03.23:613][953]LogEditorActor: Deleted Actor: SkyLight
+[2020.03.24-00.03.23:639][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.03.24-00.03.23:640][953]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.24-00.03.32:130][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.24-00.03.32:161][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.03.24-00.03.32:172][952]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/MainMenuF09866BD4E5466BF8A95ABB1872229AE.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/MainMenu.umap'
+[2020.03.24-00.03.32:203][952]LogFileHelpers: Saving map 'MainMenu' took 0.074
+[2020.03.24-00.03.32:341][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.03.24-00.03.32:378][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.03.24-00.03.32:405][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.03.24-00.03.32:428][952]AssetCheck: New page: Asset Save: MainMenu
+[2020.03.24-00.03.32:428][952]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.03.24-00.03.36:633][449]LogAIModule: Creating AISystem for world world
+[2020.03.24-00.03.37:324][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.03.24-00.03.37:363][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/world_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/world_BuiltData.uasset" SILENT=true
+[2020.03.24-00.03.38:518][449]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/world_BuiltData58B347844A8FFF1FB9CF4DBC66DBC2C6.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/world_BuiltData.uasset'
+[2020.03.24-00.03.38:522][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/world" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/world.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.24-00.03.38:559][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.03.24-00.03.38:789][449]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/worldDD5E1BA3411FEEB96F960A863432D137.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/world.umap'
+[2020.03.24-00.03.38:798][449]LogFileHelpers: Saving map 'world' took 0.276
+[2020.03.24-00.03.39:148][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.03.24-00.03.39:171][449]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/FirstPersonExampleMap_BuiltDataBAD3A44D4FCB7AB5065545818846E53B.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.24-00.03.39:206][449]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.24-00.03.39:206][449]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/world_BuiltData.world_BuiltData
+[2020.03.24-00.03.39:206][449]LogContentValidation: Display: Validating World /Game/Levels/world.World
+[2020.03.24-00.03.39:206][449]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.24-00.03.40:229][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/world" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/world.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.24-00.03.40:266][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.03.24-00.03.40:487][557]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/worldBEB4142743A711966A09338F13565815.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/world.umap'
+[2020.03.24-00.03.40:496][557]LogFileHelpers: Saving map 'world' took 0.267
+[2020.03.24-00.03.40:508][557]AssetCheck: New page: Asset Save: World
+[2020.03.24-00.03.40:508][557]LogContentValidation: Display: Validating World /Game/Levels/world.World
