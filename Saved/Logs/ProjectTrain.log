@@ -912,3 +912,56 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.24-00.03.40:496][557]LogFileHelpers: Saving map 'world' took 0.267
 [2020.03.24-00.03.40:508][557]AssetCheck: New page: Asset Save: World
 [2020.03.24-00.03.40:508][557]LogContentValidation: Display: Validating World /Game/Levels/world.World
+[2020.03.24-00.04.15:140][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.03.24-00.04.54:365][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.03.24-00.04.54:366][228]LogMetaData: Removing '/Game/UI/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2020.03.24-00.04.54:366][228]LogMetaData: Removing '/Game/UI/MainMenu.MainMenu_C' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2020.03.24-00.04.54:366][228]LogMetaData: Removing '/Game/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2020.03.24-00.04.54:366][228]LogMetaData: Removing '/Game/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2020.03.24-00.04.54:366][228]LogMetaData: Removing '/Game/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2020.03.24-00.04.54:397][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/MainMenu.uasset" SILENT=true
+[2020.03.24-00.04.54:407][228]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/MainMenu07FDB0D1465DF9B07AE5489ED90ADB72.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/MainMenu.uasset'
+[2020.03.24-00.04.54:556][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.03.24-00.04.54:594][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.03.24-00.04.54:621][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.03.24-00.04.54:644][228]AssetCheck: New page: Asset Save: MainMenu
+[2020.03.24-00.04.54:644][228]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.03.24-00.05.15:291][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.03.24-00.05.16:919][958]LogSlate: Window 'Save Content' being destroyed
+[2020.03.24-00.05.16:946][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Options.uasset" SILENT=true
+[2020.03.24-00.05.16:955][958]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Options52C6D97D418A2FAD79C0099B740539DE.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Options.uasset'
+[2020.03.24-00.05.16:966][958]AssetCheck: New page: Asset Save: Options
+[2020.03.24-00.05.16:966][958]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.03.24-00.05.20:264][344]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.03.24-00.05.20:479][344]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.03.24-00.05.21:839][344]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.24-00.06.07:199][865]LogSlate: Took 0.015540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.03.24-00.12.30:078][181]LogEditorTransaction: Undo Move Widget
+[2020.03.24-00.14.34:083][138]LogEditorTransaction: Undo Move Widget
+[2020.03.24-00.16.48:800][713]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.24-00.16.53:829][ 49]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.24-00.17.01:938][718]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.24-00.17.27:306][853]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.03.24-00.17.27:308][853]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.076
+[2020.03.24-00.17.27:308][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu] ([1] browsable assets)...
+[2020.03.24-00.17.27:308][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2020.03.24-00.17.27:308][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Autosaves/Game/UI/MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.24-00.17.27:326][853]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/MainMenu_Auto123E756EA40BBE0A25D1BD1B29146E7C8.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Autosaves/Game/UI/MainMenu_Auto1.uasset'
+[2020.03.24-00.17.27:327][853]LogFileHelpers: Auto-saving content packages took 0.018
+[2020.03.24-00.17.31:926][870]BlueprintLog: New page: Compile MainMenu
+[2020.03.24-00.17.31:967][870]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.03.24-00.17.33:946][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/MainMenu.uasset" SILENT=true
+[2020.03.24-00.17.33:958][ 61]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/MainMenu4D024BBE452C45AF1DBB70A3B0AC840E.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/MainMenu.uasset'
+[2020.03.24-00.17.33:973][ 61]AssetCheck: New page: Asset Save: MainMenu
+[2020.03.24-00.17.33:973][ 61]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.03.24-00.17.38:614][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/MainMenu.uasset" SILENT=true
+[2020.03.24-00.17.38:626][568]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/MainMenuF00B173F446DA4FD7C974BBA42EB2C59.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/MainMenu.uasset'
+[2020.03.24-00.17.38:639][568]AssetCheck: New page: Asset Save: MainMenu
+[2020.03.24-00.17.38:639][568]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.03.24-00.17.49:997][326]LogSlate: Window 'MainMenu' being destroyed
+[2020.03.24-00.17.50:003][326]LogSlate: Window 'MainMenu' being destroyed
+[2020.03.24-00.17.50:014][326]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.17.50:014][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.17.50:032][326]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-00.17.50:032][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-00.17.59:054][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
