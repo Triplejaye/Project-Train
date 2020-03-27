@@ -1546,3 +1546,379 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.27-20.44.22:904][606]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Option_Button_BPEFDDE5A248470F86490E649957C2BE17.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Blueprints/Option_Button_BP.uasset'
 [2020.03.27-20.44.22:922][606]AssetCheck: New page: Asset Save: Option_Button_BP
 [2020.03.27-20.44.22:922][606]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Option_Button_BP.Option_Button_BP
+[2020.03.27-20.45.00:693][296]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-20.45.00:706][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/Levels/World.World_C' with ClassGeneratedBy '/Game/Levels/World.World:PersistentLevel.World'
+[2020.03.27-20.45.00:706][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-20.45.00:706][296]PIE: New page: PIE session: World (Mar 27, 2020, 8:45:00 AM)
+[2020.03.27-20.45.00:706][296]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_World
+[2020.03.27-20.45.00:719][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012150s)
+[2020.03.27-20.45.00:719][296]LogAIModule: Creating AISystem for world World
+[2020.03.27-20.45.00:720][296]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2020.03.27-20.45.00:720][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/World.World to /Game/Levels/UEDPIE_0_World.World (0.013385s)
+[2020.03.27-20.45.00:753][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.03.27-20.45.00:757][296]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-20.45.00:757][296]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-20.45.00:757][296]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-20.45.00:757][296]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-20.45.00:757][296]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-20.45.00:757][296]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-20.45.00:757][296]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-20.45.00:757][296]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-20.45.00:757][296]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-20.45.00:757][296]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-20.45.00:778][296]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-20.45.00:778][296]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.03.27-20.45.00:778][296]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-20.45.00:778][296]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-20.45.00:778][296]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-20.45.00:778][296]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-20.45.00:778][296]LogAudioMixer: Display: Channel Order:
+[2020.03.27-20.45.00:778][296]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-20.45.00:778][296]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-20.45.00:788][296]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.03.27-20.45.00:790][296]LogInit: FAudioDevice initialized.
+[2020.03.27-20.45.00:843][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-20.45.00:843][296]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-20.45.00:846][296]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 0) at 2020.03.27-14.45.00
+[2020.03.27-20.45.00:847][296]LogWorld: Bringing up level for play took: 0.002620
+[2020.03.27-20.45.00:847][296]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.03.27-20.45.00:851][296]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_World 0.904
+[2020.03.27-20.45.00:851][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/Levels/World.World_C' with ClassGeneratedBy '/Game/Levels/World.World:PersistentLevel.World'
+[2020.03.27-20.45.37:098][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-20.45.37:124][621]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.27-20.45.37:144][621]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.27-20.45.37:144][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/Levels/World.World_C' with ClassGeneratedBy '/Game/Levels/World.World:PersistentLevel.World'
+[2020.03.27-20.45.37:144][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-20.45.37:144][621]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2020.03.27-20.45.37:160][621]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-20.45.37:165][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-20.45.37:166][621]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-20.45.37:166][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-20.45.37:178][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-20.45.37:179][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/Levels/World.World_C' with ClassGeneratedBy '/Game/Levels/World.World:PersistentLevel.World'
+[2020.03.27-20.45.37:183][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-20.45.37:217][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-20.45.37:226][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.03.27-20.45.37:254][622]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.03.27-20.49.29:505][807]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.03.27-20.49.29:724][807]LogAIModule: Creating AISystem for world World_2
+[2020.03.27-20.49.36:956][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.03.27-20.49.36:958][586]LogMetaData: Removing '/Game/Levels/Train.SKEL_Train_C' ref from Metadata '/Game/Levels/World_2.PackageMetaData'
+[2020.03.27-20.49.36:958][586]LogMetaData: Removing '/Game/Levels/Train.Train_C' ref from Metadata '/Game/Levels/World_2.PackageMetaData'
+[2020.03.27-20.49.36:982][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.27-20.49.37:032][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.03.27-20.49.37:298][586]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train4E3E6E064BA91C40E42C4583A8B46B40.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train.umap'
+[2020.03.27-20.49.37:306][586]LogFileHelpers: Saving map 'Train' took 0.324
+[2020.03.27-20.49.37:494][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.03.27-20.49.37:541][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.03.27-20.49.37:578][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.03.27-20.49.37:641][586]AssetCheck: New page: Asset Save: Train
+[2020.03.27-20.49.37:641][586]LogContentValidation: Display: Validating World /Game/Levels/Train.Train
+[2020.03.27-20.49.39:486][771]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train.Train
+[2020.03.27-20.49.39:518][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.03.27-20.49.39:521][771]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.27-20.49.39:521][771]LightingResults: New page: Lighting Build
+[2020.03.27-20.49.39:522][771]LoadErrors: New page: Loading map: Train.umap
+[2020.03.27-20.49.39:522][771]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-20.49.39:523][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-20.49.39:523][771]MapCheck: New page: Map Check
+[2020.03.27-20.49.39:523][771]LightingResults: New page: Lighting Build
+[2020.03.27-20.49.39:561][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.03.27-20.49.39:571][771]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.27-20.49.39:610][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.03.27-20.49.39:662][771]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.27-20.49.39:663][771]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.185ms to complete.
+[2020.03.27-20.49.39:663][771]LogFileHelpers: Loading map 'Train' took 0.144
+[2020.03.27-20.49.45:360][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.03.27-20.49.57:315][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2020.03.27-20.49.58:420][845]Cmd: DELETE
+[2020.03.27-20.49.58:420][845]Cmd: ACTOR DELETE
+[2020.03.27-20.49.58:422][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.49.58:457][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.03.27-20.49.58:462][845]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.03.27-20.49.59:243][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2020.03.27-20.49.59:354][945]Cmd: DELETE
+[2020.03.27-20.49.59:354][945]Cmd: ACTOR DELETE
+[2020.03.27-20.49.59:356][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.49.59:394][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.03.27-20.49.59:395][945]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.03.27-20.50.00:076][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2020.03.27-20.50.00:167][ 30]Cmd: DELETE
+[2020.03.27-20.50.00:167][ 30]Cmd: ACTOR DELETE
+[2020.03.27-20.50.00:169][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.00:199][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.03.27-20.50.00:200][ 30]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.27-20.50.01:223][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2020.03.27-20.50.01:280][153]Cmd: DELETE
+[2020.03.27-20.50.01:280][153]Cmd: ACTOR DELETE
+[2020.03.27-20.50.01:282][153]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.01:316][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.03.27-20.50.01:317][153]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.03.27-20.50.01:737][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2020.03.27-20.50.01:801][203]Cmd: DELETE
+[2020.03.27-20.50.01:801][203]Cmd: ACTOR DELETE
+[2020.03.27-20.50.01:804][203]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.01:836][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.03.27-20.50.01:837][203]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.03.27-20.50.02:497][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2020.03.27-20.50.02:521][281]Cmd: DELETE
+[2020.03.27-20.50.02:521][281]Cmd: ACTOR DELETE
+[2020.03.27-20.50.02:524][281]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.02:556][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.03.27-20.50.02:557][281]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.03.27-20.50.02:934][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2020.03.27-20.50.02:961][325]Cmd: DELETE
+[2020.03.27-20.50.02:961][325]Cmd: ACTOR DELETE
+[2020.03.27-20.50.02:963][325]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.02:994][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.03.27-20.50.02:995][325]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.27-20.50.04:031][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2020.03.27-20.50.04:094][448]Cmd: DELETE
+[2020.03.27-20.50.04:094][448]Cmd: ACTOR DELETE
+[2020.03.27-20.50.04:096][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.04:127][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.03.27-20.50.04:129][448]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.03.27-20.50.07:309][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.03.27-20.50.21:874][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2020.03.27-20.50.22:767][499]Cmd: DELETE
+[2020.03.27-20.50.22:768][499]Cmd: ACTOR DELETE
+[2020.03.27-20.50.22:770][499]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.22:802][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.03.27-20.50.22:808][499]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.03.27-20.50.23:281][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2020.03.27-20.50.23:342][557]Cmd: DELETE
+[2020.03.27-20.50.23:342][557]Cmd: ACTOR DELETE
+[2020.03.27-20.50.23:344][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.23:378][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.03.27-20.50.23:378][557]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.03.27-20.50.23:861][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2020.03.27-20.50.23:957][620]Cmd: DELETE
+[2020.03.27-20.50.23:957][620]Cmd: ACTOR DELETE
+[2020.03.27-20.50.23:960][620]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.23:993][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.03.27-20.50.23:994][620]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.03.27-20.50.24:699][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2020.03.27-20.50.24:756][705]Cmd: DELETE
+[2020.03.27-20.50.24:756][705]Cmd: ACTOR DELETE
+[2020.03.27-20.50.24:758][705]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.24:788][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.03.27-20.50.24:789][705]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.27-20.50.25:499][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2020.03.27-20.50.25:554][790]Cmd: DELETE
+[2020.03.27-20.50.25:554][790]Cmd: ACTOR DELETE
+[2020.03.27-20.50.25:557][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.25:589][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.03.27-20.50.25:590][790]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.03.27-20.50.28:053][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2020.03.27-20.50.28:849][152]Cmd: DELETE
+[2020.03.27-20.50.28:849][152]Cmd: ACTOR DELETE
+[2020.03.27-20.50.28:852][152]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.28:889][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.03.27-20.50.28:890][152]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.03.27-20.50.29:488][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2020.03.27-20.50.29:543][224]Cmd: DELETE
+[2020.03.27-20.50.29:543][224]Cmd: ACTOR DELETE
+[2020.03.27-20.50.29:545][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.29:577][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.03.27-20.50.29:578][224]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.03.27-20.50.30:411][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2020.03.27-20.50.36:371][992]Cmd: DELETE
+[2020.03.27-20.50.36:371][992]Cmd: ACTOR DELETE
+[2020.03.27-20.50.36:373][992]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.50.36:410][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.03.27-20.50.36:414][992]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.03.27-20.50.41:028][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.27-20.50.56:718][224]Cmd: TRANSACTION UNDO
+[2020.03.27-20.50.56:718][224]LogEditorTransaction: Undo Move Actors
+[2020.03.27-20.50.57:684][292]Cmd: EDIT COPY
+[2020.03.27-20.50.58:005][329]Cmd: EDIT PASTE
+[2020.03.27-20.51.09:296][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2020.03.27-20.51.21:723][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.03.27-20.51.29:400][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.03.27-20.51.34:843][415]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.27-20.51.37:755][725]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.03.27-20.51.40:686][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.27-20.51.52:498][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2020.03.27-20.52.10:326][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.03.27-20.52.10:977][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.03.27-20.52.11:607][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (placeholder_ai3)
+[2020.03.27-20.52.13:713][744]Cmd: TRANSACTION UNDO
+[2020.03.27-20.52.13:713][744]LogEditorTransaction: Undo Move Actors
+[2020.03.27-20.52.32:667][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.03.27-20.53.26:455][566]Cmd: EDIT COPY
+[2020.03.27-20.53.26:679][591]Cmd: EDIT PASTE
+[2020.03.27-20.53.32:963][274]Cmd: EDIT COPY
+[2020.03.27-20.53.34:041][399]Cmd: EDIT COPY
+[2020.03.27-20.53.34:406][442]Cmd: EDIT PASTE
+[2020.03.27-20.54.01:088][322]Cmd: DELETE
+[2020.03.27-20.54.01:088][322]Cmd: ACTOR DELETE
+[2020.03.27-20.54.01:091][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.54.01:124][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.03.27-20.54.01:140][322]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2020.03.27-20.54.01:913][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.03.27-20.54.03:227][565]Cmd: EDIT COPY
+[2020.03.27-20.54.03:458][592]Cmd: EDIT PASTE
+[2020.03.27-20.54.23:382][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.03.27-20.54.50:943][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2020.03.27-20.55.02:831][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2020.03.27-20.55.06:787][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2020.03.27-20.55.15:328][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2020.03.27-20.55.16:582][543]Cmd: EDIT COPY
+[2020.03.27-20.55.16:884][578]Cmd: EDIT PASTE
+[2020.03.27-20.55.20:390][937]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.27-20.55.30:339][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2020.03.27-20.55.40:437][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2020.03.27-20.55.53:558][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2020.03.27-20.56.08:568][482]LogEditorViewport: Clicking on Actor (LMB): Option_Button_BP_C (Option_Button_BP3)
+[2020.03.27-20.56.12:997][992]LogEditorViewport: Clicking on Actor (LMB): Option_Button_BP_C (Option_Button_BP2)
+[2020.03.27-20.56.25:609][459]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.27-20.56.28:387][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.27-20.57.06:987][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.27-20.57.20:531][422]Cmd: EDIT COPY
+[2020.03.27-20.57.20:818][455]Cmd: EDIT PASTE
+[2020.03.27-20.57.44:343][999]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-20.57.44:367][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/Levels/Train.Train_C' with ClassGeneratedBy '/Game/Levels/Train.Train:PersistentLevel.Train'
+[2020.03.27-20.57.44:367][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-20.57.44:368][999]PIE: New page: PIE session: Train (Mar 27, 2020, 8:57:44 AM)
+[2020.03.27-20.57.44:368][999]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train
+[2020.03.27-20.57.44:387][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019041s)
+[2020.03.27-20.57.44:389][999]LogAIModule: Creating AISystem for world Train
+[2020.03.27-20.57.44:389][999]LogPlayLevel: PIE: World Init took: (0.002228s)
+[2020.03.27-20.57.44:389][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train.Train to /Game/Levels/UEDPIE_0_Train.Train (0.021677s)
+[2020.03.27-20.57.44:445][999]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.03.27-20.57.44:464][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-20.57.44:464][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-20.57.44:464][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-20.57.44:464][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-20.57.44:464][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-20.57.44:464][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-20.57.44:464][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-20.57.44:464][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-20.57.44:465][999]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-20.57.44:465][999]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-20.57.44:496][999]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-20.57.44:496][999]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.03.27-20.57.44:496][999]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-20.57.44:496][999]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-20.57.44:496][999]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-20.57.44:496][999]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-20.57.44:496][999]LogAudioMixer: Display: Channel Order:
+[2020.03.27-20.57.44:496][999]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-20.57.44:496][999]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-20.57.44:509][999]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.03.27-20.57.44:511][999]LogInit: FAudioDevice initialized.
+[2020.03.27-20.57.44:565][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-20.57.44:565][999]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-20.57.44:568][999]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.03.27-14.57.44
+[2020.03.27-20.57.44:568][999]LogWorld: Bringing up level for play took: 0.002287
+[2020.03.27-20.57.44:568][999]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.03.27-20.57.44:572][999]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train 0.626
+[2020.03.27-20.57.44:573][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/Levels/Train.Train_C' with ClassGeneratedBy '/Game/Levels/Train.Train:PersistentLevel.Train'
+[2020.03.27-20.58.04:165][326]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-20.58.04:165][326]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-20.58.04:165][326]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/Levels/Train.Train_C' with ClassGeneratedBy '/Game/Levels/Train.Train:PersistentLevel.Train'
+[2020.03.27-20.58.04:165][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-20.58.04:165][326]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train
+[2020.03.27-20.58.04:183][326]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-20.58.04:189][326]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-20.58.04:189][326]LogWorld: UWorld::CleanupWorld for Train, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-20.58.04:189][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-20.58.04:195][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-20.58.04:195][326]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/Levels/Train.Train_C' with ClassGeneratedBy '/Game/Levels/Train.Train:PersistentLevel.Train'
+[2020.03.27-20.58.04:200][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-20.58.04:240][326]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-20.58.04:251][326]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.03.27-20.58.04:282][327]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.03.27-20.58.10:415][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.03.27-20.58.13:067][345]Cmd: EDIT COPY
+[2020.03.27-20.58.13:341][377]Cmd: EDIT PASTE
+[2020.03.27-20.58.41:469][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2020.03.27-20.58.49:892][423]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.27-20.58.56:050][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.03.27-20.58.57:860][311]Cmd: DELETE
+[2020.03.27-20.58.57:860][311]Cmd: ACTOR DELETE
+[2020.03.27-20.58.57:864][311]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.27-20.58.57:902][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.03.27-20.58.57:911][311]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.03.27-20.59.00:451][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2020.03.27-20.59.02:943][881]Cmd: EDIT COPY
+[2020.03.27-20.59.04:720][ 72]Cmd: EDIT PASTE
+[2020.03.27-20.59.18:883][627]Cmd: EDIT COPY
+[2020.03.27-20.59.19:184][662]Cmd: EDIT PASTE
+[2020.03.27-20.59.24:393][203]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.27-20.59.29:203][735]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.03.27-20.59.40:973][ 18]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-20.59.40:988][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/Levels/Train.Train_C' with ClassGeneratedBy '/Game/Levels/Train.Train:PersistentLevel.Train'
+[2020.03.27-20.59.40:989][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-20.59.40:989][ 18]PIE: New page: PIE session: Train (Mar 27, 2020, 8:59:40 AM)
+[2020.03.27-20.59.40:989][ 18]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train
+[2020.03.27-20.59.41:002][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013621s)
+[2020.03.27-20.59.41:003][ 18]LogAIModule: Creating AISystem for world Train
+[2020.03.27-20.59.41:004][ 18]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2020.03.27-20.59.41:004][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train.Train to /Game/Levels/UEDPIE_0_Train.Train (0.014910s)
+[2020.03.27-20.59.41:040][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.03.27-20.59.41:050][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-20.59.41:050][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-20.59.41:050][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-20.59.41:050][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-20.59.41:050][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-20.59.41:050][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-20.59.41:050][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-20.59.41:050][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-20.59.41:051][ 18]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-20.59.41:051][ 18]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-20.59.41:079][ 18]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-20.59.41:079][ 18]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.03.27-20.59.41:079][ 18]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-20.59.41:079][ 18]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-20.59.41:079][ 18]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-20.59.41:079][ 18]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-20.59.41:079][ 18]LogAudioMixer: Display: Channel Order:
+[2020.03.27-20.59.41:079][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-20.59.41:079][ 18]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-20.59.41:091][ 18]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.03.27-20.59.41:093][ 18]LogInit: FAudioDevice initialized.
+[2020.03.27-20.59.41:148][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-20.59.41:148][ 18]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.27-20.59.41:151][ 18]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.03.27-14.59.41
+[2020.03.27-20.59.41:151][ 18]LogWorld: Bringing up level for play took: 0.002107
+[2020.03.27-20.59.41:152][ 18]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.03.27-20.59.41:156][ 18]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train -0.791
+[2020.03.27-20.59.41:156][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/Levels/Train.Train_C' with ClassGeneratedBy '/Game/Levels/Train.Train:PersistentLevel.Train'
+[2020.03.27-20.59.48:865][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=115.390 Y=241.320 Z=256.191] for [FirstPersonProjectile_C]
+[2020.03.27-21.00.13:254][844]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-21.00.13:264][844]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.27-21.00.13:283][844]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.27-21.00.13:284][844]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/Levels/Train.Train_C' with ClassGeneratedBy '/Game/Levels/Train.Train:PersistentLevel.Train'
+[2020.03.27-21.00.13:284][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-21.00.13:284][844]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train
+[2020.03.27-21.00.13:319][844]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-21.00.13:333][844]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-21.00.13:333][844]LogWorld: UWorld::CleanupWorld for Train, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-21.00.13:334][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-21.00.13:346][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-21.00.13:346][844]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/Levels/Train.Train_C' with ClassGeneratedBy '/Game/Levels/Train.Train:PersistentLevel.Train'
+[2020.03.27-21.00.13:354][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-21.00.13:398][844]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-21.00.13:407][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.03.27-21.00.13:432][845]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.03.27-21.00.15:839][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.03.27-21.00.17:427][100]LogSlate: Window 'Save Content' being destroyed
+[2020.03.27-21.00.17:453][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.27-21.00.17:483][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.03.27-21.00.17:763][100]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train0F35D6C14552CC22B51518A066F92EA0.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train.umap'
+[2020.03.27-21.00.17:797][100]LogFileHelpers: Saving map 'Train' took 0.344
+[2020.03.27-21.00.17:808][100]AssetCheck: New page: Asset Save: Train
+[2020.03.27-21.00.17:808][100]LogContentValidation: Display: Validating World /Game/Levels/Train.Train
+[2020.03.27-21.00.25:651][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.03.27-21.00.25:653][978]LogMetaData: Removing '/Game/Levels/Train_lvl_1.Train_lvl_1_C' ref from Metadata '/Game/Levels/Train.PackageMetaData'
+[2020.03.27-21.00.25:653][978]LogMetaData: Removing '/Game/Levels/Train_lvl_1.SKEL_Train_lvl_1_C' ref from Metadata '/Game/Levels/Train.PackageMetaData'
+[2020.03.27-21.00.25:720][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.03.27-21.00.26:003][978]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_168D1BAFA4CCAC0B2CF653485454ACACC.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.03.27-21.00.26:035][978]LogFileHelpers: Saving map 'Train_lvl_1' took 0.350
+[2020.03.27-21.00.26:236][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.03.27-21.00.26:278][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.03.27-21.00.26:312][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.03.27-21.00.26:377][978]AssetCheck: New page: Asset Save: Train_lvl_1
+[2020.03.27-21.00.26:377][978]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.03.27-21.00.29:464][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
