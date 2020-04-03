@@ -5110,3 +5110,82 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.03-20.39.09:921][777]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/TrainDoor.TrainDoor_C
 [2020.04.03-20.39.09:921][777]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/TrainDoor.TrainDoor
 [2020.04.03-20.39.09:921][777]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.03-20.39.33:286][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.03-20.40.30:315][783]LogHttp: Warning: 0000017BD4961800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B35308073-4C67-0280-CAB9-43A4A88FE653%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=18bed75a4fc299dd3d6c7399c88cbf4e%7Ca3cfd7fdd0724795a0624a34ba144df0%7Ccca57435-c1a8-414a-8001-df8f07c7677d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.03-20.40.30:315][783]LogHttp: Warning: 0000017BD4961800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.03-20.40.30:315][783]LogHttp: Warning: 0000017BD4961800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.03-20.40.30:315][783]LogHttp: Warning: 0000017BD4961800: libcurl info message cache 1 (Closing connection 41)
+[2020.04.03-20.40.30:328][784]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B35308073-4C67-0280-CAB9-43A4A88FE653%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=18bed75a4fc299dd3d6c7399c88cbf4e%7Ca3cfd7fdd0724795a0624a34ba144df0%7Ccca57435-c1a8-414a-8001-df8f07c7677d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.03-20.40.42:597][687]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.04.03-20.41.21:837][428]BlueprintLog: New page: Compile Train_lvl_1
+[2020.04.03-20.41.21:849][428]LogBlueprint: Error: [Compiler PersistentLevel.Train_lvl_1] Can't connect pins  <Unnamed>  and  Target : Object Reference is not compatible with Pawn Object Reference.
+[2020.04.03-20.41.21:849][428]LogBlueprint: Error: [Compiler PersistentLevel.Train_lvl_1] Can't connect pins  Target  and  <Unnamed> : Pawn Object Reference is not compatible with Object Reference.
+[2020.04.03-20.41.21:849][428]LogBlueprint: Error: [Compiler PersistentLevel.Train_lvl_1] Can't connect pins  <Unnamed>  and  Target : Object Reference is not compatible with Pawn Object Reference.
+[2020.04.03-20.41.21:850][428]LogBlueprint: Error: [Compiler PersistentLevel.Train_lvl_1] Can't connect pins  Target  and  <Unnamed> : Pawn Object Reference is not compatible with Object Reference.
+[2020.04.03-20.41.21:854][428]LogBlueprint: Warning: [Compiler PersistentLevel.Train_lvl_1] Node  Unknown  is not referencing a valid level actor
+[2020.04.03-20.41.21:854][428]LogBlueprint: Warning: [Compiler PersistentLevel.Train_lvl_1] Node  Unknown  is not referencing a valid level actor
+[2020.04.03-20.41.22:181][428]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2020.04.03-20.41.44:455][ 61]BlueprintLog: New page: Compile Train_lvl_1
+[2020.04.03-20.41.44:784][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.04.03-20.41.46:957][196]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.03-20.41.47:007][196]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.03-20.41.47:007][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.03-20.41.47:007][196]PIE: New page: PIE session: Train_lvl_1 (Apr 3, 2020, 8:41:47 AM)
+[2020.04.03-20.41.47:007][196]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.03-20.41.47:032][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025295s)
+[2020.04.03-20.41.47:033][196]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.03-20.41.47:034][196]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2020.04.03-20.41.47:034][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_1.Train_lvl_1 to /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 (0.026518s)
+[2020.04.03-20.41.47:076][196]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2020.04.03-20.41.47:079][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.03-20.41.47:079][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.03-20.41.47:079][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.03-20.41.47:079][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.03-20.41.47:079][196]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.03-20.41.47:079][196]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.03-20.41.47:079][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.03-20.41.47:079][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.03-20.41.47:080][196]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.03-20.41.47:080][196]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.03-20.41.47:100][196]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.41.47:100][196]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.03-20.41.47:100][196]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.41.47:100][196]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.41.47:100][196]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.41.47:100][196]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.41.47:100][196]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.41.47:100][196]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.41.47:100][196]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.41.47:114][196]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.03-20.41.47:115][196]LogInit: FAudioDevice initialized.
+[2020.04.03-20.41.47:178][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-20.41.47:179][196]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.03-20.41.47:207][196]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 up for play (max tick rate 0) at 2020.04.03-14.41.47
+[2020.04.03-20.41.47:209][196]LogWorld: Bringing up level for play took: 0.026267
+[2020.04.03-20.41.47:209][196]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2020.04.03-20.41.47:217][196]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_1 -0.116
+[2020.04.03-20.41.47:217][196]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.03-20.41.47:364][197]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065502 > MaxSimulationTimeStep (0.050) for 'Enemy_Character_2', movement 'Walking'
+[2020.04.03-20.42.08:930][818]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.03-20.42.08:942][818]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.03-20.42.08:962][818]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.03-20.42.08:962][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.03-20.42.08:963][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-20.42.08:963][818]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.03-20.42.09:001][818]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.03-20.42.09:014][818]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.03-20.42.09:015][818]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.03-20.42.09:017][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.03-20.42.09:066][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.03-20.42.09:066][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.03-20.42.09:071][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.03-20.42.09:107][818]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.03-20.42.09:115][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.04.03-20.42.09:238][819]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.04.03-20.42.14:361][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.04.03-20.42.16:522][218]LogSlate: Window 'Save Content' being destroyed
+[2020.04.03-20.42.16:590][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.03-20.42.17:014][218]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_17AA8949C404E14A7452C5181EC57210C.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.03-20.42.17:047][218]LogFileHelpers: Saving map 'Train_lvl_1' took 0.492
+[2020.04.03-20.42.17:059][218]AssetCheck: New page: Asset Save: Train_lvl_1
+[2020.04.03-20.42.17:059][218]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
