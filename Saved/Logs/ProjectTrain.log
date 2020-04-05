@@ -3847,3 +3847,136 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.05-23.17.00:065][961]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
 [2020.04.05-23.17.00:065][961]LogContentValidation: Display: Validating SoundWave /Game/Sounds/crowded_train.crowded_train
 [2020.04.05-23.17.00:065][961]LogContentValidation: Display: Validating SoundWave /Game/Sounds/OutdoorAmbience.OutdoorAmbience
+[2020.04.05-23.17.44:599][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.05-23.25.57:820][ 18]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6e67b025-ea54-4643-b7bf-e5b54338fe9b}.
+[2020.04.05-23.25.57:820][ 18]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6e67b025-ea54-4643-b7bf-e5b54338fe9b}.
+[2020.04.05-23.25.57:820][ 18]LogTemp: Resetting audio stream to device id 
+[2020.04.05-23.25.57:847][ 18]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.25.57:847][ 18]LogAudioMixer: Display: Name: Speakers (USB-BH209A)
+[2020.04.05-23.25.57:847][ 18]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.25.57:847][ 18]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.25.57:847][ 18]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.05-23.25.57:847][ 18]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.05-23.25.57:847][ 18]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.25.57:847][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.25.57:847][ 18]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.25.57:873][ 18]LogTemp: Resetting audio stream to device id 
+[2020.04.05-23.25.57:897][ 18]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.25.57:897][ 18]LogAudioMixer: Display: Name: Speakers (USB-BH209A)
+[2020.04.05-23.25.57:897][ 18]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.25.57:897][ 18]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.25.57:897][ 18]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.05-23.25.57:897][ 18]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.05-23.25.57:897][ 18]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.25.57:897][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.25.57:897][ 18]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.36.48:834][251]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/jacob/Desktop/Train Conductor Placeholder Models/bobs.mp3)
+[2020.04.05-23.36.55:193][801]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Sounds/bobs.bobs
+[2020.04.05-23.37.40:475][753]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Sounds/bobs.bobs
+[2020.04.05-23.37.46:418][351]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.37.46:418][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.37.47:894][466]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.37.47:894][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.37.50:109][645]LogSlate: Window 'TrainSlidingDoor_Closed' being destroyed
+[2020.04.05-23.37.50:140][645]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.05-23.37.50:140][645]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.37.50:140][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.38.24:376][712]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/jacob/Desktop/OpenBobs.wav)
+[2020.04.05-23.38.24:378][712]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave OpenBobs...
+[2020.04.05-23.38.24:378][712]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/OpenBobs.OpenBobs will be modified from 40 to 40.
+[2020.04.05-23.38.24:440][712]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 504428 while cooking SoundWave /Game/Sounds/OpenBobs.OpenBobs.
+[2020.04.05-23.38.44:316][ 21]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1
+[2020.04.05-23.39.04:715][509]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::Delay' [Element not found.]
+[2020.04.05-23.39.07:263][702]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.39.07:263][702]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.39.07:263][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.05-23.39.07:264][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.39.07:264][702]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.05-23.39.07:277][702]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.05-23.39.07:280][702]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.39.07:280][702]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.39.07:280][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.39.07:287][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.39.07:287][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.05-23.39.07:292][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.39.07:334][702]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.39.07:366][702]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.04.05-23.39.07:389][703]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.04.05-23.39.10:692][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.04.05-23.39.12:113][970]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.05-23.39.12:225][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.04.05-23.40.56:431][542]BlueprintLog: New page: Compile Train_lvl_1
+[2020.04.05-23.40.56:681][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.05-23.41.00:236][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.04.05-23.41.00:678][765]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1FBB4E29C425CB623C031C69DA8BB3E29.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.05-23.41.00:726][765]AssetCheck: New page: Asset Save: Train_lvl_1
+[2020.04.05-23.41.00:726][765]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.05-23.41.01:264][795]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.05-23.41.01:345][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.05-23.41.01:345][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-23.41.01:345][795]PIE: New page: PIE session: Train_lvl_1 (Apr 5, 2020, 11:41:01 AM)
+[2020.04.05-23.41.01:345][795]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.05-23.41.01:374][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028395s)
+[2020.04.05-23.41.01:375][795]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.05-23.41.01:375][795]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2020.04.05-23.41.01:375][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_1.Train_lvl_1 to /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 (0.029641s)
+[2020.04.05-23.41.01:411][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.04.05-23.41.01:413][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.41.01:413][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.41.01:413][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.41.01:413][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.41.01:413][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.41.01:413][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.41.01:413][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.41.01:413][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.41.01:413][795]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.41.01:413][795]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.41.01:434][795]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.41.01:434][795]LogAudioMixer: Display: Name: Speakers (USB-BH209A)
+[2020.04.05-23.41.01:434][795]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.41.01:434][795]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.41.01:434][795]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.05-23.41.01:434][795]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.05-23.41.01:434][795]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.41.01:434][795]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.41.01:434][795]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.41.01:444][795]LogAudioMixer: Display: Using Audio Device Speakers (USB-BH209A)
+[2020.04.05-23.41.01:445][795]LogInit: FAudioDevice initialized.
+[2020.04.05-23.41.01:493][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.41.01:493][795]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.05-23.41.01:500][795]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 up for play (max tick rate 0) at 2020.04.05-17.41.01
+[2020.04.05-23.41.01:501][795]LogWorld: Bringing up level for play took: 0.006803
+[2020.04.05-23.41.01:501][795]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2020.04.05-23.41.01:506][795]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_1 -0.327
+[2020.04.05-23.41.01:506][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.05-23.41.01:672][796]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067470 > MaxSimulationTimeStep (0.050) for 'Enemy_Character_2', movement 'Walking'
+[2020.04.05-23.41.38:980][380]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.41.38:991][380]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.05-23.41.39:011][380]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.05-23.41.39:011][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.05-23.41.39:012][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.41.39:012][380]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.05-23.41.39:028][380]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.05-23.41.39:035][380]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.41.39:035][380]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.41.39:036][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.41.39:108][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.41.39:108][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.05-23.41.39:113][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.41.39:146][380]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.41.39:154][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.04.05-23.41.39:274][381]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2020.04.05-23.41.45:313][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.05-23.41.45:721][871]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_113F188034BE9E068DE8E8B944CEE6B0D.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.05-23.41.45:765][871]AssetCheck: New page: Asset Save: Train_lvl_1
+[2020.04.05-23.41.45:766][871]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.05-23.42.27:047][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.04.05-23.42.28:317][451]LogSlate: Window 'Save Content' being destroyed
+[2020.04.05-23.42.28:360][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/OpenBobs" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Sounds/OpenBobs.uasset" SILENT=true
+[2020.04.05-23.42.28:370][451]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/OpenBobs007DF94F4FA196A298C2D6A90827B4FF.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Sounds/OpenBobs.uasset'
+[2020.04.05-23.42.28:385][451]AssetCheck: New page: Asset Save: OpenBobs
+[2020.04.05-23.42.28:385][451]LogContentValidation: Display: Validating SoundWave /Game/Sounds/OpenBobs.OpenBobs
+[2020.04.05-23.42.54:301][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.04.05-23.42.54:710][677]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_11E7A993D4FA146572E03B0A8BFF28974.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.05-23.42.54:755][677]AssetCheck: New page: Asset Save: Train_lvl_1
+[2020.04.05-23.42.54:755][677]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
