@@ -4666,3 +4666,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.06-00.18.45:566][766]LogFileHelpers: Saving map 'Train_lvl_1' took 0.518
 [2020.04.06-00.18.45:581][766]AssetCheck: New page: Asset Save: Train_lvl_1
 [2020.04.06-00.18.45:581][766]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.06-00.19.40:207][930]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.06-00.20.01:409][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.04.06-00.20.01:856][125]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_16E6B6B754F4BBA76D6183CA6D3359212.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.06-00.20.01:885][125]LogFileHelpers: Saving map 'Train_lvl_1' took 0.519
+[2020.04.06-00.20.01:900][125]AssetCheck: New page: Asset Save: Train_lvl_1
+[2020.04.06-00.20.01:900][125]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.06-00.20.05:355][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.04.06-00.20.05:780][291]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1E0C6121645EBD7860C97F3BB62B162DF.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.06-00.20.05:827][291]AssetCheck: New page: Asset Save: Train_lvl_1
+[2020.04.06-00.20.05:827][291]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
