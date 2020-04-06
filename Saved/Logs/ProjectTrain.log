@@ -1877,3 +1877,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.06-21.35.07:627][135]AssetCheck: New page: Asset Save: Train_lvl_1
 [2020.04.06-21.35.07:627][135]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
 [2020.04.06-21.35.09:558][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.04.06-21.36.07:322][147]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.06-21.36.10:078][147]LogSlate: Window 'Message' being destroyed
+[2020.04.06-21.36.10:512][147]LogMaterial: Display: Missing cached shader map for material Arrow_Mat_4, compiling. 
+[2020.04.06-21.36.10:558][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.06-21.36.10:558][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.06-21.36.10:558][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.06-21.36.10:559][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.06-21.36.10:573][147]LogMaterial: Display: Missing cached shader map for material ChairMat, compiling. 
+[2020.04.06-21.36.10:640][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.04.06-21.36.10:660][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.06-21.36.11:923][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.04.06-21.36.11:923][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.04.06-21.36.11:923][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.04.06-21.36.11:923][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.04.06-21.36.11:923][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.04.06-21.36.11:923][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.04.06-21.36.11:923][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.06-21.36.11:923][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.04.06-21.36.11:923][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.04.06-21.36.11:923][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.06-21.36.11:923][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.06-21.36.11:930][147]TextureStreamingBuild: Display: Compiling optional shaders took 1.286 seconds.
+[2020.04.06-21.36.11:963][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.04.06-21.36.11:998][147]LogSlate: Window 'ChairMat' being destroyed
+[2020.04.06-21.36.12:001][147]LogSlate: Window 'ChairMat' being destroyed
+[2020.04.06-21.36.12:216][147]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.04.06-21.36.12:216][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.06-21.36.13:044][210]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.06-21.36.13:542][235]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.06-21.36.13:631][240]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.06-21.37.50:952][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.04.06-21.37.52:049][705]LogSlate: Window 'Save Content' being destroyed
+[2020.04.06-21.37.52:091][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/ChairMat" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/ChairMat.uasset" SILENT=true
+[2020.04.06-21.37.52:111][705]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/ChairMat16A53D7D47BF8160B8B2FE8091E53D7B.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/ChairMat.uasset'
+[2020.04.06-21.37.52:125][705]AssetCheck: New page: Asset Save: ChairMat
+[2020.04.06-21.37.52:125][705]LogContentValidation: Display: Validating Material /Game/Models/Materials/ChairMat.ChairMat
