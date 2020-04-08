@@ -3131,3 +3131,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.08-18.55.34:133][635]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_Test21E31469407C131C78F497977013830D.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
 [2020.04.08-18.55.34:179][635]AssetCheck: New page: Asset Save: Train_lvl_Test
 [2020.04.08-18.55.34:179][635]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
+[2020.04.08-18.56.07:470][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SitChoice1_opt2)
+[2020.04.08-18.56.09:774][596]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRender_Opt_3)
+[2020.04.08-18.56.46:553][930]Cmd: TRANSACTION UNDO
+[2020.04.08-18.56.46:553][930]LogEditorTransaction: Undo Move Actors
+[2020.04.08-18.56.47:465][961]Cmd: TRANSACTION UNDO
+[2020.04.08-18.56.47:465][961]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2020.04.08-18.56.48:257][996]Cmd: TRANSACTION UNDO
+[2020.04.08-18.56.48:257][996]LogEditorTransaction: Undo Move Actors
+[2020.04.08-18.56.49:164][ 38]Cmd: TRANSACTION UNDO
+[2020.04.08-18.56.49:164][ 38]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2020.04.08-18.56.50:006][ 77]Cmd: TRANSACTION UNDO
+[2020.04.08-18.56.50:006][ 77]LogEditorTransaction: Undo Move Actors
+[2020.04.08-18.56.50:745][109]Cmd: TRANSACTION UNDO
+[2020.04.08-18.56.50:745][109]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2020.04.08-18.56.53:023][242]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.08-18.56.56:431][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SitChoice1_opt2)
+[2020.04.08-18.56.57:166][513]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRender_Opt_3)
+[2020.04.08-18.57.10:463][343]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.08-18.57.16:305][707]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.04.08-18.57.16:902][707]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_TestDB6BA1D744974178954990AF924C9FE8.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
+[2020.04.08-18.57.16:949][707]AssetCheck: New page: Asset Save: Train_lvl_Test
+[2020.04.08-18.57.16:949][707]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
