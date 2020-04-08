@@ -3153,3 +3153,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.08-18.57.16:902][707]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_TestDB6BA1D744974178954990AF924C9FE8.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
 [2020.04.08-18.57.16:949][707]AssetCheck: New page: Asset Save: Train_lvl_Test
 [2020.04.08-18.57.16:949][707]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
+[2020.04.08-19.03.20:325][778]BlueprintLog: New page: Compile Train_lvl_Test
+[2020.04.08-19.03.20:708][778]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.04.08-19.03.22:020][827]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.04.08-19.03.22:590][827]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_TestC00CA7D94EDECA31E4A63BB45672AF64.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
+[2020.04.08-19.03.22:624][827]LogFileHelpers: Saving map 'Train_lvl_Test' took 0.656
+[2020.04.08-19.03.22:683][827]AssetCheck: New page: Asset Save: Train_lvl_Test
+[2020.04.08-19.03.22:683][827]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
