@@ -6204,3 +6204,758 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.09-01.58.56:778][546]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_Test9C3055EB4310B02B88D518A29D5D5718.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
 [2020.04.09-01.58.56:830][546]AssetCheck: New page: Asset Save: Train_lvl_Test
 [2020.04.09-01.58.56:830][546]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
+[2020.04.09-02.01.48:062][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.09-02.02.01:579][456]Cmd: TRANSACTION UNDO
+[2020.04.09-02.02.01:579][456]LogEditorTransaction: Undo Move Actors
+[2020.04.09-02.02.01:642][456]LogMaterial: Display: Missing cached shader map for material Arrow_Mat_4, compiling. 
+[2020.04.09-02.02.01:652][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-02.02.01:652][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-02.02.01:652][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-02.02.01:652][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-02.02.01:657][456]LogMaterial: Display: Missing cached shader map for material TrainBody_4, compiling. 
+[2020.04.09-02.02.02:125][459]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.04.09-02.02.02:263][467]Cmd: TRANSACTION UNDO
+[2020.04.09-02.02.02:263][467]LogEditorTransaction: Undo Move Actors
+[2020.04.09-02.02.02:337][467]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.04.09-02.02.02:337][467]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.04.09-02.02.02:344][467]LogMaterial: Display: Missing cached shader map for material Arrow_Mat_4, compiling. 
+[2020.04.09-02.02.02:357][467]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.04.09-02.02.02:364][467]LogMaterial: Display: Missing cached shader map for material TrainBody_4, compiling. 
+[2020.04.09-02.02.02:679][468]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.04.09-02.02.02:679][468]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.04.09-02.02.02:799][474]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.09-02.02.02:861][477]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.04.09-02.02.03:172][491]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.04.09-02.02.03:275][496]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.04.09-02.02.03:276][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.04.09-02.02.03:297][496]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.04.09-02.02.03:438][501]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.09-02.02.03:618][509]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.04.09-02.02.03:794][517]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.09-02.02.03:815][518]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.09-02.02.03:999][527]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.04.09-02.02.03:999][527]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.04.09-02.02.04:028][528]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-02.02.04:028][528]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-02.02.04:028][528]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-02.02.04:028][528]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-02.02.04:365][542]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.04.09-02.02.04:384][543]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.09-02.02.04:475][548]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-02.02.04:573][553]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.09-02.02.04:729][560]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.09-02.02.05:088][578]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-02.02.05:088][578]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-02.02.05:088][578]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-02.02.05:088][578]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-02.02.13:722][169]Cmd: TRANSACTION UNDO
+[2020.04.09-02.02.13:722][169]LogEditorTransaction: Undo Move Actors
+[2020.04.09-02.02.13:780][169]LogMaterial: Display: Missing cached shader map for material Arrow_Mat_4, compiling. 
+[2020.04.09-02.02.13:793][169]LogMaterial: Display: Missing cached shader map for material TrainBody_4, compiling. 
+[2020.04.09-02.02.13:801][169]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-02.02.13:801][169]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-02.02.13:801][169]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-02.02.13:801][169]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-02.02.14:174][170]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.04.09-02.02.14:226][172]Cmd: TRANSACTION UNDO
+[2020.04.09-02.02.14:226][172]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.09-02.02.14:252][172]LogMaterial: Display: Missing cached shader map for material Arrow_Mat_4, compiling. 
+[2020.04.09-02.02.14:269][172]LogMaterial: Display: Missing cached shader map for material TrainBody_4, compiling. 
+[2020.04.09-02.02.14:412][172]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.04.09-02.02.14:412][172]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.04.09-02.02.14:412][172]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.04.09-02.02.14:738][180]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.04.09-02.02.14:738][180]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.04.09-02.02.14:895][188]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.04.09-02.02.14:960][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.04.09-02.02.15:025][194]Cmd: TRANSACTION UNDO
+[2020.04.09-02.02.15:025][194]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.09-02.02.15:032][194]LogMaterial: Display: Missing cached shader map for material Arrow_Mat_4, compiling. 
+[2020.04.09-02.02.15:051][194]LogMaterial: Display: Missing cached shader map for material TrainBody_4, compiling. 
+[2020.04.09-02.02.15:269][204]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.04.09-02.02.15:308][206]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.04.09-02.02.15:357][209]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.04.09-02.02.15:461][215]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.04.09-02.02.15:718][226]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.04.09-02.02.15:893][236]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.04.09-02.02.15:962][240]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.04.09-02.02.16:033][244]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.04.09-02.02.16:241][255]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.04.09-02.02.16:320][259]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.04.09-02.02.16:494][268]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.04.09-02.02.16:628][275]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.09-02.02.16:648][276]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-02.02.16:672][277]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-02.02.16:672][277]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-02.02.16:672][277]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-02.02.16:672][277]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-02.02.16:957][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.04.09-02.02.16:994][293]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-02.02.17:141][302]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.04.09-02.02.17:220][306]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-02.02.17:364][314]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-02.02.17:757][335]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-02.02.17:757][335]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-02.02.17:757][335]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-02.02.17:757][335]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-02.02.29:634][242]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.09-02.02.29:650][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-02.02.29:650][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.09-02.02.29:650][242]PIE: New page: PIE session: Train_lvl_Test (Apr 8, 2020, 2:02:29 PM)
+[2020.04.09-02.02.29:650][242]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.09-02.02.29:680][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029773s)
+[2020.04.09-02.02.29:681][242]LogAIModule: Creating AISystem for world Train_lvl_Test
+[2020.04.09-02.02.29:682][242]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2020.04.09-02.02.29:682][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_Test.Train_lvl_Test to /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test (0.031593s)
+[2020.04.09-02.02.29:729][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.04.09-02.02.29:733][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.09-02.02.29:733][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.09-02.02.29:733][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.09-02.02.29:733][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.09-02.02.29:733][242]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.09-02.02.29:733][242]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.09-02.02.29:733][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.09-02.02.29:733][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.09-02.02.29:733][242]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.09-02.02.29:733][242]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.09-02.02.29:752][242]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.09-02.02.29:752][242]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.04.09-02.02.29:752][242]LogAudioMixer: Display: Is Default: Yes
+[2020.04.09-02.02.29:752][242]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.09-02.02.29:752][242]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.09-02.02.29:752][242]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.09-02.02.29:752][242]LogAudioMixer: Display: Channel Order:
+[2020.04.09-02.02.29:752][242]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.09-02.02.29:752][242]LogAudioMixer: Display: 1: FrontRight
+[2020.04.09-02.02.29:762][242]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.04.09-02.02.29:764][242]LogInit: FAudioDevice initialized.
+[2020.04.09-02.02.29:769][242]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.09-02.02.29:774][242]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test up for play (max tick rate 0) at 2020.04.08-20.02.29
+[2020.04.09-02.02.29:775][242]LogWorld: Bringing up level for play took: 0.005324
+[2020.04.09-02.02.29:775][242]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.04.09-02.02.29:778][242]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_Test 0.722
+[2020.04.09-02.02.29:778][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-02.02.58:741][459]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-02.02.58:760][459]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.09-02.02.58:780][459]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.09-02.02.58:781][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-02.02.58:781][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-02.02.58:781][459]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.09-02.02.58:781][459]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-02.02.58:781][459]LogWorld: UWorld::CleanupWorld for Train_lvl_Test, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-02.02.58:782][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-02.02.58:840][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.09-02.02.58:840][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-02.02.58:845][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-02.02.58:879][459]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-02.02.58:883][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-02.02.58:888][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.04.09-02.02.59:075][460]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.04.09-02.08.23:877][529]Cmd: SELECT NONE
+[2020.04.09-02.09.25:714][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.04.09-02.09.25:720][901]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.043
+[2020.04.09-02.19.26:293][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.04.09-02.19.26:294][689]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.062
+[2020.04.09-02.29.26:748][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.09-02.29.26:749][477]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.045
+[2020.04.09-02.39.27:472][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.09-02.39.27:472][266]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.049
+[2020.04.09-02.49.27:968][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.09-02.49.27:969][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.041
+[2020.04.09-02.59.28:568][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.09-02.59.28:569][842]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.035
+[2020.04.09-03.09.29:131][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.09-03.09.29:132][630]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.053
+[2020.04.09-03.19.29:745][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.09-03.19.29:746][418]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.035
+[2020.04.09-03.29.30:494][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.04.09-03.29.30:495][205]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.039
+[2020.04.09-03.39.31:137][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.09-03.39.31:138][993]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.036
+[2020.04.09-03.49.31:773][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.04.09-03.49.31:774][781]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.044
+[2020.04.09-03.59.32:252][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.09-03.59.32:252][570]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.037
+[2020.04.09-04.09.32:939][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.04.09-04.09.32:940][357]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.061
+[2020.04.09-04.19.33:439][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.09-04.19.33:439][145]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.041
+[2020.04.09-04.29.34:054][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.09-04.29.34:054][933]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.044
+[2020.04.09-04.39.34:488][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.09-04.39.34:488][720]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.032
+[2020.04.09-04.49.35:038][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.09-04.49.35:038][507]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.032
+[2020.04.09-04.59.35:598][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.04.09-04.59.35:599][294]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.055
+[2020.04.09-05.09.36:138][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.09-05.09.36:138][ 82]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.045
+[2020.04.09-05.19.36:606][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.09-05.19.36:607][870]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.059
+[2020.04.09-05.29.37:199][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.04.09-05.29.37:200][659]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.048
+[2020.04.09-05.39.37:768][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.09-05.39.37:768][447]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.041
+[2020.04.09-05.49.38:477][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.09-05.49.38:478][235]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.062
+[2020.04.09-05.59.39:123][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.04.09-05.59.39:123][ 23]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.048
+[2020.04.09-06.09.39:738][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.04.09-06.09.39:738][810]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.038
+[2020.04.09-06.19.40:353][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.04.09-06.19.40:354][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.045
+[2020.04.09-06.29.41:012][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.09-06.29.41:013][385]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.039
+[2020.04.09-06.39.41:474][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.04.09-06.39.41:475][173]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.054
+[2020.04.09-06.49.42:168][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.09-06.49.42:168][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.035
+[2020.04.09-06.59.42:786][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.09-06.59.42:786][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.034
+[2020.04.09-07.09.43:579][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.09-07.09.43:579][535]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.045
+[2020.04.09-07.19.44:134][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.04.09-07.19.44:134][321]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.040
+[2020.04.09-07.29.44:808][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.09-07.29.44:808][108]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.041
+[2020.04.09-07.39.45:447][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.09-07.39.45:448][893]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.027
+[2020.04.09-07.49.45:929][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.09-07.49.45:930][679]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.034
+[2020.04.09-07.59.46:488][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.09-07.59.46:489][465]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.050
+[2020.04.09-08.09.47:206][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.04.09-08.09.47:206][253]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.072
+[2020.04.09-08.19.47:596][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.09-08.19.47:597][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.033
+[2020.04.09-08.29.48:202][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.09-08.29.48:203][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.028
+[2020.04.09-08.39.48:888][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.04.09-08.39.48:888][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.034
+[2020.04.09-08.49.49:600][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.09-08.49.49:601][402]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.042
+[2020.04.09-08.59.50:214][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.09-08.59.50:214][188]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.034
+[2020.04.09-09.09.50:903][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.04.09-09.09.50:904][974]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.033
+[2020.04.09-09.19.51:345][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.09-09.19.51:346][760]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.033
+[2020.04.09-09.29.51:939][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.09-09.29.51:939][548]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.037
+[2020.04.09-09.39.52:564][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.09-09.39.52:564][335]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.034
+[2020.04.09-09.49.53:123][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.09-09.49.53:123][122]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.031
+[2020.04.09-09.59.53:808][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.09-09.59.53:808][908]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.044
+[2020.04.09-10.09.54:488][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.09-10.09.54:488][695]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.035
+[2020.04.09-10.19.55:193][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.09-10.19.55:194][481]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.050
+[2020.04.09-10.29.55:690][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.04.09-10.29.55:691][267]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.043
+[2020.04.09-10.39.56:093][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.09-10.39.56:094][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.032
+[2020.04.09-10.49.56:894][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.04.09-10.49.56:895][841]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.056
+[2020.04.09-10.59.57:600][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.04.09-10.59.57:600][629]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.069
+[2020.04.09-11.09.58:079][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.09-11.09.58:080][416]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.041
+[2020.04.09-11.19.58:458][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.09-11.19.58:458][203]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.033
+[2020.04.09-11.29.59:086][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.09-11.29.59:087][990]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.053
+[2020.04.09-11.39.59:621][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.04.09-11.39.59:621][777]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.029
+[2020.04.09-11.50.00:061][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.09-11.50.00:062][562]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.044
+[2020.04.09-12.00.00:811][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.04.09-12.00.00:812][348]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.043
+[2020.04.09-12.10.01:345][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.04.09-12.10.01:346][135]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.043
+[2020.04.09-12.20.01:923][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.09-12.20.01:923][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.031
+[2020.04.09-12.30.02:648][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.04.09-12.30.02:648][710]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.056
+[2020.04.09-12.40.03:117][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.09-12.40.03:118][497]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.041
+[2020.04.09-12.50.03:650][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.09-12.50.03:651][283]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.033
+[2020.04.09-13.00.04:234][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.04.09-13.00.04:234][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.068
+[2020.04.09-13.10.04:647][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.09-13.10.04:647][855]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.041
+[2020.04.09-13.20.05:437][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.04.09-13.20.05:438][642]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.053
+[2020.04.09-13.30.06:063][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.04.09-13.30.06:063][429]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.057
+[2020.04.09-13.40.06:798][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.04.09-13.40.06:798][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.033
+[2020.04.09-13.50.07:477][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.04.09-13.50.07:478][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.042
+[2020.04.09-14.00.07:949][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.04.09-14.00.07:950][791]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.041
+[2020.04.09-14.10.08:642][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.09-14.10.08:642][578]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.030
+[2020.04.09-14.20.09:399][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.04.09-14.20.09:400][365]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.050
+[2020.04.09-14.30.10:123][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.04.09-14.30.10:123][151]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.050
+[2020.04.09-14.40.10:563][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.09-14.40.10:564][936]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.029
+[2020.04.09-14.50.11:308][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.09-14.50.11:309][723]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.030
+[2020.04.09-15.00.12:003][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.09-15.00.12:004][511]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.039
+[2020.04.09-15.10.12:690][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.09-15.10.12:690][298]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_Test' took 0.042
+[2020.04.09-15.12.05:460][159]Cmd: SELECT NONE
+[2020.04.09-15.12.11:317][436]LogSlate: Window 'Message' being destroyed
+[2020.04.09-15.12.13:515][436]LogMaterial: Display: Missing cached shader map for material TrainBody_4, compiling. 
+[2020.04.09-15.12.13:570][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-15.12.13:571][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-15.12.13:571][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-15.12.13:571][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-15.12.13:590][436]LogMaterial: Display: Missing cached shader map for material Pavement, compiling. 
+[2020.04.09-15.12.13:658][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.04.09-15.12.13:676][436]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.09-15.12.14:913][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.04.09-15.12.14:913][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.04.09-15.12.14:913][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.04.09-15.12.14:913][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.04.09-15.12.14:913][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.04.09-15.12.14:913][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.04.09-15.12.14:913][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.04.09-15.12.14:913][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.04.09-15.12.14:913][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.09-15.12.14:913][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.09-15.12.14:913][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.09-15.12.14:917][436]TextureStreamingBuild: Display: Compiling optional shaders took 1.256 seconds.
+[2020.04.09-15.12.14:958][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.04.09-15.12.15:646][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.09-15.12.15:970][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-15.12.15:987][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.09-15.12.18:050][436]LogSlate: Window 'Message' being destroyed
+[2020.04.09-15.12.18:470][436]LogMaterial: Display: Missing cached shader map for material Arrow_Mat_4, compiling. 
+[2020.04.09-15.12.18:519][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-15.12.18:519][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-15.12.18:519][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-15.12.18:519][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-15.12.18:537][436]LogMaterial: Display: Missing cached shader map for material grass, compiling. 
+[2020.04.09-15.12.18:604][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.04.09-15.12.18:617][436]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.09-15.12.19:688][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.04.09-15.12.19:688][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.04.09-15.12.19:688][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.04.09-15.12.19:688][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.04.09-15.12.19:688][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.04.09-15.12.19:688][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.04.09-15.12.19:688][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.09-15.12.19:688][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.04.09-15.12.19:688][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.04.09-15.12.19:688][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.09-15.12.19:688][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.09-15.12.19:692][436]TextureStreamingBuild: Display: Compiling optional shaders took 1.088 seconds.
+[2020.04.09-15.12.19:736][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.04.09-15.12.19:812][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.04.09-15.12.20:355][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-15.12.20:679][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.09-15.12.20:732][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.09-15.12.21:240][436]LogSlate: Window 'Save Content' being destroyed
+[2020.04.09-15.12.21:327][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/grass" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/grass.uasset" SILENT=true
+[2020.04.09-15.12.21:356][436]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/grass004C77314269234DC3B75A830AE00F57.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/grass.uasset'
+[2020.04.09-15.12.21:372][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/Pavement" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/Pavement.uasset" SILENT=true
+[2020.04.09-15.12.21:398][436]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Pavement54114E0C492C3D84FB15A4BC994AB197.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/Pavement.uasset'
+[2020.04.09-15.12.21:470][436]LogSlate: Window 'Train_lvl_Test' being destroyed
+[2020.04.09-15.12.21:512][436]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.21:512][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-15.12.21:542][436]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.21:543][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-15.12.21:659][436]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.21:659][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-15.12.21:678][436]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.21:678][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-15.12.21:770][436]LogSlate: Window 'ProjectTrain - Unreal Editor' being destroyed
+[2020.04.09-15.12.21:770][436]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.09-15.12.21:928][436]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.09-15.12.21:928][436]LogContentValidation: Display: Validating Material /Game/Models/Materials/grass.grass
+[2020.04.09-15.12.21:928][436]LogContentValidation: Display: Validating Material /Game/Models/Materials/Pavement.Pavement
+[2020.04.09-15.12.21:940][437]Cmd: QUIT_EDITOR
+[2020.04.09-15.12.21:940][437]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.04.09-15.12.21:948][437]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.04.09-15.12.21:948][437]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-15.12.22:864][437]LogExit: Preparing to exit.
+[2020.04.09-15.12.23:980][437]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.23:984][437]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.23:986][437]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.23:989][437]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.23:990][437]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.23:992][437]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.23:995][437]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.23:997][437]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.24:450][437]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.09-15.12.24:475][437]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-15.12.24:475][437]LogExit: Editor shut down
+[2020.04.09-15.12.24:475][437]LogExit: Transaction tracking system shut down
+[2020.04.09-15.12.24:816][437]LogExit: Object subsystem successfully closed.
+[2020.04.09-15.12.24:836][437]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (708)
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module BlueprintGraph (706)
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (704)
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (702)
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module Voice (700)
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module MeshBuilder (698)
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.04.09-15.12.24:858][437]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.04.09-15.12.24:859][437]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.04.09-15.12.24:860][437]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.04.09-15.12.25:984][437]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.04.09-15.12.25:984][437]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.04.09-15.12.25:984][437]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.04.09-15.12.25:985][437]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.04.09-15.12.26:018][437]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.04.09-15.12.26:018][437]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.04.09-15.12.26:018][437]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.04.09-15.12.26:018][437]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.04.09-15.12.26:018][437]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.04.09-15.12.26:018][437]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.04.09-15.12.26:018][437]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.04.09-15.12.26:018][437]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.04.09-15.12.26:018][437]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.04.09-15.12.26:018][437]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.04.09-15.12.26:018][437]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.04.09-15.12.26:023][437]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.04.09-15.12.26:023][437]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.04.09-15.12.26:023][437]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.04.09-15.12.26:023][437]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.04.09-15.12.26:023][437]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.04.09-15.12.26:023][437]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.04.09-15.12.26:023][437]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.04.09-15.12.26:026][437]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.04.09-15.12.26:029][437]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.04.09-15.12.26:242][437]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.04.09-15.12.26:243][437]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.04.09-15.12.26:344][437]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.04.09-15.12.26:445][437]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.04.09-15.12.26:445][437]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.04.09-15.12.26:445][437]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.04.09-15.12.26:446][437]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.04.09-15.12.26:446][437]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.04.09-15.12.26:446][437]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.04.09-15.12.26:446][437]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.04.09-15.12.26:446][437]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.04.09-15.12.26:447][437]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.04.09-15.12.26:447][437]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.04.09-15.12.26:447][437]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.04.09-15.12.26:447][437]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.04.09-15.12.26:447][437]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.04.09-15.12.26:448][437]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.04.09-15.12.26:449][437]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.04.09-15.12.26:449][437]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.04.09-15.12.26:449][437]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.04.09-15.12.26:450][437]LogDerivedDataCache: Shutdown
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.04.09-15.12.26:450][437]LogXGEController: Cleaning working directory: C:/Users/jacob/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.04.09-15.12.26:450][437]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.04.09-15.12.26:451][437]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.04.09-15.12.26:452][437]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.04.09-15.12.26:452][437]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.04.09-15.12.26:452][437]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.04.09-15.12.26:452][437]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.04.09-15.12.26:452][437]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.04.09-15.12.26:452][437]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.04.09-15.12.26:452][437]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.04.09-15.12.26:452][437]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.04.09-15.12.26:452][437]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.04.09-15.12.26:458][437]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.04.09-15.12.26:458][437]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.04.09-15.12.26:460][437]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.04.09-15.12.26:460][437]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.04.09-15.12.26:484][437]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.04.09-15.12.26:484][437]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.09-15.12.26:484][437]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5746D756-4B98-D776-1753-9683F8209623%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=18bed75a4fc299dd3d6c7399c88cbf4e%7Ca3cfd7fdd0724795a0624a34ba144df0%7Ccca57435-c1a8-414a-8001-df8f07c7677d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.04.09-15.12.26:497][437]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.04.09-15.12.26:499][437]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.04.09-15.12.26:501][437]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.04.09-15.12.26:501][437]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.04.09-15.12.26:501][437]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.04.09-15.12.26:501][437]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.09-15.12.26:502][437]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.09-15.12.26:503][437]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.09-15.12.26:506][437]LogD3D11RHI: Shutdown
+[2020.04.09-15.12.26:506][437]LogD3D11RHI: CleanupD3DDevice
+[2020.04.09-15.12.26:533][437]LogExit: Exiting.
+[2020.04.09-15.12.26:538][437]Log file closed, 04/09/20 09:12:26
