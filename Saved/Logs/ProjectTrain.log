@@ -2890,3 +2890,1202 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.09-00.21.49:731][477]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_Test22518C3D497431B6C12A70BD51A50D59.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
 [2020.04.09-00.21.49:776][477]AssetCheck: New page: Asset Save: Train_lvl_Test
 [2020.04.09-00.21.49:776][477]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
+[2020.04.09-00.22.29:955][366]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Materials/Metal_Railings.Metal_Railings
+[2020.04.09-00.22.29:960][366]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.22.30:037][366]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.22.30:050][366]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.22.30:065][366]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.22.30:065][366]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.22.30:065][366]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.22.30:066][366]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.22.30:599][386]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.22.30:867][402]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.09-00.22.30:886][403]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.09-00.22.30:920][405]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.22.31:324][430]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.09-00.22.31:645][451]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.09-00.22.31:645][451]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.09-00.22.31:645][451]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.22.31:645][451]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.22.35:329][876]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.22.35:342][876]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.22.35:342][876]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.22.35:342][876]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.22.35:342][876]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.22.35:342][876]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.22.35:354][876]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.22.35:373][876]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.22.35:747][898]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.04.09-00.22.35:975][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.04.09-00.22.36:007][915]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.04.09-00.22.36:017][916]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.09-00.22.36:354][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.09-00.22.36:405][938]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.09-00.22.36:662][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.09-00.22.36:697][957]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.09-00.22.36:810][965]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.09-00.22.36:996][980]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.09-00.22.37:140][993]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.22.37:152][994]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.09-00.22.37:225][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.09-00.22.37:264][  1]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.09-00.22.37:264][  1]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.09-00.22.37:264][  1]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.22.37:264][  1]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.22.42:333][549]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.22.42:346][549]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.22.42:392][550]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.22.42:392][550]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.22.42:392][550]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.22.42:392][550]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.22.42:788][575]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.22.43:023][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.22.43:072][593]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.22.43:116][596]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.22.43:443][613]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.22.43:807][637]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.09-00.22.43:807][637]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.09-00.22.43:807][637]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.22.43:807][637]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.22.49:380][258]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.22.49:393][258]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.22.49:429][259]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.22.49:429][259]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.22.49:429][259]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.22.49:429][259]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.22.49:846][285]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.22.50:113][302]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.22.50:161][305]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.22.50:176][306]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.22.50:510][328]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.22.50:840][350]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.04.09-00.22.50:841][350]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2020.04.09-00.22.50:841][350]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.22.50:841][350]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.22.58:017][122]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.22.58:030][122]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.22.58:069][123]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.22.58:069][123]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.22.58:069][123]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.22.58:069][123]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.22.58:473][148]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.22.58:766][164]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.22.58:798][167]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.22.58:816][168]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.22.59:185][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.22.59:504][215]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.04.09-00.22.59:504][215]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2020.04.09-00.22.59:504][215]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.22.59:504][215]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.25.20:701][635]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.25.20:714][635]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.25.20:735][636]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.25.20:735][636]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.25.20:735][636]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.25.20:735][636]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.25.21:260][671]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.25.21:519][688]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.09-00.25.21:554][690]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.09-00.25.21:569][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.25.21:923][713]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.09-00.25.22:258][738]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.04.09-00.25.22:258][738]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2020.04.09-00.25.22:258][738]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.25.22:258][738]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.27.20:438][787]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.20:463][788]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.27.20:463][788]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.27.20:463][788]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.27.20:463][788]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.27.21:012][823]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.27.21:285][841]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.27.21:300][842]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.27.21:332][844]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.27.21:705][868]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.27.22:047][892]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.04.09-00.27.22:047][892]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2020.04.09-00.27.22:047][892]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.27.22:047][892]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.27.32:000][859]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.32:015][859]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.32:034][860]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.27.32:034][860]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.27.32:034][860]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.27.32:034][860]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.27.32:456][888]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.27.32:677][903]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.27.32:735][907]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.27.32:753][908]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.27.33:150][933]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.27.33:479][955]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.04.09-00.27.33:479][955]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2020.04.09-00.27.33:479][955]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.27.33:479][955]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.27.34:412][ 47]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.34:430][ 48]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.27.34:430][ 48]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.27.34:430][ 48]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.27.34:430][ 48]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.27.34:844][ 76]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.27.35:127][ 92]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.27.35:179][ 96]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.27.35:191][ 97]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.27.35:519][117]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.27.35:860][142]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.04.09-00.27.35:860][142]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2020.04.09-00.27.35:860][142]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.27.35:860][142]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.27.38:167][371]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.38:180][371]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.38:201][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.27.38:201][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.27.38:201][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.27.38:201][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.27.38:623][399]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.27.38:864][415]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.27.38:879][416]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.27.38:896][417]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.27.39:308][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.27.39:642][465]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.04.09-00.27.39:642][465]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2020.04.09-00.27.39:642][465]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.27.39:642][465]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.27.40:377][534]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.40:399][535]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.27.40:399][535]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.27.40:399][535]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.27.40:399][535]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.27.40:873][566]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.27.41:081][580]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.27.41:124][583]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.27.41:139][584]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.27.41:530][607]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.27.41:864][630]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.04.09-00.27.41:864][630]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2020.04.09-00.27.41:864][630]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.27.41:864][630]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.27.46:629][111]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.46:642][111]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.46:663][112]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.27.46:663][112]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.27.46:663][112]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.27.46:663][112]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.27.47:151][142]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.27.47:371][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.27.47:372][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.27.47:399][157]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.27.47:779][179]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.27.47:848][182]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.47:859][182]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.09-00.27.47:938][188]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.27.47:994][192]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.09-00.27.48:155][197]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.04.09-00.27.48:419][212]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.09-00.27.48:557][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.09-00.27.48:632][225]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.27.48:821][234]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.09-00.27.48:956][242]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.09-00.27.49:604][297]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.49:617][297]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.27.49:617][297]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.27.49:617][297]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.27.49:617][297]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.27.49:621][297]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.27.50:041][320]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.09-00.27.50:309][336]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.09-00.27.50:324][337]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.09-00.27.50:358][339]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.09-00.27.50:717][360]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.09-00.27.50:733][361]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.09-00.27.50:892][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.27.50:939][375]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.27.51:114][385]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.27.51:115][385]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.09-00.27.51:115][385]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.09-00.27.51:115][385]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.27.51:115][385]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.27.55:005][749]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.55:025][749]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.27.55:025][749]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.27.55:025][749]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.27.55:025][749]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.27.55:025][749]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.27.55:035][749]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.09-00.27.55:472][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.09-00.27.55:753][792]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.09-00.27.55:772][793]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.09-00.27.55:772][793]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.09-00.27.56:181][818]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.09-00.27.56:196][819]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.09-00.27.56:338][829]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.27.56:397][833]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.27.56:553][844]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.27.56:580][845]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.09-00.27.56:580][845]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.09-00.27.56:580][845]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.27.56:580][845]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.27.59:974][168]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.27.59:988][168]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.28.00:007][169]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.28.00:008][169]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.28.00:008][169]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.28.00:008][169]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.28.00:427][197]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.28.00:673][213]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.28.00:721][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.28.00:738][217]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.28.01:069][238]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.28.01:410][264]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.09-00.28.01:410][264]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.09-00.28.01:410][264]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.28.01:410][264]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.28.03:297][453]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.28.03:310][453]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.28.03:329][454]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.28.03:329][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.28.03:329][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.28.03:329][454]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.28.03:767][483]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.28.03:992][498]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.28.04:039][501]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.28.04:055][502]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.28.04:455][526]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.28.04:770][551]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.09-00.28.04:770][551]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.09-00.28.04:770][551]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.28.04:770][551]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.28.06:943][758]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.28.06:961][759]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.28.06:962][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.28.06:962][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.28.06:962][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.28.07:378][785]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.28.07:584][798]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.28.07:645][802]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.28.07:662][803]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.28.08:013][825]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.28.08:410][851]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.09-00.28.08:410][851]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.09-00.28.08:410][851]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.28.08:410][851]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.28.19:325][834]LogMaterialEditor: Saving and Compiling material Metal_Railings
+[2020.04.09-00.28.19:749][834]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.28.19:778][834]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.28.19:778][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.28.19:778][834]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.28.19:778][834]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.28.19:813][834]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.28.19:890][834]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.04.09-00.28.19:904][834]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.09-00.28.20:904][834]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.04.09-00.28.20:904][834]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.04.09-00.28.20:904][834]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.04.09-00.28.20:904][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.04.09-00.28.20:904][834]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.04.09-00.28.20:904][834]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.04.09-00.28.20:904][834]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.09-00.28.20:904][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.04.09-00.28.20:904][834]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.04.09-00.28.20:904][834]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.09-00.28.20:904][834]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.09-00.28.20:908][834]TextureStreamingBuild: Display: Compiling optional shaders took 1.017 seconds.
+[2020.04.09-00.28.20:952][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.04.09-00.28.22:097][834]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.28.22:097][834]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.09-00.28.22:097][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.09-00.28.22:140][834]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Metal_Railings456E006146F0C3E84CBC3F85A11089EE.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/Metal_Railings.uasset'
+[2020.04.09-00.28.22:188][834]AssetCheck: New page: Asset Save: Metal_Railings
+[2020.04.09-00.28.22:188][834]LogContentValidation: Display: Validating Material /Game/Models/Materials/Metal_Railings.Metal_Railings
+[2020.04.09-00.28.22:195][834]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.09-00.28.22:195][834]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.09-00.28.22:195][834]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.28.22:195][834]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.09-00.29.21:237][884]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Materials/TrainBody.TrainBody
+[2020.04.09-00.29.21:241][884]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.21:319][884]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.21:332][884]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.21:348][884]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.29.21:348][884]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.29.21:348][884]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.29.21:348][884]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.29.21:854][903]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.29.22:076][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.29.22:112][915]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.29.22:141][916]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.29.22:481][932]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.29.22:845][956]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.09-00.29.22:845][956]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.09-00.29.22:845][956]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.29.22:845][956]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.29.28:372][581]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.28:385][581]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.29.28:385][581]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.29.28:385][581]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.29.28:385][581]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.29.28:385][581]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.29.28:397][581]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.28:420][581]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.29.28:823][605]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.04.09-00.29.29:106][623]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.04.09-00.29.29:124][624]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.04.09-00.29.29:139][625]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.09-00.29.29:518][649]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.09-00.29.29:536][650]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.09-00.29.29:775][663]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.09-00.29.29:792][664]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.09-00.29.29:919][673]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.09-00.29.30:170][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.09-00.29.30:271][700]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.29.30:283][701]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.09-00.29.30:306][703]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.09-00.29.30:537][720]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.09-00.29.30:537][720]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.09-00.29.30:537][720]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.29.30:537][720]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.29.32:852][935]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.32:868][935]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.29.32:868][935]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.29.32:868][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.29.32:868][935]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.29.32:868][935]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.29.33:322][959]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.09-00.29.33:609][977]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.29.33:625][978]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.09-00.29.33:641][979]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.29.33:853][993]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.33:878][993]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.29.33:892][993]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.09-00.29.34:013][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.04.09-00.29.34:074][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.04.09-00.29.34:185][ 10]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.09-00.29.34:240][ 14]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.04.09-00.29.34:594][ 33]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.29.34:668][ 38]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.29.34:757][ 44]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.29.34:901][ 52]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.29.35:065][ 63]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.04.09-00.29.35:350][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.29.35:367][ 81]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.04.09-00.29.35:495][ 90]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.29.35:524][ 92]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.09-00.29.35:546][ 93]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.09-00.29.35:546][ 93]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.09-00.29.35:546][ 93]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.29.35:546][ 93]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.29.41:113][711]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.41:126][711]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.41:158][712]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.29.41:158][712]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.29.41:158][712]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.29.41:158][712]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.29.41:595][739]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.29.41:852][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.29.41:900][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.29.41:900][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.29.42:248][780]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.29.42:592][804]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.29.42:592][804]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.29.42:592][804]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.29.42:592][804]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.29.49:318][475]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.49:331][475]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.49:352][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.29.49:352][476]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.29.49:352][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.29.49:352][476]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.29.49:823][505]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.29.50:041][519]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.29.50:057][520]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.29.50:105][523]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.29.50:468][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.29.50:816][570]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.29.50:816][570]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.29.50:816][570]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.29.50:816][570]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.29.51:150][602]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.51:169][603]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.29.51:169][603]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.29.51:169][603]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.29.51:169][603]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.29.51:531][630]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.29.51:691][644]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.29.51:739][648]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.29.51:753][649]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.29.52:073][673]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.29.52:434][698]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.29.52:434][698]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.29.52:434][698]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.29.52:434][698]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.29.57:500][266]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.57:513][266]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.29.57:549][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.29.57:549][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.29.57:549][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.29.57:549][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.29.57:985][294]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.29.58:266][312]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.29.58:297][314]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.29.58:311][315]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.29.58:688][338]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.29.59:034][364]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.29.59:034][364]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.29.59:034][364]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.29.59:034][364]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.30.08:898][342]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.08:914][342]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.08:936][343]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.30.08:936][343]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.30.08:936][343]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.30.08:936][343]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.30.09:369][371]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.30.09:583][385]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.30.09:612][387]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.30.09:629][388]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.30.09:982][409]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.30.10:315][433]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.30.10:315][433]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.30.10:315][433]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.30.10:315][433]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.30.11:030][502]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.11:052][503]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.30.11:052][503]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.30.11:052][503]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.30.11:052][503]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.30.11:498][531]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.30.11:724][546]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.30.11:752][548]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.30.11:766][549]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.30.12:115][571]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.30.12:457][596]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.30.12:458][596]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.30.12:458][596]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.30.12:458][596]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.30.12:835][633]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.12:848][633]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.12:868][634]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.30.12:868][634]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.30.12:868][634]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.30.12:868][634]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.30.13:301][662]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.30.13:533][677]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.30.13:549][678]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.30.13:566][679]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.30.13:974][700]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.30.14:282][722]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.30.14:282][722]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.30.14:282][722]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.30.14:282][722]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.30.14:541][748]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.14:572][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.30.14:572][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.30.14:572][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.30.14:572][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.30.14:957][779]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.30.15:133][793]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.30.15:182][797]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.30.15:182][797]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.30.15:462][819]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.30.15:796][841]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.30.15:796][841]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.30.15:796][841]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.30.15:796][841]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.30.20:648][300]LogMaterialEditor: Saving and Compiling material TrainBody
+[2020.04.09-00.30.21:061][300]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.21:113][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.30.21:113][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.30.21:113][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.30.21:113][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.30.21:131][300]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.21:200][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.04.09-00.30.21:216][300]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.09-00.30.22:208][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.04.09-00.30.22:208][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.04.09-00.30.22:208][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.04.09-00.30.22:208][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.04.09-00.30.22:208][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.04.09-00.30.22:208][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.04.09-00.30.22:208][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.09-00.30.22:208][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.04.09-00.30.22:208][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.09-00.30.22:208][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.04.09-00.30.22:208][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.09-00.30.22:215][300]TextureStreamingBuild: Display: Compiling optional shaders took 1.014 seconds.
+[2020.04.09-00.30.22:256][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.09-00.30.23:425][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.30.23:425][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.30.23:425][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.30.23:462][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/TrainBody" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/TrainBody.uasset" SILENT=true
+[2020.04.09-00.30.23:476][300]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/TrainBody458203594D57AA72F8EF628D72410776.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/TrainBody.uasset'
+[2020.04.09-00.30.23:524][300]AssetCheck: New page: Asset Save: TrainBody
+[2020.04.09-00.30.23:524][300]LogContentValidation: Display: Validating Material /Game/Models/Materials/TrainBody.TrainBody
+[2020.04.09-00.30.23:526][300]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.30.23:526][300]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.30.23:526][300]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.30.23:526][300]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.09-00.30.38:547][717]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.38:561][717]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.38:581][718]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.30.38:581][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.30.38:581][718]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.30.38:581][718]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.30.39:015][745]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.30.39:238][760]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.30.39:287][763]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.30.39:302][764]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.30.39:646][783]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.30.39:976][805]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.30.39:976][805]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.30.39:976][805]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.30.39:976][805]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.30.48:451][643]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.48:464][643]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.48:484][644]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.30.48:484][644]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.30.48:484][644]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.30.48:484][644]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.30.48:948][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.30.49:174][687]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.30.49:191][688]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.30.49:206][689]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.30.49:564][711]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.30.49:910][735]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.30.49:910][735]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.30.49:910][735]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.30.49:910][735]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.30.50:134][754]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.30.50:156][755]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.30.50:156][755]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.30.50:156][755]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.30.50:156][755]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.30.50:580][782]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.30.50:821][797]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.30.50:851][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.30.50:868][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.30.51:214][821]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.30.51:556][845]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.30.51:556][845]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.30.51:556][845]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.30.51:556][845]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.31.01:172][771]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.31.01:184][771]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.31.01:203][772]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.31.01:203][772]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.31.01:203][772]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.01:203][772]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.31.01:649][801]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.31.01:863][815]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.31.01:893][817]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.31.01:923][819]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.31.02:296][842]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.31.02:630][864]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.31.02:630][864]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.31.02:630][864]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.31.02:630][864]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.31.03:732][968]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.31.03:756][969]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.31.03:756][969]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.31.03:756][969]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.03:756][969]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.31.04:200][996]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.31.04:485][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.31.04:502][ 15]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.31.04:502][ 15]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.31.04:876][ 39]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.31.05:204][ 62]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.31.05:204][ 62]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.31.05:204][ 62]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.31.05:204][ 62]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.31.09:605][484]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.31.09:618][484]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.31.09:637][485]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.31.09:637][485]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.31.09:637][485]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.09:637][485]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.31.10:060][513]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.31.10:305][529]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.31.10:340][531]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.31.10:354][532]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.31.10:751][556]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.31.11:074][578]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.31.11:074][578]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.31.11:074][578]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.31.11:074][578]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.31.11:183][587]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.31.11:209][588]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.31.11:209][588]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.31.11:209][588]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.11:209][588]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.31.11:630][614]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.31.11:847][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.31.11:876][631]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.31.11:891][632]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.31.12:258][654]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.31.12:580][678]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.31.12:580][678]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.31.12:580][678]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.31.12:580][678]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.31.21:850][472]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.31.21:918][473]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.04.09-00.31.21:918][473]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.09-00.31.21:918][473]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.21:918][473]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.31.23:648][538]LogMaterial: Display: Missing cached shader map for material TrainBody_3, compiling. 
+[2020.04.09-00.31.23:666][538]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.04.09-00.31.23:666][538]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.09-00.31.23:666][538]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.09-00.31.23:716][539]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.04.09-00.31.24:169][547]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.09-00.31.24:557][563]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.09-00.31.25:743][620]LogMaterial: Display: Missing cached shader map for material TrainBody_4, compiling. 
+[2020.04.09-00.31.25:799][621]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.04.09-00.31.25:799][621]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.09-00.31.25:799][621]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.25:799][621]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.31.27:873][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.04.09-00.31.29:125][706]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.09-00.31.29:229][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.04.09-00.31.30:268][770]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Materials/TrainBody_2.TrainBody_2
+[2020.04.09-00.31.30:273][770]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.31.30:352][770]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.31.30:361][770]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.31.30:361][770]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.31.30:361][770]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.30:361][770]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.31.30:365][770]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.31.30:388][770]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.31.30:768][782]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.04.09-00.31.30:986][796]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.04.09-00.31.31:018][798]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.04.09-00.31.31:034][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.09-00.31.31:441][822]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.04.09-00.31.31:461][823]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.04.09-00.31.31:728][838]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.09-00.31.31:728][838]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.09-00.31.31:820][842]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.31.32:119][860]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.09-00.31.32:254][868]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.04.09-00.31.32:271][869]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.09-00.31.32:367][875]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.09-00.31.32:390][876]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.31.32:390][876]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.31.32:390][876]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.31.32:390][876]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.31.34:660][ 93]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.31.34:677][ 93]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.31.34:677][ 93]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.31.34:677][ 93]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.34:677][ 93]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.31.34:677][ 93]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.31.35:103][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.09-00.31.35:320][127]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.09-00.31.35:379][131]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.09-00.31.35:391][132]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.09-00.31.35:437][135]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.31.35:460][135]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.31.35:472][135]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.09-00.31.35:801][155]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.04.09-00.31.35:850][158]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.04.09-00.31.36:008][167]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.04.09-00.31.36:032][168]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.09-00.31.36:436][183]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.04.09-00.31.36:465][184]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.09-00.31.36:516][186]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.36:646][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.09-00.31.36:829][196]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.09-00.31.37:075][211]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.09-00.31.37:106][213]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.31.37:239][221]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.09-00.31.37:263][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.09-00.31.37:264][222]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.31.37:264][222]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.31.37:264][222]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.31.37:264][222]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.31.38:038][284]LogMaterialEditor: Saving and Compiling material TrainBody_2
+[2020.04.09-00.31.38:453][284]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.31.38:499][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.31.38:499][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.31.38:499][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.38:499][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.31.38:518][284]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.31.38:588][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.04.09-00.31.38:605][284]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.09-00.31.39:618][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.04.09-00.31.39:618][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.04.09-00.31.39:618][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.04.09-00.31.39:618][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.04.09-00.31.39:618][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.04.09-00.31.39:618][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.04.09-00.31.39:618][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.09-00.31.39:618][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.04.09-00.31.39:618][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.04.09-00.31.39:618][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.09-00.31.39:618][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.09-00.31.39:624][284]TextureStreamingBuild: Display: Compiling optional shaders took 1.036 seconds.
+[2020.04.09-00.31.39:666][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.09-00.31.40:851][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.31.40:851][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.09-00.31.40:851][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.09-00.31.40:877][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/TrainBody_2" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/TrainBody_2.uasset" SILENT=true
+[2020.04.09-00.31.40:893][284]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/TrainBody_23C5C0D0540A2B4ED73922D93B9BAA5A2.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/TrainBody_2.uasset'
+[2020.04.09-00.31.40:940][284]AssetCheck: New page: Asset Save: TrainBody_2
+[2020.04.09-00.31.40:940][284]LogContentValidation: Display: Validating Material /Game/Models/Materials/TrainBody_2.TrainBody_2
+[2020.04.09-00.31.40:947][284]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.31.40:947][284]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.31.40:947][284]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.31.40:947][284]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.09-00.31.42:368][373]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Materials/TrainBody_3.TrainBody_3
+[2020.04.09-00.31.42:372][373]LogMaterial: Display: Missing cached shader map for material TrainBody_3, compiling. 
+[2020.04.09-00.31.42:451][373]LogMaterial: Display: Missing cached shader map for material TrainBody_3, compiling. 
+[2020.04.09-00.31.42:463][373]LogMaterial: Display: Missing cached shader map for material TrainBody_3, compiling. 
+[2020.04.09-00.31.42:482][373]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.31.42:482][373]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.31.42:482][373]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.42:482][373]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.31.42:482][373]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.31.42:864][383]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.09-00.31.43:085][390]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.09-00.31.43:137][393]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.09-00.31.43:156][394]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.09-00.31.43:509][416]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.09-00.31.43:572][419]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.09-00.31.43:711][428]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.31.43:765][431]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.31.43:951][442]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.31.43:983][443]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.31.43:983][443]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.31.43:983][443]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.31.43:983][443]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.31.49:247][916]LogMaterial: Display: Missing cached shader map for material TrainBody_3, compiling. 
+[2020.04.09-00.31.49:261][916]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.31.49:268][916]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.31.49:268][916]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.31.49:268][916]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.49:268][916]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.31.49:694][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.09-00.31.49:903][954]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.09-00.31.49:952][957]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.04.09-00.31.49:952][957]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.31.50:302][978]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.09-00.31.50:384][983]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.09-00.31.50:567][995]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.31.50:617][998]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.31.50:697][  3]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.31.50:722][  4]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.09-00.31.50:722][  4]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.09-00.31.50:722][  4]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.31.50:723][  4]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.31.52:361][146]LogMaterial: Display: Missing cached shader map for material TrainBody_3, compiling. 
+[2020.04.09-00.31.52:377][146]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.31.52:377][146]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.31.52:377][146]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.31.52:377][146]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.31.52:383][146]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.09-00.31.52:392][146]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.09-00.31.52:808][171]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.09-00.31.53:058][187]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.09-00.31.53:100][189]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.09-00.31.53:116][190]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.09-00.31.53:374][208]LogMaterialEditor: Saving and Compiling material TrainBody_3
+[2020.04.09-00.31.53:930][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.09-00.31.53:930][208]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.09-00.31.53:930][208]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.09-00.31.53:930][208]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.31.53:930][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.31.53:945][208]LogMaterial: Display: Missing cached shader map for material TrainBody_3, compiling. 
+[2020.04.09-00.31.53:975][208]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.04.09-00.31.53:975][208]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.04.09-00.31.53:975][208]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.09-00.31.53:996][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.04.09-00.31.54:016][208]LogMaterial: Display: Missing cached shader map for material TrainBody_3, compiling. 
+[2020.04.09-00.31.54:084][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.04.09-00.31.54:102][208]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.09-00.31.55:107][208]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.04.09-00.31.55:107][208]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.04.09-00.31.55:107][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.04.09-00.31.55:107][208]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.04.09-00.31.55:107][208]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.04.09-00.31.55:107][208]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.04.09-00.31.55:107][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.04.09-00.31.55:107][208]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.04.09-00.31.55:107][208]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.04.09-00.31.55:107][208]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.31.55:107][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.09-00.31.55:112][208]TextureStreamingBuild: Display: Compiling optional shaders took 1.027 seconds.
+[2020.04.09-00.31.55:154][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.04.09-00.31.56:304][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.09-00.31.56:304][208]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.31.56:304][208]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.09-00.31.56:336][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/TrainBody_3" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/TrainBody_3.uasset" SILENT=true
+[2020.04.09-00.31.56:352][208]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/TrainBody_3E9B8B4574D77A9D52A1C5AB30E4A78CD.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/TrainBody_3.uasset'
+[2020.04.09-00.31.56:390][208]AssetCheck: New page: Asset Save: TrainBody_3
+[2020.04.09-00.31.56:390][208]LogContentValidation: Display: Validating Material /Game/Models/Materials/TrainBody_3.TrainBody_3
+[2020.04.09-00.31.56:399][208]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.09-00.31.56:399][208]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.09-00.31.56:399][208]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.31.56:399][208]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.09-00.32.22:140][647]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.32.22:153][647]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.32.22:173][648]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.32.22:173][648]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.32.22:173][648]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.32.22:173][648]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.32.22:730][685]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.32.22:980][701]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.09-00.32.22:980][701]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.09-00.32.23:027][704]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.09-00.32.23:386][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.09-00.32.23:737][749]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.32.23:737][749]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.32.23:737][749]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.32.23:737][749]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.32.24:908][855]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.32.24:931][856]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.09-00.32.24:931][856]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.09-00.32.24:931][856]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.09-00.32.24:931][856]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.09-00.32.25:427][887]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.09-00.32.25:620][900]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.09-00.32.25:669][903]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.09-00.32.25:685][904]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.09-00.32.26:055][926]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.09-00.32.26:372][948]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.32.26:372][948]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.32.26:372][948]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.32.26:372][948]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.32.48:665][915]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.09-00.32.48:694][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.32.48:694][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.09-00.32.48:694][915]PIE: New page: PIE session: Train_lvl_Test (Apr 8, 2020, 12:32:48 PM)
+[2020.04.09-00.32.48:694][915]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.09-00.32.48:724][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029540s)
+[2020.04.09-00.32.48:725][915]LogAIModule: Creating AISystem for world Train_lvl_Test
+[2020.04.09-00.32.48:725][915]LogPlayLevel: PIE: World Init took: (0.001473s)
+[2020.04.09-00.32.48:725][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_Test.Train_lvl_Test to /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test (0.031162s)
+[2020.04.09-00.32.48:767][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.04.09-00.32.48:768][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.09-00.32.48:768][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.09-00.32.48:768][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.09-00.32.48:768][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.09-00.32.48:768][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.09-00.32.48:768][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.09-00.32.48:768][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.09-00.32.48:768][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.09-00.32.48:768][915]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.09-00.32.48:768][915]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.09-00.32.48:787][915]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.09-00.32.48:787][915]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.04.09-00.32.48:787][915]LogAudioMixer: Display: Is Default: Yes
+[2020.04.09-00.32.48:787][915]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.09-00.32.48:787][915]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.09-00.32.48:787][915]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.09-00.32.48:787][915]LogAudioMixer: Display: Channel Order:
+[2020.04.09-00.32.48:787][915]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.09-00.32.48:787][915]LogAudioMixer: Display: 1: FrontRight
+[2020.04.09-00.32.48:798][915]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.04.09-00.32.48:800][915]LogInit: FAudioDevice initialized.
+[2020.04.09-00.32.48:847][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-00.32.48:848][915]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.09-00.32.48:854][915]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test up for play (max tick rate 0) at 2020.04.08-18.32.48
+[2020.04.09-00.32.48:856][915]LogWorld: Bringing up level for play took: 0.007145
+[2020.04.09-00.32.48:856][915]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.04.09-00.32.48:862][915]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_Test -0.193
+[2020.04.09-00.32.48:863][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.33.02:236][ 79]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-00.33.02:261][ 79]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.09-00.33.02:281][ 79]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.09-00.33.02:281][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.33.02:282][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-00.33.02:282][ 79]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.09-00.33.02:320][ 79]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.09-00.33.02:330][ 79]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-00.33.02:330][ 79]LogWorld: UWorld::CleanupWorld for Train_lvl_Test, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-00.33.02:332][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-00.33.02:344][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.09-00.33.02:344][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.33.02:350][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-00.33.02:388][ 79]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-00.33.02:395][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.04.09-00.33.02:419][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.04.09-00.33.03:748][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TrainCar)
+[2020.04.09-00.33.06:215][397]Cmd: EDIT COPY
+[2020.04.09-00.33.07:278][482]Cmd: EDIT PASTE
+[2020.04.09-00.33.13:862][ 11]Cmd: EDIT COPY
+[2020.04.09-00.33.14:259][ 41]Cmd: EDIT PASTE
+[2020.04.09-00.33.22:119][648]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.04.09-00.33.22:673][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.04.09-00.33.30:706][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.04.09-00.33.31:851][367]Cmd: EDIT COPY
+[2020.04.09-00.33.45:394][389]Cmd: EDIT COPY
+[2020.04.09-00.33.47:238][542]Cmd: EDIT PASTE
+[2020.04.09-00.33.49:767][707]Cmd: TRANSACTION UNDO
+[2020.04.09-00.33.49:767][707]LogEditorTransaction: Undo Move Actors
+[2020.04.09-00.33.49:855][707]LogMaterial: Display: Missing cached shader map for material Glass, compiling. 
+[2020.04.09-00.33.49:895][707]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.04.09-00.33.49:895][707]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.04.09-00.33.49:895][707]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.04.09-00.33.49:895][707]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.04.09-00.33.49:900][707]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.33.49:922][707]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.33.49:950][707]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.33.49:974][707]LogMaterial: Display: Missing cached shader map for material TrainBody_3, compiling. 
+[2020.04.09-00.33.50:189][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2020.04.09-00.33.50:237][710]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 53
+[2020.04.09-00.33.50:287][711]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2020.04.09-00.33.50:289][711]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2020.04.09-00.33.50:512][723]Cmd: TRANSACTION UNDO
+[2020.04.09-00.33.50:512][723]LogEditorTransaction: Undo Paste
+[2020.04.09-00.33.50:650][723]LogMaterial: Display: Missing cached shader map for material Glass, compiling. 
+[2020.04.09-00.33.50:674][723]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.33.50:686][723]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 49
+[2020.04.09-00.33.50:692][723]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.33.50:712][723]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.33.50:733][723]LogMaterial: Display: Missing cached shader map for material TrainBody_3, compiling. 
+[2020.04.09-00.33.50:746][723]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2020.04.09-00.33.50:753][723]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2020.04.09-00.33.50:907][726]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2020.04.09-00.33.50:948][728]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2020.04.09-00.33.51:155][739]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2020.04.09-00.33.51:248][744]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2020.04.09-00.33.51:283][746]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.04.09-00.33.51:300][747]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2020.04.09-00.33.51:491][757]Cmd: TRANSACTION UNDO
+[2020.04.09-00.33.51:491][757]LogEditorTransaction: Undo Move Actors
+[2020.04.09-00.33.51:617][757]LogMaterial: Display: Missing cached shader map for material Glass, compiling. 
+[2020.04.09-00.33.51:647][757]LogMaterial: Display: Missing cached shader map for material Metal_Railings, compiling. 
+[2020.04.09-00.33.51:667][757]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.09-00.33.51:688][757]LogMaterial: Display: Missing cached shader map for material TrainBody_2, compiling. 
+[2020.04.09-00.33.51:707][757]LogMaterial: Display: Missing cached shader map for material TrainBody_3, compiling. 
+[2020.04.09-00.33.51:768][758]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2020.04.09-00.33.51:768][758]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 57
+[2020.04.09-00.33.51:812][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2020.04.09-00.33.51:916][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 55
+[2020.04.09-00.33.51:952][767]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2020.04.09-00.33.52:111][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2020.04.09-00.33.52:262][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.04.09-00.33.52:301][786]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2020.04.09-00.33.52:641][803]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2020.04.09-00.33.52:809][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2020.04.09-00.33.52:827][813]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2020.04.09-00.33.52:977][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.04.09-00.33.53:145][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2020.04.09-00.33.53:280][831]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.04.09-00.33.53:413][838]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.04.09-00.33.53:660][851]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.04.09-00.33.53:811][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2020.04.09-00.33.53:870][862]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2020.04.09-00.33.54:000][869]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2020.04.09-00.33.54:403][889]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2020.04.09-00.33.54:522][894]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2020.04.09-00.33.54:677][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.04.09-00.33.54:698][903]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2020.04.09-00.33.55:010][919]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.04.09-00.33.55:301][934]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2020.04.09-00.33.55:322][935]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.04.09-00.33.55:415][940]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.04.09-00.33.55:442][941]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.04.09-00.33.55:442][941]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2020.04.09-00.33.55:443][941]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.04.09-00.33.55:443][941]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.09-00.33.55:661][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.04.09-00.33.55:701][954]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.04.09-00.33.55:924][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.04.09-00.33.56:013][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.04.09-00.33.56:064][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.04.09-00.33.56:257][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.04.09-00.33.56:450][986]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.04.09-00.33.56:470][987]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.04.09-00.33.56:554][989]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.04.09-00.33.56:602][991]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.09-00.33.56:602][991]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.09-00.33.56:602][991]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.33.56:602][991]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.33.56:809][996]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.04.09-00.33.56:860][998]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.04.09-00.33.56:936][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TrainCar2)
+[2020.04.09-00.33.57:035][  3]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.04.09-00.33.57:131][  5]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.04.09-00.33.57:178][  7]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.04.09-00.33.57:450][ 20]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.04.09-00.33.57:579][ 27]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.04.09-00.33.57:599][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.04.09-00.33.57:743][ 36]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.04.09-00.33.57:770][ 37]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.33.57:770][ 37]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.33.57:770][ 37]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.33.57:770][ 37]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.33.57:989][ 47]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.04.09-00.33.58:082][ 52]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.04.09-00.33.58:230][ 60]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.04.09-00.33.58:344][ 66]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.04.09-00.33.58:452][ 72]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.04.09-00.33.58:696][ 84]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.04.09-00.33.58:812][ 90]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.09-00.33.58:862][ 93]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.09-00.33.58:969][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.04.09-00.33.58:997][100]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.09-00.33.58:997][100]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.09-00.33.58:997][100]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.33.58:997][100]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.33.59:233][112]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.09-00.33.59:308][116]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.04.09-00.33.59:474][125]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.09-00.33.59:592][131]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.09-00.33.59:667][134]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.09-00.34.00:122][159]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.09-00.34.00:122][159]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.09-00.34.00:122][159]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.09-00.34.00:122][159]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.09-00.34.02:016][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TrainCar3)
+[2020.04.09-00.34.06:101][595]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.09-00.34.07:802][718]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.09-00.34.07:821][718]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.34.07:821][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.09-00.34.07:821][718]PIE: New page: PIE session: Train_lvl_Test (Apr 8, 2020, 12:34:07 PM)
+[2020.04.09-00.34.07:821][718]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.09-00.34.07:849][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028063s)
+[2020.04.09-00.34.07:850][718]LogAIModule: Creating AISystem for world Train_lvl_Test
+[2020.04.09-00.34.07:851][718]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2020.04.09-00.34.07:851][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_Test.Train_lvl_Test to /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test (0.029677s)
+[2020.04.09-00.34.07:889][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.04.09-00.34.07:890][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.09-00.34.07:890][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.09-00.34.07:890][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.09-00.34.07:890][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.09-00.34.07:890][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.09-00.34.07:890][718]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.09-00.34.07:890][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.09-00.34.07:890][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.09-00.34.07:891][718]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.09-00.34.07:891][718]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.09-00.34.07:910][718]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.09-00.34.07:910][718]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.04.09-00.34.07:910][718]LogAudioMixer: Display: Is Default: Yes
+[2020.04.09-00.34.07:910][718]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.09-00.34.07:910][718]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.09-00.34.07:910][718]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.09-00.34.07:910][718]LogAudioMixer: Display: Channel Order:
+[2020.04.09-00.34.07:910][718]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.09-00.34.07:910][718]LogAudioMixer: Display: 1: FrontRight
+[2020.04.09-00.34.07:920][718]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.04.09-00.34.07:921][718]LogInit: FAudioDevice initialized.
+[2020.04.09-00.34.07:965][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-00.34.07:966][718]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.09-00.34.07:976][718]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test up for play (max tick rate 0) at 2020.04.08-18.34.07
+[2020.04.09-00.34.07:979][718]LogWorld: Bringing up level for play took: 0.011581
+[2020.04.09-00.34.07:979][718]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.04.09-00.34.07:987][718]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_Test 0.932
+[2020.04.09-00.34.07:988][718]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.34.13:425][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-00.34.13:431][171]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.09-00.34.13:451][171]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.09-00.34.13:451][171]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.34.13:451][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-00.34.13:451][171]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.09-00.34.13:466][171]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.09-00.34.13:473][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-00.34.13:473][171]LogWorld: UWorld::CleanupWorld for Train_lvl_Test, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-00.34.13:475][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-00.34.13:484][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.09-00.34.13:484][171]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.34.13:489][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-00.34.13:530][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-00.34.13:537][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.04.09-00.34.13:561][172]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.04.09-00.34.27:859][188]LogActorFactory: Actor Factory created TrainDoorPlaceholder_Right_Door
+[2020.04.09-00.34.28:972][296]LogActorFactory: Actor Factory created TrainDoorPlaceholder_Right_Door
+[2020.04.09-00.34.41:370][266]Cmd: EDIT COPY
+[2020.04.09-00.34.41:651][288]Cmd: EDIT PASTE
+[2020.04.09-00.34.50:851][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TrainDoorPlaceholder_Right_Door2)
+[2020.04.09-00.34.51:259][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TrainDoorPlaceholder_Right_Door)
+[2020.04.09-00.34.54:710][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TrainDoorPlaceholder_Right_Door)
+[2020.04.09-00.34.59:568][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TrainDoorPlaceholder_Right_Door2)
+[2020.04.09-00.35.02:982][944]Cmd: EDIT COPY
+[2020.04.09-00.35.03:463][967]Cmd: EDIT PASTE
+[2020.04.09-00.35.12:464][647]Cmd: EDIT PASTE
+[2020.04.09-00.35.16:814][948]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.09-00.35.23:202][437]Cmd: EDIT COPY
+[2020.04.09-00.35.23:622][466]Cmd: EDIT PASTE
+[2020.04.09-00.35.28:385][824]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.09-00.35.29:340][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.04.09-00.35.29:748][878]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_Test332B72704149F309E610BCBB5AF13616.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
+[2020.04.09-00.35.29:790][878]AssetCheck: New page: Asset Save: Train_lvl_Test
+[2020.04.09-00.35.29:790][878]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
+[2020.04.09-00.35.34:782][255]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.09-00.35.34:800][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.35.34:800][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.09-00.35.34:800][255]PIE: New page: PIE session: Train_lvl_Test (Apr 8, 2020, 12:35:34 PM)
+[2020.04.09-00.35.34:800][255]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.09-00.35.34:828][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027040s)
+[2020.04.09-00.35.34:829][255]LogAIModule: Creating AISystem for world Train_lvl_Test
+[2020.04.09-00.35.34:829][255]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2020.04.09-00.35.34:829][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_Test.Train_lvl_Test to /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test (0.028399s)
+[2020.04.09-00.35.34:868][255]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.04.09-00.35.34:869][255]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.09-00.35.34:869][255]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.09-00.35.34:869][255]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.09-00.35.34:869][255]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.09-00.35.34:869][255]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.09-00.35.34:869][255]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.09-00.35.34:869][255]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.09-00.35.34:869][255]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.09-00.35.34:870][255]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.09-00.35.34:870][255]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.09-00.35.34:888][255]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.09-00.35.34:888][255]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.04.09-00.35.34:888][255]LogAudioMixer: Display: Is Default: Yes
+[2020.04.09-00.35.34:888][255]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.09-00.35.34:888][255]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.09-00.35.34:888][255]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.09-00.35.34:888][255]LogAudioMixer: Display: Channel Order:
+[2020.04.09-00.35.34:888][255]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.09-00.35.34:888][255]LogAudioMixer: Display: 1: FrontRight
+[2020.04.09-00.35.34:898][255]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.04.09-00.35.34:899][255]LogInit: FAudioDevice initialized.
+[2020.04.09-00.35.34:948][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-00.35.34:949][255]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.09-00.35.34:954][255]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test up for play (max tick rate 0) at 2020.04.08-18.35.34
+[2020.04.09-00.35.34:955][255]LogWorld: Bringing up level for play took: 0.005730
+[2020.04.09-00.35.34:955][255]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.04.09-00.35.34:960][255]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_Test -0.095
+[2020.04.09-00.35.34:961][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.35.42:251][882]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-00.35.42:280][882]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.09-00.35.42:301][882]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.09-00.35.42:301][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.35.42:301][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-00.35.42:302][882]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.09-00.35.42:349][882]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.09-00.35.42:358][882]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-00.35.42:358][882]LogWorld: UWorld::CleanupWorld for Train_lvl_Test, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-00.35.42:360][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-00.35.42:373][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.09-00.35.42:374][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.09-00.35.42:380][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-00.35.42:411][882]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.09-00.35.42:421][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.04.09-00.35.42:445][883]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.04.09-00.35.44:490][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.04.09-00.35.46:236][ 33]LogSlate: Window 'Save Content' being destroyed
+[2020.04.09-00.35.46:312][ 33]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/TrainSlidingDoor_Closed70E2A92F430B1221B649A78B8A5B3356.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Blueprints/TrainSlidingDoor_Closed.uasset'
+[2020.04.09-00.35.46:351][ 33]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/TrainSlidingDoor_Open04D3263141763CBD99FC9095FFF44D8B.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Blueprints/TrainSlidingDoor_Open.uasset'
+[2020.04.09-00.35.46:361][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Darker_PlasticSG1" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Darker_PlasticSG1.uasset" SILENT=true
+[2020.04.09-00.35.46:368][ 33]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Darker_PlasticSG1A6AAC0E9431C1BDC804E0E9CA98C021B.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Darker_PlasticSG1.uasset'
+[2020.04.09-00.35.46:375][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Metal_PolesSG1" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Metal_PolesSG1.uasset" SILENT=true
+[2020.04.09-00.35.46:382][ 33]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Metal_PolesSG11BF42DF54C771519296B81A43B889504.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Metal_PolesSG1.uasset'
+[2020.04.09-00.35.46:389][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Stripe_RedSG1" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Stripe_RedSG1.uasset" SILENT=true
+[2020.04.09-00.35.46:396][ 33]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Stripe_RedSG134D1BD6943DECB6CEFF71D9C41815FE6.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Stripe_RedSG1.uasset'
+[2020.04.09-00.35.46:401][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/StripeSG" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/StripeSG.uasset" SILENT=true
+[2020.04.09-00.35.46:407][ 33]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/StripeSGF018A7DE4ED03DA9B6F0CA802944BD93.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/StripeSG.uasset'
+[2020.04.09-00.35.46:412][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/TrainBodySG" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/TrainBodySG.uasset" SILENT=true
+[2020.04.09-00.35.46:419][ 33]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/TrainBodySGA35BC90D48DDFFE172870ABD132390ED.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/TrainBodySG.uasset'
+[2020.04.09-00.35.46:424][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/WindowSG" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/WindowSG.uasset" SILENT=true
+[2020.04.09-00.35.46:430][ 33]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/WindowSG9795C7B84F199D8337650BA29BA3D1CA.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/WindowSG.uasset'
+[2020.04.09-00.35.46:479][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.09-00.35.46:479][ 33]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TrainSlidingDoor_Closed.TrainSlidingDoor_Closed
+[2020.04.09-00.35.46:479][ 33]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TrainSlidingDoor_Open.TrainSlidingDoor_Open
+[2020.04.09-00.35.46:479][ 33]LogContentValidation: Display: Validating Material /Game/Models/Darker_PlasticSG1.Darker_PlasticSG1
+[2020.04.09-00.35.46:479][ 33]LogContentValidation: Display: Validating Material /Game/Models/Metal_PolesSG1.Metal_PolesSG1
+[2020.04.09-00.35.46:479][ 33]LogContentValidation: Display: Validating Material /Game/Models/Stripe_RedSG1.Stripe_RedSG1
+[2020.04.09-00.35.46:479][ 33]LogContentValidation: Display: Validating Material /Game/Models/StripeSG.StripeSG
+[2020.04.09-00.35.46:479][ 33]LogContentValidation: Display: Validating Material /Game/Models/TrainBodySG.TrainBodySG
+[2020.04.09-00.35.46:479][ 33]LogContentValidation: Display: Validating Material /Game/Models/WindowSG.WindowSG
