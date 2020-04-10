@@ -1137,3 +1137,659 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.10-23.35.36:054][608]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_Test2F8A6A774E69BEC63A66A4BF10416A95.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
 [2020.04.10-23.35.36:104][608]AssetCheck: New page: Asset Save: Train_lvl_Test
 [2020.04.10-23.35.36:104][608]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
+[2020.04.10-23.37.01:381][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.04.10-23.37.02:438][730]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ItemSpawner/BP_ItemSpawner_2.BP_ItemSpawner_2
+[2020.04.10-23.37.08:451][147]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ItemSpawner/BP_ItemSpawner.BP_ItemSpawner
+[2020.04.10-23.37.38:265][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.04.10-23.37.47:257][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.04.10-23.37.47:259][330]LogMetaData: Removing '/Game/ItemSpawner/BP_Sign_1.SKEL_BP_Sign_1_C' ref from Metadata '/Game/ItemSpawner/BP_Tree_3.PackageMetaData'
+[2020.04.10-23.37.47:259][330]LogMetaData: Removing '/Game/ItemSpawner/BP_Sign_1.BP_Sign_1_C' ref from Metadata '/Game/ItemSpawner/BP_Tree_3.PackageMetaData'
+[2020.04.10-23.37.47:299][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_Sign_1" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_Sign_1.uasset" SILENT=true
+[2020.04.10-23.37.47:312][330]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/BP_Sign_1F6643235432F3ED52AFE4DB835CF5AD1.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_Sign_1.uasset'
+[2020.04.10-23.37.47:531][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.04.10-23.37.47:575][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.04.10-23.37.47:611][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.04.10-23.37.47:673][330]AssetCheck: New page: Asset Save: BP_Sign_1
+[2020.04.10-23.37.47:673][330]LogContentValidation: Display: Validating Blueprint /Game/ItemSpawner/BP_Sign_1.BP_Sign_1
+[2020.04.10-23.37.49:996][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.10-23.38.00:081][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ItemSpawner/BP_Sign_1.BP_Sign_1
+[2020.04.10-23.38.03:613][592]LogRenderer: Reallocating scene render targets to support 1704x692 Format 10 NumSamples 1 (Frame:1).
+[2020.04.10-23.38.32:056][591]BlueprintLog: New page: Compile BP_Sign_1
+[2020.04.10-23.38.32:376][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.04.10-23.38.37:018][920]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ItemSpawner/BP_Sign_2.BP_Sign_2
+[2020.04.10-23.39.14:886][524]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/scn_signDiamond.scn_signDiamond
+[2020.04.10-23.39.15:715][525]LogRenderer: Reallocating scene render targets to support 1704x920 Format 10 NumSamples 1 (Frame:1).
+[2020.04.10-23.39.28:001][402]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/scn_signCircle.scn_signCircle
+[2020.04.10-23.40.34:922][787]LogSlate: Window 'Message' being destroyed
+[2020.04.10-23.40.34:928][787]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/jacob/Desktop/Train Conductor Placeholder Models/Kylie's Models/scn_signDiamond.fbx)
+[2020.04.10-23.40.34:945][787]LogEditorFactories: Performing atomic reimport of [C:/Users/jacob/Desktop/Train Conductor Placeholder Models/Kylie's Models/scn_signDiamond.fbx]
+[2020.04.10-23.40.34:968][787]LogFbx: Loading FBX Scene from C:/Users/jacob/Desktop/Train Conductor Placeholder Models/Kylie's Models/scn_signDiamond.fbx
+[2020.04.10-23.40.34:983][787]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.10-23.40.34:991][787]LogFbx: Display: Triangulating static mesh pPlane2
+[2020.04.10-23.40.34:995][787]LogStaticMesh: Building static mesh scn_signDiamond...
+[2020.04.10-23.40.34:999][787]LogStaticMesh: Built static mesh [0.00s] /Game/Models/scn_signDiamond.scn_signDiamond
+[2020.04.10-23.40.35:009][787]LogEditorFactories: -- imported successfully
+[2020.04.10-23.40.35:012][787]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.10-23.40.45:486][ 55]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jacob/Desktop/Train Conductor Placeholder Models/Kylie's Models/scn_signDiamond.fbm/signs 1 diamond.png)
+[2020.04.10-23.40.45:536][ 55]LogTexture: Display: Building textures: signs_1_diamond (AutoDXT, 2048X2048)
+[2020.04.10-23.41.02:988][181]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.04.10-23.41.04:393][181]LogSlate: Window 'Save Content' being destroyed
+[2020.04.10-23.41.04:418][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_ItemSpawner_2" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_ItemSpawner_2.uasset" SILENT=true
+[2020.04.10-23.41.04:434][181]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/BP_ItemSpawner_2635A7D8545D0A0D21BD831AB7B9DA029.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_ItemSpawner_2.uasset'
+[2020.04.10-23.41.04:436][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_Sign_1" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_Sign_1.uasset" SILENT=true
+[2020.04.10-23.41.04:461][181]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/BP_Sign_116692D504BB0B22D753EC88D73196FEB.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_Sign_1.uasset'
+[2020.04.10-23.41.04:463][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_Sign_2" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_Sign_2.uasset" SILENT=true
+[2020.04.10-23.41.04:474][181]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/BP_Sign_2F87A1FE144EC4548173EAAB8C809E856.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_Sign_2.uasset'
+[2020.04.10-23.41.04:487][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/scn_signDiamond" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/scn_signDiamond.uasset" SILENT=true
+[2020.04.10-23.41.04:513][181]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/scn_signDiamondEC3648804BF579B21EF07B9849205D1B.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/scn_signDiamond.uasset'
+[2020.04.10-23.41.04:521][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/signs_1_diamond" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/signs_1_diamond.uasset" SILENT=true
+[2020.04.10-23.41.04:666][181]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/signs_1_diamond240489A947A733F252E895947141ED74.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/signs_1_diamond.uasset'
+[2020.04.10-23.41.04:714][181]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.10-23.41.04:714][181]LogContentValidation: Display: Validating Blueprint /Game/ItemSpawner/BP_ItemSpawner_2.BP_ItemSpawner_2
+[2020.04.10-23.41.04:714][181]LogContentValidation: Display: Validating Blueprint /Game/ItemSpawner/BP_Sign_1.BP_Sign_1
+[2020.04.10-23.41.04:714][181]LogContentValidation: Display: Validating Blueprint /Game/ItemSpawner/BP_Sign_2.BP_Sign_2
+[2020.04.10-23.41.04:714][181]LogContentValidation: Display: Validating StaticMesh /Game/Models/scn_signDiamond.scn_signDiamond
+[2020.04.10-23.41.04:714][181]LogContentValidation: Display: Validating Texture2D /Game/Models/signs_1_diamond.signs_1_diamond
+[2020.04.10-23.41.23:305][362]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/signs_1_diamond0991E78D4AB905650975E48B42AD178F.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Textures/signs_1_diamond.uasset'
+[2020.04.10-23.41.23:569][362]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.04.10-23.41.23:632][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.04.10-23.41.23:677][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.04.10-23.41.23:744][362]AssetCheck: New page: Asset Save: signs_1_diamond
+[2020.04.10-23.41.23:744][362]LogContentValidation: Display: Validating Texture2D /Game/Models/Textures/signs_1_diamond.signs_1_diamond
+[2020.04.10-23.41.29:963][705]LogMaterial: Display: Missing cached shader map for material Arrow_Mat_4, compiling. 
+[2020.04.10-23.41.30:070][706]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.04.10-23.41.30:070][706]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.10-23.41.30:070][706]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-23.41.30:070][706]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.10-23.41.37:290][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/Diamond_Sign" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/Diamond_Sign.uasset" SILENT=true
+[2020.04.10-23.41.37:305][ 61]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Diamond_SignF38169024DB7B30B74F61FB085BFB80C.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/Diamond_Sign.uasset'
+[2020.04.10-23.41.37:579][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.04.10-23.41.37:638][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.04.10-23.41.37:680][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.04.10-23.41.37:748][ 61]AssetCheck: New page: Asset Save: Diamond_Sign
+[2020.04.10-23.41.37:748][ 61]LogContentValidation: Display: Validating Material /Game/Models/Materials/Diamond_Sign.Diamond_Sign
+[2020.04.10-23.41.39:551][164]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Materials/Diamond_Sign.Diamond_Sign
+[2020.04.10-23.41.39:556][164]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.41.39:662][164]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.41.39:676][164]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.41.39:688][164]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-23.41.39:689][164]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-23.41.39:689][164]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-23.41.39:689][164]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.41.39:697][164]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.10-23.41.40:210][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.10-23.41.40:500][186]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.10-23.41.40:559][189]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.04.10-23.41.40:678][194]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.41.41:038][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.10-23.41.41:101][210]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.10-23.41.41:247][214]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.10-23.41.41:434][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.10-23.41.41:478][224]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.10-23.41.41:508][225]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.10-23.41.41:508][225]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.10-23.41.41:508][225]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.10-23.41.41:508][225]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.10-23.41.53:963][ 91]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.41.53:976][ 91]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.04.10-23.41.54:030][ 92]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-23.41.54:030][ 92]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-23.41.54:030][ 92]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-23.41.54:030][ 92]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.41.54:508][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.10-23.41.54:839][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.10-23.41.54:861][130]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.10-23.41.54:881][131]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.10-23.41.55:333][151]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.10-23.41.55:356][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.10-23.41.55:517][160]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.10-23.41.55:608][164]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.10-23.41.55:807][173]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.10-23.41.55:808][173]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.10-23.41.55:808][173]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.10-23.41.55:808][173]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.10-23.41.55:808][173]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.10-23.42.32:123][439]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.42.32:142][439]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-23.42.32:143][439]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-23.42.32:143][439]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-23.42.32:143][439]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.42.32:143][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.04.10-23.42.32:156][439]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.42.32:785][465]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.04.10-23.42.33:090][479]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.04.10-23.42.33:114][480]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.10-23.42.33:134][481]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.10-23.42.33:365][492]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.10-23.42.33:634][502]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.10-23.42.33:634][502]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.04.10-23.42.33:696][505]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.42.34:144][524]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.04.10-23.42.34:165][525]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.10-23.42.34:456][535]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.10-23.42.34:489][536]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.10-23.42.34:611][541]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.10-23.42.35:152][567]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.10-23.42.35:152][567]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.10-23.42.35:152][567]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.10-23.42.35:152][567]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.10-23.42.38:084][769]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.42.38:101][769]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-23.42.38:101][769]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-23.42.38:101][769]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-23.42.38:101][769]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.42.38:101][769]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.04.10-23.42.38:652][791]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.10-23.42.38:925][803]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.10-23.42.38:965][805]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.04.10-23.42.38:989][806]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.42.39:451][827]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.10-23.42.39:515][830]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.10-23.42.39:665][837]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.10-23.42.39:733][840]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.10-23.42.39:927][849]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.10-23.42.39:960][850]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.04.10-23.42.39:961][850]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.04.10-23.42.39:961][850]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.10-23.42.39:961][850]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.10-23.42.39:961][850]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.10-23.42.39:961][850]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.10-23.42.48:490][420]LogMaterialEditor: Saving and Compiling material Diamond_Sign
+[2020.04.10-23.42.48:923][420]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.42.48:964][420]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-23.42.48:964][420]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-23.42.48:964][420]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-23.42.48:964][420]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.42.48:984][420]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.42.49:078][420]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.04.10-23.42.49:100][420]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.10-23.42.50:248][420]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.04.10-23.42.50:248][420]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.04.10-23.42.50:248][420]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.04.10-23.42.50:248][420]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.04.10-23.42.50:248][420]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.04.10-23.42.50:248][420]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.04.10-23.42.50:248][420]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.10-23.42.50:248][420]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.04.10-23.42.50:248][420]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.04.10-23.42.50:248][420]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.10-23.42.50:248][420]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.10-23.42.50:258][420]TextureStreamingBuild: Display: Compiling optional shaders took 1.176 seconds.
+[2020.04.10-23.42.50:330][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.04.10-23.42.51:771][420]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.10-23.42.51:771][420]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.10-23.42.51:771][420]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.10-23.42.51:801][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/Diamond_Sign" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/Diamond_Sign.uasset" SILENT=true
+[2020.04.10-23.42.51:828][420]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Diamond_SignB86502C14410DB331CFA4381DC04577E.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/Diamond_Sign.uasset'
+[2020.04.10-23.42.51:874][420]AssetCheck: New page: Asset Save: Diamond_Sign
+[2020.04.10-23.42.51:874][420]LogContentValidation: Display: Validating Material /Game/Models/Materials/Diamond_Sign.Diamond_Sign
+[2020.04.10-23.42.51:881][420]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.04.10-23.42.51:881][420]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.04.10-23.42.51:881][420]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.10-23.42.51:881][420]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.10-23.42.51:881][420]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.10-23.42.51:881][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.10-23.44.16:415][119]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.44.16:441][120]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-23.44.16:441][120]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-23.44.16:441][120]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-23.44.16:441][120]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.44.17:087][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.10-23.44.17:399][162]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.10-23.44.17:399][162]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.10-23.44.17:441][164]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.10-23.44.17:931][185]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.10-23.44.18:327][205]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.10-23.44.18:327][205]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.10-23.44.18:327][205]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.10-23.44.18:327][205]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.10-23.44.23:264][549]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.44.23:281][549]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-23.44.23:281][549]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-23.44.23:281][549]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-23.44.23:281][549]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.44.23:281][549]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.04.10-23.44.23:773][568]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.10-23.44.24:165][585]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.10-23.44.24:187][586]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.10-23.44.24:208][587]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.10-23.44.24:627][606]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.10-23.44.24:654][607]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.10-23.44.24:903][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.10-23.44.24:969][622]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.10-23.44.25:139][630]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.10-23.44.25:172][631]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.04.10-23.44.25:172][631]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.04.10-23.44.25:172][631]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.10-23.44.25:172][631]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.10-23.44.25:172][631]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.10-23.44.25:172][631]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.10-23.44.30:759][995]LogMaterialEditor: Saving and Compiling material Diamond_Sign
+[2020.04.10-23.44.31:192][995]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.44.31:247][995]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-23.44.31:247][995]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-23.44.31:247][995]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-23.44.31:247][995]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.44.31:268][995]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.44.31:358][995]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.04.10-23.44.31:381][995]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.10-23.44.32:545][995]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.04.10-23.44.32:545][995]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.04.10-23.44.32:545][995]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.04.10-23.44.32:545][995]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.04.10-23.44.32:545][995]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.04.10-23.44.32:545][995]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.04.10-23.44.32:545][995]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.10-23.44.32:545][995]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.04.10-23.44.32:545][995]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.04.10-23.44.32:545][995]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.10-23.44.32:545][995]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.10-23.44.32:549][995]TextureStreamingBuild: Display: Compiling optional shaders took 1.186 seconds.
+[2020.04.10-23.44.32:619][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.04.10-23.44.34:073][995]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.10-23.44.34:073][995]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.10-23.44.34:073][995]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.10-23.44.34:104][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/Diamond_Sign" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/Diamond_Sign.uasset" SILENT=true
+[2020.04.10-23.44.34:124][995]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Diamond_Sign854F5E924E23190169292BB1BBD1D9DC.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/Diamond_Sign.uasset'
+[2020.04.10-23.44.34:174][995]AssetCheck: New page: Asset Save: Diamond_Sign
+[2020.04.10-23.44.34:174][995]LogContentValidation: Display: Validating Material /Game/Models/Materials/Diamond_Sign.Diamond_Sign
+[2020.04.10-23.44.34:175][995]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.04.10-23.44.34:175][995]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.04.10-23.44.34:175][995]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.10-23.44.34:175][995]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.10-23.44.34:175][995]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.10-23.44.34:175][995]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.10-23.44.45:558][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/scn_signDiamond" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/scn_signDiamond.uasset" SILENT=true
+[2020.04.10-23.44.45:581][759]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/scn_signDiamond594F0281407D570BF814AAB5EE7922E1.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/scn_signDiamond.uasset'
+[2020.04.10-23.44.45:597][759]AssetCheck: New page: Asset Save: scn_signDiamond
+[2020.04.10-23.44.45:597][759]LogContentValidation: Display: Validating StaticMesh /Game/Models/scn_signDiamond.scn_signDiamond
+[2020.04.10-23.45.07:605][317]BlueprintLog: New page: Compile BP_Sign_2
+[2020.04.10-23.45.07:941][317]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.04.10-23.45.25:110][590]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor2)
+[2020.04.10-23.45.27:778][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.04.10-23.46.03:756][592]BlueprintLog: New page: Compile BP_ItemSpawner_2
+[2020.04.10-23.46.04:087][592]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2020.04.10-23.46.16:251][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.04.10-23.46.16:877][609]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPointSpawnerRef_2)
+[2020.04.10-23.46.19:200][798]Cmd: EDIT COPY
+[2020.04.10-23.46.19:698][838]Cmd: EDIT PASTE
+[2020.04.10-23.47.12:459][508]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.10-23.47.38:824][970]BlueprintLog: New page: Compile Train_lvl_Test
+[2020.04.10-23.47.39:227][970]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.04.10-23.48.07:177][383]BlueprintLog: New page: Compile Train_lvl_Test
+[2020.04.10-23.48.07:570][383]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.04.10-23.48.13:102][638]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-23.48.13:141][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.48.13:141][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-23.48.13:141][638]PIE: New page: PIE session: Train_lvl_Test (Apr 10, 2020, 11:48:13 AM)
+[2020.04.10-23.48.13:141][638]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.10-23.48.13:174][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032354s)
+[2020.04.10-23.48.13:175][638]LogAIModule: Creating AISystem for world Train_lvl_Test
+[2020.04.10-23.48.13:175][638]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2020.04.10-23.48.13:175][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_Test.Train_lvl_Test to /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test (0.033836s)
+[2020.04.10-23.48.13:230][638]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.04.10-23.48.13:233][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-23.48.13:233][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-23.48.13:233][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-23.48.13:233][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-23.48.13:233][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-23.48.13:233][638]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-23.48.13:233][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-23.48.13:233][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-23.48.13:233][638]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-23.48.13:233][638]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-23.48.13:255][638]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-23.48.13:255][638]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.04.10-23.48.13:255][638]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-23.48.13:255][638]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-23.48.13:255][638]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-23.48.13:255][638]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-23.48.13:255][638]LogAudioMixer: Display: Channel Order:
+[2020.04.10-23.48.13:255][638]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-23.48.13:255][638]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-23.48.13:267][638]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.04.10-23.48.13:269][638]LogInit: FAudioDevice initialized.
+[2020.04.10-23.48.13:278][638]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-23.48.13:283][638]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test up for play (max tick rate 0) at 2020.04.10-17.48.13
+[2020.04.10-23.48.13:284][638]LogWorld: Bringing up level for play took: 0.005056
+[2020.04.10-23.48.13:284][638]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.10-23.48.13:287][638]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_Test 0.353
+[2020.04.10-23.48.13:287][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.48.36:452][949]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.48.36:455][949]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-23.48.36:484][949]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-23.48.36:484][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.48.36:484][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-23.48.36:484][949]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.10-23.48.36:484][949]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.48.36:485][949]LogWorld: UWorld::CleanupWorld for Train_lvl_Test, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-23.48.36:486][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.48.36:572][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-23.48.36:572][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.48.36:580][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.48.36:629][949]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.48.36:632][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-23.48.36:639][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.04.10-23.48.36:887][950]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.10-23.49.41:203][707]BlueprintLog: New page: Compile BP_Sign_1
+[2020.04.10-23.49.41:561][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.04.10-23.50.00:928][207]BlueprintLog: New page: Compile BP_Sign_2
+[2020.04.10-23.50.01:283][207]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.04.10-23.50.34:874][664]BlueprintLog: New page: Compile BP_Sign_1
+[2020.04.10-23.50.35:204][664]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2020.04.10-23.50.38:252][907]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-23.50.38:289][907]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.50.38:289][907]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.10-23.50.38:290][907]LogPlayLevel: [PlayLevel] Compiling BP_Sign_2 before play...
+[2020.04.10-23.50.38:625][907]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.04.10-23.50.38:627][907]LogPlayLevel: PlayLevel: Blueprint regeneration took 337 ms (1 blueprints)
+[2020.04.10-23.50.38:627][907]PIE: New page: PIE session: Train_lvl_Test (Apr 10, 2020, 11:50:38 AM)
+[2020.04.10-23.50.38:627][907]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.10-23.50.38:662][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034580s)
+[2020.04.10-23.50.38:663][907]LogAIModule: Creating AISystem for world Train_lvl_Test
+[2020.04.10-23.50.38:663][907]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2020.04.10-23.50.38:663][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_Test.Train_lvl_Test to /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test (0.036350s)
+[2020.04.10-23.50.38:719][907]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.04.10-23.50.38:720][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-23.50.38:720][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-23.50.38:720][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-23.50.38:720][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-23.50.38:720][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-23.50.38:720][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-23.50.38:720][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-23.50.38:720][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-23.50.38:720][907]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-23.50.38:720][907]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-23.50.38:740][907]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-23.50.38:740][907]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.04.10-23.50.38:740][907]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-23.50.38:740][907]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-23.50.38:740][907]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-23.50.38:740][907]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-23.50.38:740][907]LogAudioMixer: Display: Channel Order:
+[2020.04.10-23.50.38:740][907]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-23.50.38:740][907]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-23.50.38:754][907]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.04.10-23.50.38:755][907]LogInit: FAudioDevice initialized.
+[2020.04.10-23.50.38:769][907]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-23.50.38:775][907]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test up for play (max tick rate 0) at 2020.04.10-17.50.38
+[2020.04.10-23.50.38:776][907]LogWorld: Bringing up level for play took: 0.005609
+[2020.04.10-23.50.38:776][907]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.04.10-23.50.38:779][907]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_Test -0.155
+[2020.04.10-23.50.38:779][907]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.50.38:830][908]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067136 > MaxSimulationTimeStep (0.050) for 'Enemy_Character_2', movement 'Walking'
+[2020.04.10-23.51.05:007][141]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.51.05:023][141]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-23.51.05:043][141]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-23.51.05:044][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.51.05:044][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-23.51.05:044][141]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.10-23.51.05:044][141]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.51.05:044][141]LogWorld: UWorld::CleanupWorld for Train_lvl_Test, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-23.51.05:045][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.51.05:129][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-23.51.05:129][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.51.05:136][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.51.05:186][141]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.51.05:190][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-23.51.05:198][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.04.10-23.51.05:229][142]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.04.10-23.51.39:787][181]Cmd: EDIT COPY
+[2020.04.10-23.51.40:785][225]Cmd: EDIT PASTE
+[2020.04.10-23.51.41:855][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.04.10-23.51.43:051][335]Cmd: TRANSACTION UNDO
+[2020.04.10-23.51.43:051][335]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.10-23.51.43:231][335]LogMaterial: Display: Missing cached shader map for material Diamond_Sign, compiling. 
+[2020.04.10-23.51.43:313][335]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-23.51.43:314][335]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-23.51.43:314][335]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-23.51.43:314][335]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-23.51.43:836][348]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.10-23.51.44:088][357]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.10-23.51.44:117][358]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.10-23.51.44:117][358]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.10-23.51.44:532][371]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.10-23.51.44:885][385]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.04.10-23.51.44:885][385]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.04.10-23.51.44:885][385]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.10-23.51.44:885][385]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.10-23.51.44:885][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.10-23.51.44:885][385]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.10-23.51.47:948][533]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.10-23.51.50:602][664]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPointSpawnerRef_10)
+[2020.04.10-23.52.37:567][  1]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.10-23.52.42:646][228]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-23.52.42:686][228]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.52.42:686][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-23.52.42:686][228]PIE: New page: PIE session: Train_lvl_Test (Apr 10, 2020, 11:52:42 AM)
+[2020.04.10-23.52.42:687][228]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.10-23.52.42:719][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031987s)
+[2020.04.10-23.52.42:720][228]LogAIModule: Creating AISystem for world Train_lvl_Test
+[2020.04.10-23.52.42:720][228]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2020.04.10-23.52.42:720][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_Test.Train_lvl_Test to /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test (0.033443s)
+[2020.04.10-23.52.42:773][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.04.10-23.52.42:776][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-23.52.42:776][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-23.52.42:776][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-23.52.42:776][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-23.52.42:776][228]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-23.52.42:776][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-23.52.42:776][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-23.52.42:776][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-23.52.42:777][228]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-23.52.42:777][228]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-23.52.42:797][228]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-23.52.42:797][228]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.04.10-23.52.42:797][228]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-23.52.42:797][228]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-23.52.42:797][228]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-23.52.42:797][228]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-23.52.42:797][228]LogAudioMixer: Display: Channel Order:
+[2020.04.10-23.52.42:797][228]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-23.52.42:797][228]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-23.52.42:809][228]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.04.10-23.52.42:810][228]LogInit: FAudioDevice initialized.
+[2020.04.10-23.52.42:818][228]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-23.52.42:822][228]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test up for play (max tick rate 0) at 2020.04.10-17.52.42
+[2020.04.10-23.52.42:823][228]LogWorld: Bringing up level for play took: 0.004892
+[2020.04.10-23.52.42:823][228]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.04.10-23.52.42:826][228]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_Test -0.108
+[2020.04.10-23.52.42:826][228]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.52.45:486][373]LogCharacterMovement: StandingCommuter_5 is stuck and failed to move! Velocity: X=360.63 Y=-375.43 Z=0.00 Location: X=-548.73 Y=1455.64 Z=254.59 Normal: X=-0.46 Y=0.89 Z=-0.00 PenetrationDepth:2.001 Actor:TrainSlidingDoor_4 Component:StaticMeshComponent1 BoneName:None (0 other events since notify)
+[2020.04.10-23.52.58:685][113]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.52.58:704][113]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-23.52.58:724][113]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-23.52.58:724][113]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.52.58:724][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-23.52.58:724][113]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.10-23.52.58:724][113]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.52.58:724][113]LogWorld: UWorld::CleanupWorld for Train_lvl_Test, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-23.52.58:726][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.52.58:809][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-23.52.58:809][113]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.52.58:817][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.52.58:861][113]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.52.58:864][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-23.52.58:872][113]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.04.10-23.52.59:117][114]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.04.10-23.53.34:819][990]BlueprintLog: New page: Compile Train_lvl_Test
+[2020.04.10-23.53.35:226][990]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.04.10-23.53.35:759][  1]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-23.53.35:797][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.53.35:797][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-23.53.35:797][  1]PIE: New page: PIE session: Train_lvl_Test (Apr 10, 2020, 11:53:35 AM)
+[2020.04.10-23.53.35:797][  1]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.10-23.53.35:831][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033254s)
+[2020.04.10-23.53.35:832][  1]LogAIModule: Creating AISystem for world Train_lvl_Test
+[2020.04.10-23.53.35:832][  1]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2020.04.10-23.53.35:832][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_Test.Train_lvl_Test to /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test (0.034526s)
+[2020.04.10-23.53.35:884][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.04.10-23.53.35:885][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-23.53.35:885][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-23.53.35:885][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-23.53.35:885][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-23.53.35:885][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-23.53.35:885][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-23.53.35:885][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-23.53.35:885][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-23.53.35:885][  1]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-23.53.35:885][  1]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-23.53.35:905][  1]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-23.53.35:905][  1]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.04.10-23.53.35:905][  1]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-23.53.35:905][  1]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-23.53.35:905][  1]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-23.53.35:905][  1]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-23.53.35:905][  1]LogAudioMixer: Display: Channel Order:
+[2020.04.10-23.53.35:905][  1]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-23.53.35:905][  1]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-23.53.35:916][  1]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.04.10-23.53.35:918][  1]LogInit: FAudioDevice initialized.
+[2020.04.10-23.53.35:931][  1]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-23.53.35:938][  1]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test up for play (max tick rate 0) at 2020.04.10-17.53.35
+[2020.04.10-23.53.35:939][  1]LogWorld: Bringing up level for play took: 0.006843
+[2020.04.10-23.53.35:939][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.04.10-23.53.35:942][  1]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_Test 1.009
+[2020.04.10-23.53.35:942][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.53.58:560][380]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.53.58:574][380]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-23.53.58:594][380]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-23.53.58:594][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.53.58:594][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-23.53.58:594][380]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.10-23.53.58:595][380]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.53.58:595][380]LogWorld: UWorld::CleanupWorld for Train_lvl_Test, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-23.53.58:596][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.53.58:689][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-23.53.58:689][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.53.58:698][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.53.58:748][380]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.53.58:751][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-23.53.58:757][380]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.10-23.53.59:012][381]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.04.10-23.54.08:921][956]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.10-23.54.37:334][434]BlueprintLog: New page: Compile Train_lvl_Test
+[2020.04.10-23.54.37:728][434]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.04.10-23.54.54:235][294]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.10-23.55.05:332][897]BlueprintLog: New page: Compile Train_lvl_Test
+[2020.04.10-23.55.05:735][897]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2020.04.10-23.55.26:754][911]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.10-23.55.39:220][541]BlueprintLog: New page: Compile Train_lvl_Test
+[2020.04.10-23.55.39:614][541]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.04.10-23.57.13:146][135]BlueprintLog: New page: Compile Train_lvl_Test
+[2020.04.10-23.57.13:557][135]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2020.04.10-23.57.16:473][258]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-23.57.16:511][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.57.16:511][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-23.57.16:511][258]PIE: New page: PIE session: Train_lvl_Test (Apr 10, 2020, 11:57:16 AM)
+[2020.04.10-23.57.16:511][258]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.10-23.57.16:550][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038435s)
+[2020.04.10-23.57.16:551][258]LogAIModule: Creating AISystem for world Train_lvl_Test
+[2020.04.10-23.57.16:551][258]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2020.04.10-23.57.16:551][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_Test.Train_lvl_Test to /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test (0.039948s)
+[2020.04.10-23.57.16:604][258]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.04.10-23.57.16:608][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-23.57.16:608][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-23.57.16:608][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-23.57.16:608][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-23.57.16:608][258]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-23.57.16:608][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-23.57.16:608][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-23.57.16:608][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-23.57.16:609][258]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-23.57.16:609][258]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-23.57.16:628][258]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-23.57.16:628][258]LogAudioMixer: Display: Name: Speakers (2- USB-BH209A)
+[2020.04.10-23.57.16:628][258]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-23.57.16:628][258]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-23.57.16:628][258]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-23.57.16:628][258]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-23.57.16:628][258]LogAudioMixer: Display: Channel Order:
+[2020.04.10-23.57.16:628][258]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-23.57.16:628][258]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-23.57.16:639][258]LogAudioMixer: Display: Using Audio Device Speakers (2- USB-BH209A)
+[2020.04.10-23.57.16:641][258]LogInit: FAudioDevice initialized.
+[2020.04.10-23.57.16:651][258]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-23.57.16:656][258]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test up for play (max tick rate 0) at 2020.04.10-17.57.16
+[2020.04.10-23.57.16:657][258]LogWorld: Bringing up level for play took: 0.005410
+[2020.04.10-23.57.16:657][258]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.04.10-23.57.16:659][258]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_Test -0.274
+[2020.04.10-23.57.16:660][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.58.23:082][870]LogScript: Warning: Attempted to access TextRender_Go_Back via property TextRender_Go_Back_ExecuteUbergraph_Train_lvl_Test_RefProperty, but TextRender_Go_Back is pending kill
+	Train_lvl_Test_C /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test_C_15
+	Function /Game/Levels/Train_lvl_Test.Train_lvl_Test_C:ExecuteUbergraph_Train_lvl_Test:483D
+[2020.04.10-23.58.23:082][870]PIE: Error: Blueprint Runtime Error: "Attempted to access TextRender_Go_Back via property TextRender_Go_Back_ExecuteUbergraph_Train_lvl_Test_RefProperty, but TextRender_Go_Back is pending kill". Blueprint:  Train_lvl_Test Function:  Execute Ubergraph Train Lvl Test Graph:  EventGraph Node:  Toggle Visibility
+[2020.04.10-23.58.23:082][870]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue_40
+	Train_lvl_Test_C /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test_C_15
+	Function /Game/Levels/Train_lvl_Test.Train_lvl_Test_C:ExecuteUbergraph_Train_lvl_Test:485E
+[2020.04.10-23.58.23:082][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue_40". Blueprint:  Train_lvl_Test Function:  Execute Ubergraph Train Lvl Test Graph:  EventGraph Node:  Toggle Visibility
+[2020.04.10-23.58.23:510][893]LogScript: Warning: Attempted to access TextRender_Go_Back via property TextRender_Go_Back_ExecuteUbergraph_Train_lvl_Test_RefProperty, but TextRender_Go_Back is pending kill
+	Train_lvl_Test_C /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test_C_15
+	Function /Game/Levels/Train_lvl_Test.Train_lvl_Test_C:ExecuteUbergraph_Train_lvl_Test:48DB
+[2020.04.10-23.58.23:511][893]PIE: Error: Blueprint Runtime Error: "Attempted to access TextRender_Go_Back via property TextRender_Go_Back_ExecuteUbergraph_Train_lvl_Test_RefProperty, but TextRender_Go_Back is pending kill". Blueprint:  Train_lvl_Test Function:  Execute Ubergraph Train Lvl Test Graph:  EventGraph Node:  Toggle Visibility
+[2020.04.10-23.58.23:511][893]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue_41
+	Train_lvl_Test_C /Game/Levels/UEDPIE_0_Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test_C_15
+	Function /Game/Levels/Train_lvl_Test.Train_lvl_Test_C:ExecuteUbergraph_Train_lvl_Test:48FC
+[2020.04.10-23.58.23:511][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue_41". Blueprint:  Train_lvl_Test Function:  Execute Ubergraph Train Lvl Test Graph:  EventGraph Node:  Toggle Visibility
+[2020.04.10-23.58.26:417][ 49]LogNet: Browse: /Game/Levels/Credits
+[2020.04.10-23.58.26:417][ 49]LogLoad: LoadMap: /Game/Levels/Credits
+[2020.04.10-23.58.26:418][ 49]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_Test
+[2020.04.10-23.58.26:418][ 49]LogWorld: UWorld::CleanupWorld for Train_lvl_Test, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-23.58.26:419][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.58.26:423][ 49]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-23.58.26:443][ 49]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-23.58.26:501][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.04.10-23.58.26:512][ 49]LogAIModule: Creating AISystem for world Credits
+[2020.04.10-23.58.26:512][ 49]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-23.58.26:513][ 49]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2020.04.10-17.58.26
+[2020.04.10-23.58.26:514][ 49]LogWorld: Bringing up level for play took: 0.001135
+[2020.04.10-23.58.26:514][ 49]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.10-23.58.26:517][ 49]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.10-23.58.26:518][ 49]LogLoad: Took 0.100281 seconds to LoadMap(/Game/Levels/Credits)
+[2020.04.10-23.58.27:622][114]LogNet: Browse: /Game/Levels/MainMenu
+[2020.04.10-23.58.27:622][114]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2020.04.10-23.58.27:622][114]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Credits
+[2020.04.10-23.58.27:623][114]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-23.58.27:623][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.58.27:623][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.58.27:672][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.10-23.58.27:682][114]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.10-23.58.27:682][114]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-23.58.27:684][114]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.10-17.58.27
+[2020.04.10-23.58.27:684][114]LogWorld: Bringing up level for play took: 0.000693
+[2020.04.10-23.58.27:684][114]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.10-23.58.27:687][114]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.10-23.58.27:687][114]LogLoad: Took 0.064716 seconds to LoadMap(/Game/Levels/MainMenu)
+[2020.04.10-23.58.29:290][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-23.58.29:290][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.58.29:291][208]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.10-23.58.29:303][208]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-23.58.29:323][208]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-23.58.29:323][208]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-23.58.29:323][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.58.29:334][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-23.58.29:334][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test' with GeneratedClass '/Game/Levels/Train_lvl_Test.Train_lvl_Test_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test'
+[2020.04.10-23.58.29:340][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-23.58.29:388][208]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-23.58.29:391][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-23.58.29:397][208]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.04.10-23.58.29:552][209]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.04.10-23.58.31:101][280]LogSlate: Window 'Message Log' being destroyed
+[2020.04.10-23.58.31:108][280]LogSlate: Window 'Message Log' being destroyed
+[2020.04.10-23.58.39:967][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.10-23.58.41:658][755]LogSlate: Window 'Save Content' being destroyed
+[2020.04.10-23.58.41:687][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_ItemSpawner_2" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_ItemSpawner_2.uasset" SILENT=true
+[2020.04.10-23.58.41:718][755]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/BP_ItemSpawner_271DBCA34438CAE08F8300989AD225090.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_ItemSpawner_2.uasset'
+[2020.04.10-23.58.41:720][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_Sign_1" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_Sign_1.uasset" SILENT=true
+[2020.04.10-23.58.41:742][755]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/BP_Sign_16285D8BD4A6BDFE9FEB36FA130B854BF.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_Sign_1.uasset'
+[2020.04.10-23.58.41:745][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ItemSpawner/BP_Sign_2" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_Sign_2.uasset" SILENT=true
+[2020.04.10-23.58.41:766][755]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/BP_Sign_2DAF8234746BE578BB83179B6153CF730.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/ItemSpawner/BP_Sign_2.uasset'
+[2020.04.10-23.58.41:821][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.04.10-23.58.42:519][755]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_Test5083AAE9419F8528C68B3A8B57D304A2.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
+[2020.04.10-23.58.42:556][755]LogFileHelpers: Saving map 'Train_lvl_Test' took 0.788
+[2020.04.10-23.58.42:602][755]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.10-23.58.42:602][755]LogContentValidation: Display: Validating Blueprint /Game/ItemSpawner/BP_ItemSpawner_2.BP_ItemSpawner_2
+[2020.04.10-23.58.42:602][755]LogContentValidation: Display: Validating Blueprint /Game/ItemSpawner/BP_Sign_1.BP_Sign_1
+[2020.04.10-23.58.42:602][755]LogContentValidation: Display: Validating Blueprint /Game/ItemSpawner/BP_Sign_2.BP_Sign_2
+[2020.04.10-23.58.42:602][755]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
+[2020.04.10-23.59.01:256][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
