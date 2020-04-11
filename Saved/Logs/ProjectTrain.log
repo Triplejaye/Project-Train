@@ -2066,3 +2066,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.11-21.40.06:253][574]LogSlate: Window 'Message Log' being destroyed
 [2020.04.11-21.40.06:260][574]LogSlate: Window 'Message Log' being destroyed
 [2020.04.11-21.40.12:301][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.11-21.40.58:343][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.04.11-21.41.22:429][363]Cmd: TRANSACTION UNDO
+[2020.04.11-21.41.22:429][363]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.11-21.41.22:446][363]LogMaterial: Display: Missing cached shader map for material Harraser_Tint, compiling. 
+[2020.04.11-21.41.22:487][363]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.11-21.41.22:487][363]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.11-21.41.22:487][363]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.11-21.41.22:487][363]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.11-21.41.22:894][366]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.11-21.41.23:114][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.11-21.41.23:114][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.11-21.41.23:150][373]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.11-21.41.23:458][381]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.11-21.41.23:729][390]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.04.11-21.41.23:729][390]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.04.11-21.41.23:729][390]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.11-21.41.23:729][390]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.11-21.41.42:596][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (scn_treeThin3)
+[2020.04.11-21.41.44:301][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (scn_treeRound4)
+[2020.04.11-21.41.44:975][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.04.11-21.41.48:545][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.04.11-21.41.49:174][355]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_TestA443E3A1452D1197DA2F029AD2977135.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
+[2020.04.11-21.41.49:218][355]AssetCheck: New page: Asset Save: Train_lvl_Test
+[2020.04.11-21.41.49:218][355]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
