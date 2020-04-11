@@ -2283,3 +2283,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.11-21.50.59:336][856]LogPlayLevel: Display: Destroying online subsystem :Context_24
 [2020.04.11-21.51.01:214][954]LogSlate: Window 'Message Log' being destroyed
 [2020.04.11-21.51.01:220][954]LogSlate: Window 'Message Log' being destroyed
+[2020.04.11-21.51.57:735][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.11-21.52.48:921][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.04.11-22.00.04:671][313]BlueprintLog: New page: Compile Train_lvl_Test
+[2020.04.11-22.00.05:026][313]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.04.11-22.00.12:910][709]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.04.11-22.00.13:242][709]LogAIModule: Creating AISystem for world Train_lvl_Test_2
+[2020.04.11-22.00.16:052][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.04.11-22.00.17:499][856]LogSlate: Window 'Save Content' being destroyed
+[2020.04.11-22.00.17:565][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.04.11-22.00.18:241][856]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_Test736DB0A944B924130ECDC58D44477B4E.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
+[2020.04.11-22.00.18:274][856]LogFileHelpers: Saving map 'Train_lvl_Test' took 0.747
+[2020.04.11-22.00.18:354][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.04.11-22.00.18:972][856]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_Test_29D12C5A64849625781DB4AA8F84E0D05.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test_2.umap'
+[2020.04.11-22.00.18:995][856]LogFileHelpers: Saving map 'Train_lvl_Test_2' took 0.720
+[2020.04.11-22.00.19:038][856]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.11-22.00.19:038][856]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
+[2020.04.11-22.00.19:038][856]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test_2.Train_lvl_Test_2
+[2020.04.11-22.00.25:677][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.04.11-22.00.25:678][198]LogMetaData: Removing '/Game/Levels/Train_lvl_Test_Backup.SKEL_Train_lvl_Test_Backup_C' ref from Metadata '/Game/Levels/Train_lvl_Test_2.PackageMetaData'
+[2020.04.11-22.00.25:678][198]LogMetaData: Removing '/Game/Levels/Train_lvl_Test_Backup.Train_lvl_Test_Backup_C' ref from Metadata '/Game/Levels/Train_lvl_Test_2.PackageMetaData'
+[2020.04.11-22.00.25:792][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.04.11-22.00.26:424][198]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_Test_Backup9635732D43C4A1872F3F78AA87435CAA.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test_Backup.umap'
+[2020.04.11-22.00.26:445][198]LogFileHelpers: Saving map 'Train_lvl_Test_Backup' took 0.735
+[2020.04.11-22.00.26:702][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.04.11-22.00.26:747][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.04.11-22.00.26:782][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.11-22.00.26:850][198]AssetCheck: New page: Asset Save: Train_lvl_Test_Backup
+[2020.04.11-22.00.26:850][198]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test_Backup.Train_lvl_Test_Backup
+[2020.04.11-22.00.28:456][265]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
