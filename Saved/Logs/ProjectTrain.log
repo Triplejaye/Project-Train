@@ -1529,3 +1529,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.16-01.48.18:285][454]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
 [2020.04.16-01.48.18:285][454]LogFileHelpers: Loading map 'Train_lvl_Test' took 0.131
 [2020.04.16-01.48.20:301][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.16-01.50.34:336][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.04.16-01.51.51:732][468]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Credits.Credits
+[2020.04.16-01.52.45:888][353]LogSlate: Took 0.004959 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.16-01.56.45:545][651]BlueprintLog: New page: Compile Credits
+[2020.04.16-01.56.45:620][651]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
