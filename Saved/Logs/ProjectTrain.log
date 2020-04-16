@@ -1534,3 +1534,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.16-01.52.45:888][353]LogSlate: Took 0.004959 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
 [2020.04.16-01.56.45:545][651]BlueprintLog: New page: Compile Credits
 [2020.04.16-01.56.45:620][651]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.04.16-01.57.20:499][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Credits" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Credits.uasset" SILENT=true
+[2020.04.16-01.57.20:522][581]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/CreditsF1AAD01246640C0B087610A9992F7E35.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Credits.uasset'
+[2020.04.16-01.57.20:541][581]AssetCheck: New page: Asset Save: Credits
+[2020.04.16-01.57.20:541][581]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Credits.Credits
+[2020.04.16-01.57.21:805][690]BlueprintLog: New page: Compile Credits
+[2020.04.16-01.57.21:857][690]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.04.16-01.58.15:458][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.04.16-01.58.16:176][ 71]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_Test27F021324E087E8CC0A65CA25E4ADE15.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
+[2020.04.16-01.58.16:224][ 71]AssetCheck: New page: Asset Save: Train_lvl_Test
+[2020.04.16-01.58.16:224][ 71]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
+[2020.04.16-02.25.37:362][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.04.16-02.25.38:269][234]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_Test1CF6F0BB471BDA294D7729813230374D.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_Test.umap'
+[2020.04.16-02.25.38:327][234]AssetCheck: New page: Asset Save: Train_lvl_Test
+[2020.04.16-02.25.38:327][234]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_Test.Train_lvl_Test
+[2020.04.16-02.25.49:535][149]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Train_lvl_Test.Train_lvl_Test:PersistentLevel.Train_lvl_Test
+[2020.04.16-02.26.16:642][545]BlueprintLog: New page: Compile Train_lvl_Test
+[2020.04.16-02.26.17:028][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
