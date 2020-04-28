@@ -4529,3 +4529,870 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.28-19.52.32:766][789]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.04.28-19.52.32:766][789]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.185ms to complete.
 [2020.04.28-19.52.32:766][789]LogFileHelpers: Loading map 'Train_lvl_1' took 0.474
+[2020.04.28-19.53.00:175][867]MapCheck: New page: Map Check
+[2020.04.28-19.53.00:190][867]LightingResults: New page: Lighting Build - Apr 28, 2020, 7:53:00 AM
+[2020.04.28-19.53.00:198][867]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.28-19.53.00:204][867]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.28-19.53.00:204][867]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.28-19.53.00:205][867]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.28-19.53.00:205][867]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20224
+[2020.04.28-19.53.04:742][867]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.28-19.53.04:742][867]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.28-19.53.04:742][867]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.28-19.53.04:742][867]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.28-19.53.04:742][867]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.28-19.53.04:859][867]LogEditorBuildUtils: Build time 0:04
+[2020.04.28-19.53.04:931][868]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Chair_Mat_2, compiling. 
+[2020.04.28-19.53.04:945][868]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.28-19.53.04:945][868]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.28-19.53.04:945][868]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Chair_Mat_2, compiling. 
+[2020.04.28-19.53.04:957][868]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.28-19.53.04:957][868]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.28-19.53.05:562][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.04.28-19.53.24:968][719]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-19.53.24:968][719]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-19.53.25:321][732]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-19.53.25:321][732]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-19.53.25:552][740]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-19.53.25:552][740]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-19.54.02:691][328]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-19.54.02:691][328]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-19.54.03:625][363]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-19.54.03:625][363]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-19.55.17:481][634]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-19.55.17:481][634]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-19.55.19:326][718]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-19.55.19:326][718]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-19.55.20:623][778]Job is a success!
+[2020.04.28-19.55.20:806][779]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2020.04.28-19.55.20:806][779]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.28-19.55.20:806][779]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.04.28-19.55.20:806][779]LogVolumetricLightmapImport:      Bricks at depth
+[2020.04.28-19.55.20:806][779]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2020.04.28-19.55.20:806][779]LogVolumetricLightmapImport:          1: 6.7% covering 6.3% of volume
+[2020.04.28-19.55.20:806][779]LogVolumetricLightmapImport:          2: 91.7% covering 1.3% of volume
+[2020.04.28-19.55.20:806][779]LogVolumetricLightmapImport:      Bricks in each level
+[2020.04.28-19.55.20:806][779]LogVolumetricLightmapImport:          Train_lvl_1 			 60 bricks 	 100.0% (Persistent Level)
+[2020.04.28-19.55.21:970][779]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:840][779]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 2048X1024)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 2048X2048)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 2048X2048)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 1024X512)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 128X128)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:841][779]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 128X128)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 128X128)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 128X128)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 128X128)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: SkyOcclusion0_31 (AutoDXT, 128X64)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 128X128)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 128X128)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: SkyOcclusion0_32 (AutoDXT, 64X32)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 64X64)
+[2020.04.28-19.55.28:842][779]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 64X64)
+[2020.04.28-19.55.29:241][779]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:241][779]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:241][779]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:241][779]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.04.28-19.55.29:241][779]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:241][779]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:641][779]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:641][779]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2020.04.28-19.55.29:641][779]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:641][779]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:641][779]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:641][779]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:841][779]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X512)
+[2020.04.28-19.55.29:841][779]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 64X64)
+[2020.04.28-19.55.29:841][779]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 64X64)
+[2020.04.28-19.55.29:841][779]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 64X64)
+[2020.04.28-19.55.29:841][779]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 64X64)
+[2020.04.28-19.55.29:841][779]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 64X64)
+[2020.04.28-19.55.29:841][779]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2020.04.28-19.55.29:841][779]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 64X64)
+[2020.04.28-19.55.29:841][779]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 64X64)
+[2020.04.28-19.55.29:841][779]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 64X64)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 64X64)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 64X64)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 64X64)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 64X64)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 64X64)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 64X64)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 64X64)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 32X32)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.04.28-19.55.29:842][779]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X1024)
+[2020.04.28-19.55.29:951][779]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X1024)
+[2020.04.28-19.55.29:951][779]Lightmass on DESKTOP-KBUC8NT: 2:23 min total, 178 ms importing, 73 ms setup, 18.3 sec photons, 2:05 min processing, 0 ms extra exporting [128/128 mappings]. Threads: 14:36 min total, 9:49 min processing.
+[2020.04.28-19.55.29:957][779]LogStaticLightingSystem: Train_lvl_1_BuiltData storing lightmap data for 128 meshes in 39 LightmapResourceClusters (3.3 Meshes per cluster).
+[2020.04.28-19.55.29:966][779]LogMaterial: Display: Material /Game/Models/Materials/Chair_Mat_2.Chair_Mat_2 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.28-19.55.29:986][779]LogMaterial: Display: Missing cached shader map for material Chair_Mat_2, compiling. 
+[2020.04.28-19.55.30:093][779]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.04.28-19.55.30:093][779]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.04.28-19.55.30:093][779]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.04.28-19.55.30:093][779]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.28-19.55.30:093][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.04.28-19.55.30:189][779]LogStaticLightingSystem: Illumination: 2:29 min (6.88 sec encoding lightmaps, 1.04 sec encoding shadowmaps)
+[2020.04.28-19.55.30:189][779]LogStaticLightingSystem: Lightmap texture memory:  131.4 MB (131.4 MB streaming, 0.0 MB non-streaming), 64 textures
+[2020.04.28-19.55.30:189][779]LogStaticLightingSystem: Shadowmap texture memory: 77.4 MB (77.4 MB streaming, 0.0 MB non-streaming), 37 textures
+[2020.04.28-19.55.30:833][779]DumpUnbuiltLightIteractions
+[2020.04.28-19.55.30:833][779]Lights with unbuilt interactions: 0
+[2020.04.28-19.55.30:833][779]
+[2020.04.28-19.55.30:833][779]Primitives with unbuilt interactions: 0
+[2020.04.28-19.55.32:722][780]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.28-19.55.32:722][780]MapCheck: New page: Train_lvl_1 - Apr 28, 2020, 7:55:32 AM
+[2020.04.28-19.55.32:722][780]MapCheck: Warning: SitChoice1_opt1 SitChoice1_opt1 is in the same location as SitChoice1_opt3 
+[2020.04.28-19.55.32:722][780]MapCheck: Warning: SitChoice1_opt2 SitChoice1_opt2 is in the same location as SitChoice1_opt4 
+[2020.04.28-19.55.32:723][780]MapCheck: Warning: SitChoice1_opt3 SitChoice1_opt3 is in the same location as SitChoice1_opt1 
+[2020.04.28-19.55.32:723][780]MapCheck: Warning: SitChoice1_opt4 SitChoice1_opt4 is in the same location as SitChoice1_opt2 
+[2020.04.28-19.55.32:723][780]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 1.615ms to complete.
+[2020.04.28-19.55.36:983][ 43]LogSlate: Window 'Message Log' being destroyed
+[2020.04.28-19.55.36:990][ 43]LogSlate: Window 'Message Log' being destroyed
+[2020.04.28-19.55.43:810][567]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.28-19.55.43:843][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.55.43:843][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-19.55.43:843][567]PIE: New page: PIE session: Train_lvl_1 (Apr 28, 2020, 7:55:43 AM)
+[2020.04.28-19.55.43:843][567]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.28-19.55.43:889][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046288s)
+[2020.04.28-19.55.43:889][567]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.28-19.55.43:889][567]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2020.04.28-19.55.43:890][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_1.Train_lvl_1 to /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 (0.047644s)
+[2020.04.28-19.55.43:927][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.04.28-19.55.43:933][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-19.55.43:933][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-19.55.43:933][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-19.55.43:933][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-19.55.43:933][567]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-19.55.43:933][567]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-19.55.43:933][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-19.55.43:933][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-19.55.43:933][567]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-19.55.43:933][567]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-19.55.43:945][567]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-19.55.43:945][567]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.28-19.55.43:945][567]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-19.55.43:945][567]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-19.55.43:945][567]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-19.55.43:945][567]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-19.55.43:945][567]LogAudioMixer: Display: Channel Order:
+[2020.04.28-19.55.43:945][567]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-19.55.43:945][567]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-19.55.43:954][567]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.28-19.55.43:955][567]LogInit: FAudioDevice initialized.
+[2020.04.28-19.55.44:002][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-19.55.44:002][567]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.28-19.55.44:012][567]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 up for play (max tick rate 0) at 2020.04.28-13.55.44
+[2020.04.28-19.55.44:014][567]LogWorld: Bringing up level for play took: 0.010915
+[2020.04.28-19.55.44:014][567]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.04.28-19.55.44:020][567]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_1 0.713
+[2020.04.28-19.55.44:020][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.55.51:092][  1]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.55.51:098][  1]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.28-19.55.51:118][  1]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.28-19.55.51:119][  1]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.55.51:119][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-19.55.51:119][  1]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.28-19.55.51:135][  1]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.28-19.55.51:147][  1]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.55.51:148][  1]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-19.55.51:151][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-19.55.51:169][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-19.55.51:170][  1]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.55.51:175][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-19.55.51:217][  1]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.55.51:227][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.04.28-19.55.51:290][  2]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.04.28-19.55.56:065][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TrainCar)
+[2020.04.28-19.56.04:949][703]LogMaterial: Display: Material /Game/Models/Materials/StripeSG.StripeSG needed to have new flag set bUsedWithStaticLighting !
+[2020.04.28-19.56.04:953][703]LogMaterial: Display: Missing cached shader map for material StripeSG, compiling. 
+[2020.04.28-19.56.05:013][704]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.04.28-19.56.05:013][704]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.04.28-19.56.05:013][704]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.04.28-19.56.05:013][704]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.28-19.56.20:238][530]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Materials/TrainBody.TrainBody
+[2020.04.28-19.56.20:242][530]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.28-19.56.20:489][530]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.28-19.56.20:502][530]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.28-19.56.20:518][530]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.28-19.56.20:526][530]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.28-19.56.20:526][530]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.28-19.56.20:526][530]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.28-19.56.20:526][530]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.28-19.56.21:141][543]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.04.28-19.56.21:162][544]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.04.28-19.56.21:191][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.04.28-19.56.21:196][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.28-19.56.21:505][553]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.28-19.56.21:559][556]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.28-19.56.21:751][563]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.28-19.56.21:780][564]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.28-19.56.22:011][571]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.04.28-19.56.22:075][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.28-19.56.22:098][574]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.28-19.56.22:130][575]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.28-19.56.22:130][575]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.04.28-19.56.22:130][575]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.28-19.56.22:131][575]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.28-19.56.22:131][575]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.28-19.56.31:436][ 45]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.28-19.56.31:450][ 45]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.28-19.56.31:450][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.28-19.56.31:450][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.28-19.56.31:450][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.28-19.56.31:455][ 45]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.28-19.56.32:085][ 65]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.04.28-19.56.32:110][ 66]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.04.28-19.56.32:140][ 67]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.04.28-19.56.32:148][ 67]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.28-19.56.32:731][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.28-19.56.32:759][ 86]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.28-19.56.32:795][ 87]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.04.28-19.56.32:815][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.28-19.56.33:103][ 97]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.04.28-19.56.33:186][100]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.28-19.56.33:332][105]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.28-19.56.33:681][118]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.28-19.56.33:681][118]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.04.28-19.56.33:681][118]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.28-19.56.33:681][118]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.28-19.56.33:681][118]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.28-19.56.34:566][161]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.28-19.56.34:591][162]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.28-19.56.34:591][162]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.28-19.56.34:591][162]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.28-19.56.34:591][162]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.28-19.56.35:210][182]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.28-19.56.35:225][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.04.28-19.56.35:253][184]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.28-19.56.35:263][184]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.04.28-19.56.35:534][192]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.04.28-19.56.35:639][195]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.28-19.56.35:801][200]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.28-19.56.36:145][213]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.28-19.56.36:145][213]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.04.28-19.56.36:145][213]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.28-19.56.36:145][213]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.28-19.56.36:145][213]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.28-19.56.39:392][380]LogMaterialEditor: Applying material TrainBody
+[2020.04.28-19.56.39:789][380]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.28-19.56.39:836][380]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.28-19.56.39:837][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.28-19.56.39:837][380]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.28-19.56.39:837][380]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.28-19.56.39:858][380]LogMaterial: Display: Missing cached shader map for material TrainBody, compiling. 
+[2020.04.28-19.56.39:960][380]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.04.28-19.56.39:983][380]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.04.28-19.56.41:195][380]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.28-19.56.41:208][380]TextureStreamingBuild: Display: Compiling optional shaders took 1.239 seconds.
+[2020.04.28-19.56.41:256][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.04.28-19.56.42:713][422]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.28-19.56.43:077][433]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.28-19.56.43:399][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.28-19.56.43:537][453]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.28-19.56.43:979][475]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.28-19.56.43:979][475]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.04.28-19.56.43:979][475]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.28-19.56.43:979][475]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.28-19.56.43:979][475]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.28-19.56.55:233][258]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.28-19.56.55:256][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.56.55:256][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-19.56.55:256][258]PIE: New page: PIE session: Train_lvl_1 (Apr 28, 2020, 7:56:55 AM)
+[2020.04.28-19.56.55:256][258]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.28-19.56.55:300][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043618s)
+[2020.04.28-19.56.55:301][258]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.28-19.56.55:301][258]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2020.04.28-19.56.55:301][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_1.Train_lvl_1 to /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 (0.044941s)
+[2020.04.28-19.56.55:341][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.04.28-19.56.55:344][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-19.56.55:344][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-19.56.55:344][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-19.56.55:344][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-19.56.55:345][258]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-19.56.55:345][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-19.56.55:345][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-19.56.55:345][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-19.56.55:345][258]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-19.56.55:345][258]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-19.56.55:357][258]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-19.56.55:357][258]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.28-19.56.55:357][258]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-19.56.55:357][258]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-19.56.55:357][258]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-19.56.55:357][258]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-19.56.55:357][258]LogAudioMixer: Display: Channel Order:
+[2020.04.28-19.56.55:357][258]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-19.56.55:357][258]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-19.56.55:366][258]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.28-19.56.55:367][258]LogInit: FAudioDevice initialized.
+[2020.04.28-19.56.55:420][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-19.56.55:420][258]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.28-19.56.55:430][258]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 up for play (max tick rate 0) at 2020.04.28-13.56.55
+[2020.04.28-19.56.55:431][258]LogWorld: Bringing up level for play took: 0.010670
+[2020.04.28-19.56.55:432][258]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.04.28-19.56.55:437][258]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_1 0.129
+[2020.04.28-19.56.55:437][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.57.12:003][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.57.12:029][514]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.28-19.57.12:049][514]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.28-19.57.12:049][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.57.12:049][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-19.57.12:049][514]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.28-19.57.12:066][514]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.28-19.57.12:079][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.57.12:079][514]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-19.57.12:081][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-19.57.12:101][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-19.57.12:102][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.57.12:107][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-19.57.12:147][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.57.12:157][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.04.28-19.57.12:176][515]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.04.28-19.57.17:598][890]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.28-19.57.17:618][890]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.57.17:618][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-19.57.17:618][890]PIE: New page: PIE session: Train_lvl_1 (Apr 28, 2020, 7:57:17 AM)
+[2020.04.28-19.57.17:618][890]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.28-19.57.17:662][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043391s)
+[2020.04.28-19.57.17:663][890]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.28-19.57.17:663][890]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2020.04.28-19.57.17:663][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_1.Train_lvl_1 to /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 (0.044690s)
+[2020.04.28-19.57.17:701][890]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.04.28-19.57.17:704][890]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-19.57.17:704][890]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-19.57.17:704][890]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-19.57.17:704][890]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-19.57.17:704][890]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-19.57.17:704][890]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-19.57.17:704][890]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-19.57.17:704][890]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-19.57.17:704][890]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-19.57.17:704][890]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-19.57.17:715][890]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-19.57.17:715][890]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.28-19.57.17:716][890]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-19.57.17:716][890]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-19.57.17:716][890]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-19.57.17:716][890]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-19.57.17:716][890]LogAudioMixer: Display: Channel Order:
+[2020.04.28-19.57.17:716][890]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-19.57.17:716][890]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-19.57.17:724][890]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.28-19.57.17:726][890]LogInit: FAudioDevice initialized.
+[2020.04.28-19.57.17:770][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-19.57.17:770][890]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.28-19.57.17:781][890]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 up for play (max tick rate 0) at 2020.04.28-13.57.17
+[2020.04.28-19.57.17:783][890]LogWorld: Bringing up level for play took: 0.012102
+[2020.04.28-19.57.17:783][890]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.04.28-19.57.17:789][890]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_1 0.481
+[2020.04.28-19.57.17:789][890]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.57.25:532][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.57.25:549][521]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.28-19.57.25:579][521]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.28-19.57.25:579][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.57.25:579][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-19.57.25:579][521]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.28-19.57.25:596][521]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.28-19.57.25:608][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.57.25:609][521]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-19.57.25:610][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-19.57.25:617][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-19.57.25:617][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.28-19.57.25:623][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-19.57.25:660][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.57.25:671][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.04.28-19.57.25:690][522]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.04.28-19.57.31:606][ 28]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1
+[2020.04.28-19.59.11:529][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (scn_treeThin)
+[2020.04.28-19.59.18:275][422]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.28-19.59.18:310][422]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.28-19.59.18:364][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.04.28-19.59.19:851][422]LogSlate: Window 'Save Content' being destroyed
+[2020.04.28-19.59.19:909][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.04.28-19.59.20:739][422]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1C159E2FF402FC2C599D2DB887BC1BC3A.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.28-19.59.20:776][422]LogFileHelpers: Saving map 'Train_lvl_1' took 0.907
+[2020.04.28-19.59.20:776][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_1_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1_BuiltData.uasset" SILENT=true
+[2020.04.28-19.59.23:199][422]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1_BuiltData965018BF44F3161D788F0583ED0A6BBF.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1_BuiltData.uasset'
+[2020.04.28-19.59.23:209][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/Chair_Mat_2" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/Chair_Mat_2.uasset" SILENT=true
+[2020.04.28-19.59.23:228][422]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Chair_Mat_2CA0436584ABDC0E7581B3BBC06009ACC.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/Chair_Mat_2.uasset'
+[2020.04.28-19.59.23:238][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/StripeSG" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/StripeSG.uasset" SILENT=true
+[2020.04.28-19.59.23:257][422]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/StripeSG4C258D01418F5CCB4C682384DFAA7E66.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/StripeSG.uasset'
+[2020.04.28-19.59.23:267][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials/TrainBody" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/TrainBody.uasset" SILENT=true
+[2020.04.28-19.59.23:287][422]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/TrainBodyE7F805144FA0069CE8CF26883596FFD0.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Models/Materials/TrainBody.uasset'
+[2020.04.28-19.59.23:290][422]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.28-19.59.23:290][422]LightingResults: New page: Lighting Build
+[2020.04.28-19.59.23:291][422]LoadErrors: New page: Loading map: Train_lvl_2.umap
+[2020.04.28-19.59.23:311][422]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-19.59.23:311][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-19.59.23:358][422]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-19.59.23:358][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-19.59.23:359][422]MapCheck: New page: Map Check
+[2020.04.28-19.59.23:359][422]LightingResults: New page: Lighting Build
+[2020.04.28-19.59.23:414][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.04.28-19.59.23:533][422]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.28-19.59.23:581][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.04.28-19.59.23:612][422]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.28-19.59.23:612][422]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2020.04.28-19.59.23:612][422]LogFileHelpers: Loading map 'Train_lvl_2' took 0.323
+[2020.04.28-19.59.23:705][422]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.28-19.59.23:705][422]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.28-19.59.23:910][422]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.28-19.59.23:938][422]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_1_BuiltData.Train_lvl_1_BuiltData
+[2020.04.28-19.59.23:938][422]LogContentValidation: Display: Validating Material /Game/Models/Materials/Chair_Mat_2.Chair_Mat_2
+[2020.04.28-19.59.23:938][422]LogContentValidation: Display: Validating Material /Game/Models/Materials/StripeSG.StripeSG
+[2020.04.28-19.59.23:939][422]LogContentValidation: Display: Validating Material /Game/Models/Materials/TrainBody.TrainBody
+[2020.04.28-19.59.26:746][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (scn_treeRound3)
+[2020.04.28-19.59.27:207][590]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (scn_treeRound2)
+[2020.04.28-19.59.27:675][610]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (scn_treeRound)
+[2020.04.28-19.59.29:983][737]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (scn_treeThin)
+[2020.04.28-19.59.31:428][825]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (scn_treeThin2)
+[2020.04.28-19.59.51:276][220]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.28-19.59.51:306][220]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.28-19.59.51:306][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-19.59.51:306][220]PIE: New page: PIE session: Train_lvl_2 (Apr 28, 2020, 7:59:51 AM)
+[2020.04.28-19.59.51:306][220]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.28-19.59.51:369][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062972s)
+[2020.04.28-19.59.51:371][220]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.28-19.59.51:371][220]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2020.04.28-19.59.51:371][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_2.Train_lvl_2 to /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 (0.064437s)
+[2020.04.28-19.59.51:420][220]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.04.28-19.59.51:434][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-19.59.51:434][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-19.59.51:434][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-19.59.51:434][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-19.59.51:434][220]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-19.59.51:434][220]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-19.59.51:434][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-19.59.51:434][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-19.59.51:435][220]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-19.59.51:435][220]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-19.59.51:446][220]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-19.59.51:446][220]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.28-19.59.51:446][220]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-19.59.51:446][220]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-19.59.51:446][220]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-19.59.51:446][220]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-19.59.51:446][220]LogAudioMixer: Display: Channel Order:
+[2020.04.28-19.59.51:446][220]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-19.59.51:446][220]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-19.59.51:456][220]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.28-19.59.51:457][220]LogInit: FAudioDevice initialized.
+[2020.04.28-19.59.51:505][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-19.59.51:506][220]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.28-19.59.51:527][220]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 up for play (max tick rate 0) at 2020.04.28-13.59.51
+[2020.04.28-19.59.51:530][220]LogWorld: Bringing up level for play took: 0.023464
+[2020.04.28-19.59.51:531][220]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.04.28-19.59.51:539][220]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_2 0.231
+[2020.04.28-19.59.51:539][220]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.28-19.59.53:353][365]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.59.53:369][365]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.28-19.59.53:399][365]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.28-19.59.53:399][365]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.28-19.59.53:400][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-19.59.53:400][365]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.28-19.59.53:417][365]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.28-19.59.53:429][365]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.59.53:430][365]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-19.59.53:432][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-19.59.53:444][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-19.59.53:445][365]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.28-19.59.53:454][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-19.59.53:495][365]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-19.59.53:507][365]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.04.28-19.59.53:527][366]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.04.28-19.59.54:218][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (scn_treeThin)
+[2020.04.28-19.59.59:070][706]MapCheck: New page: Map Check
+[2020.04.28-19.59.59:079][706]LightingResults: New page: Lighting Build - Apr 28, 2020, 7:59:59 AM
+[2020.04.28-19.59.59:087][706]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.28-19.59.59:089][706]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.28-19.59.59:089][706]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.28-19.59.59:089][706]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.28-19.59.59:089][706]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20224
+[2020.04.28-20.00.03:617][706]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.28-20.00.03:617][706]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.28-20.00.03:617][706]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.28-20.00.03:617][706]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.28-20.00.03:617][706]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.28-20.00.03:740][706]LogEditorBuildUtils: Build time 0:04
+[2020.04.28-20.00.03:831][707]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TrainBody, compiling. 
+[2020.04.28-20.00.03:846][707]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.28-20.00.03:846][707]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.28-20.00.03:846][707]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TrainBody, compiling. 
+[2020.04.28-20.00.03:895][707]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.28-20.00.03:895][707]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.28-20.00.04:431][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.04.28-20.00.23:000][386]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-20.00.23:000][386]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-20.00.23:473][400]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-20.00.23:473][400]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-20.00.24:077][417]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-20.00.24:077][417]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-20.00.24:396][424]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-20.00.24:396][424]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-20.01.48:338][166]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-20.01.48:338][166]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-20.01.50:533][232]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-20.01.50:533][232]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-20.02.12:273][664]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.28-20.02.12:273][664]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.28-20.02.12:942][666]Job is a success!
+[2020.04.28-20.02.13:486][667]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.04.28-20.02.13:486][667]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.28-20.02.13:486][667]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.04.28-20.02.13:486][667]LogVolumetricLightmapImport:      Bricks at depth
+[2020.04.28-20.02.13:486][667]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2020.04.28-20.02.13:486][667]LogVolumetricLightmapImport:          1: 6.7% covering 6.3% of volume
+[2020.04.28-20.02.13:486][667]LogVolumetricLightmapImport:          2: 91.7% covering 1.3% of volume
+[2020.04.28-20.02.13:486][667]LogVolumetricLightmapImport:      Bricks in each level
+[2020.04.28-20.02.13:487][667]LogVolumetricLightmapImport:          Train_lvl_2 			 60 bricks 	 100.0% (Persistent Level)
+[2020.04.28-20.02.14:673][667]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.04.28-20.02.21:492][667]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:493][667]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 2048X1024)
+[2020.04.28-20.02.21:494][667]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 2048X2048)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 2048X2048)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_23 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_25 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 128X128)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: SkyOcclusion1_26 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:495][667]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:496][667]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 128X128)
+[2020.04.28-20.02.21:496][667]LogTexture: Display: Building textures: SkyOcclusion1_27 (AutoDXT, 128X64)
+[2020.04.28-20.02.21:496][667]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 128X128)
+[2020.04.28-20.02.21:496][667]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 128X128)
+[2020.04.28-20.02.21:496][667]LogTexture: Display: Building textures: SkyOcclusion1_28 (AutoDXT, 64X32)
+[2020.04.28-20.02.21:496][667]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 64X64)
+[2020.04.28-20.02.21:496][667]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 64X64)
+[2020.04.28-20.02.21:941][667]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2020.04.28-20.02.21:941][667]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2020.04.28-20.02.21:941][667]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.04.28-20.02.21:941][667]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2020.04.28-20.02.21:941][667]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2020.04.28-20.02.21:941][667]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2020.04.28-20.02.22:341][667]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2020.04.28-20.02.22:341][667]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2020.04.28-20.02.22:341][667]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2020.04.28-20.02.22:540][667]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2020.04.28-20.02.22:540][667]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2020.04.28-20.02.22:540][667]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X1024)
+[2020.04.28-20.02.22:742][667]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X1024)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 64X64)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 32X32)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X512)
+[2020.04.28-20.02.22:743][667]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X1024)
+[2020.04.28-20.02.22:857][667]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 1024X1024)
+[2020.04.28-20.02.22:857][667]Lightmass on DESKTOP-KBUC8NT: 2:17 min total, 188 ms importing, 71 ms setup, 17.5 sec photons, 2:00 min processing, 0 ms extra exporting [128/128 mappings]. Threads: 14:00 min total, 9:21 min processing.
+[2020.04.28-20.02.22:867][667]LogStaticLightingSystem: Train_lvl_2_BuiltData storing lightmap data for 128 meshes in 34 LightmapResourceClusters (3.8 Meshes per cluster).
+[2020.04.28-20.02.22:928][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.04.28-20.02.23:007][667]LogStaticLightingSystem: Illumination: 2:23 min (6.83 sec encoding lightmaps, 1.28 sec encoding shadowmaps)
+[2020.04.28-20.02.23:007][667]LogStaticLightingSystem: Lightmap texture memory:  128.6 MB (128.6 MB streaming, 0.0 MB non-streaming), 56 textures
+[2020.04.28-20.02.23:007][667]LogStaticLightingSystem: Shadowmap texture memory: 77.4 MB (77.4 MB streaming, 0.0 MB non-streaming), 34 textures
+[2020.04.28-20.02.23:852][667]DumpUnbuiltLightIteractions
+[2020.04.28-20.02.23:852][667]Lights with unbuilt interactions: 0
+[2020.04.28-20.02.23:852][667]
+[2020.04.28-20.02.23:852][667]Primitives with unbuilt interactions: 0
+[2020.04.28-20.02.23:988][668]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.28-20.02.23:988][668]MapCheck: New page: Train_lvl_2 - Apr 28, 2020, 8:02:23 AM
+[2020.04.28-20.02.23:988][668]MapCheck: Warning: SitChoice1_opt1 SitChoice1_opt1 is in the same location as SitChoice1_opt4 
+[2020.04.28-20.02.23:989][668]MapCheck: Warning: SitChoice1_opt2 SitChoice1_opt2 is in the same location as SitChoice1_opt5_3 
+[2020.04.28-20.02.23:989][668]MapCheck: Warning: SitChoice1_opt4 SitChoice1_opt4 is in the same location as SitChoice1_opt1 
+[2020.04.28-20.02.23:989][668]MapCheck: Warning: SitChoice1_opt5_3 SitChoice1_opt5_3 is in the same location as SitChoice1_opt2 
+[2020.04.28-20.02.23:989][668]MapCheck: Warning: SitChoice1_opt3_0 SitChoice1_opt3_0 is in the same location as SitChoice1_opt6 
+[2020.04.28-20.02.23:989][668]MapCheck: Warning: SitChoice1_opt6 SitChoice1_opt6 is in the same location as SitChoice1_opt3_0 
+[2020.04.28-20.02.23:990][668]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 1.736ms to complete.
+[2020.04.28-20.03.07:011][797]LogSlate: Window 'Message Log' being destroyed
+[2020.04.28-20.03.07:017][797]LogSlate: Window 'Message Log' being destroyed
+[2020.04.28-20.03.31:532][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.04.28-20.03.32:822][633]LogSlate: Window 'Save Content' being destroyed
+[2020.04.28-20.03.32:885][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.04.28-20.03.33:958][633]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2E656BFC64D3D08CBB36911A5A9B81F76.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.28-20.03.33:994][633]LogFileHelpers: Saving map 'Train_lvl_2' took 1.150
+[2020.04.28-20.03.33:994][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_2_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset" SILENT=true
+[2020.04.28-20.03.36:557][633]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2_BuiltData5E4118B949759301778C18904705CC77.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset'
+[2020.04.28-20.03.36:594][633]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.28-20.03.36:594][633]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.28-20.03.36:594][633]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_2_BuiltData.Train_lvl_2_BuiltData
+[2020.04.28-20.03.54:704][ 75]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.28-20.03.54:705][ 75]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.04.28-20.03.54:755][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.04.28-20.03.54:759][ 75]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.28-20.03.54:759][ 75]LightingResults: New page: Lighting Build
+[2020.04.28-20.03.54:759][ 75]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.04.28-20.03.54:762][ 75]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-20.03.54:762][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-20.03.54:762][ 75]MapCheck: New page: Map Check
+[2020.04.28-20.03.54:762][ 75]LightingResults: New page: Lighting Build
+[2020.04.28-20.03.54:816][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.04.28-20.03.54:917][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.04.28-20.03.54:957][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.04.28-20.03.54:959][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.28-20.03.54:996][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.04.28-20.03.55:026][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.28-20.03.55:027][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2020.04.28-20.03.55:027][ 75]LogFileHelpers: Loading map 'MainMenu' took 0.269
+[2020.04.28-20.03.56:106][180]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.28-20.03.56:131][180]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.28-20.03.56:131][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-20.03.56:131][180]PIE: New page: PIE session: MainMenu (Apr 28, 2020, 8:03:56 AM)
+[2020.04.28-20.03.56:131][180]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.28-20.03.56:133][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001101s)
+[2020.04.28-20.03.56:133][180]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.28-20.03.56:133][180]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2020.04.28-20.03.56:133][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002107s)
+[2020.04.28-20.03.56:170][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.04.28-20.03.56:171][180]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-20.03.56:171][180]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-20.03.56:171][180]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-20.03.56:171][180]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-20.03.56:171][180]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-20.03.56:171][180]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-20.03.56:171][180]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-20.03.56:171][180]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-20.03.56:172][180]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-20.03.56:172][180]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-20.03.56:184][180]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-20.03.56:184][180]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.28-20.03.56:184][180]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-20.03.56:184][180]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-20.03.56:184][180]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-20.03.56:184][180]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-20.03.56:184][180]LogAudioMixer: Display: Channel Order:
+[2020.04.28-20.03.56:184][180]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-20.03.56:184][180]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-20.03.56:193][180]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.28-20.03.56:194][180]LogInit: FAudioDevice initialized.
+[2020.04.28-20.03.56:240][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-20.03.56:240][180]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.28-20.03.56:241][180]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.28-14.03.56
+[2020.04.28-20.03.56:241][180]LogWorld: Bringing up level for play took: 0.000361
+[2020.04.28-20.03.56:241][180]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.04.28-20.03.56:246][180]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.28-20.03.56:248][180]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.941
+[2020.04.28-20.03.56:249][180]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.28-20.03.56:255][180]LogAudio: Warning: Detected orphaned looping sound 'symmetry-by-kevin-macleod-from-filmmusic-io'.
+[2020.04.28-20.04.00:112][537]LogNet: Browse: /Game/Levels/Train_lvl_1
+[2020.04.28-20.04.00:112][537]LogLoad: LoadMap: /Game/Levels/Train_lvl_1
+[2020.04.28-20.04.00:112][537]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.28-20.04.00:112][537]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-20.04.00:112][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-20.04.00:119][537]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.28-20.04.00:139][537]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.28-20.04.00:179][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.04.28-20.04.00:392][537]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.28-20.04.00:392][537]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.28-20.04.00:417][537]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 up for play (max tick rate 0) at 2020.04.28-14.04.00
+[2020.04.28-20.04.00:418][537]LogWorld: Bringing up level for play took: 0.024947
+[2020.04.28-20.04.00:419][537]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.28-20.04.00:420][537]LogLoad: Took 0.307768 seconds to LoadMap(/Game/Levels/Train_lvl_1)
+[2020.04.28-20.04.10:697][388]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-20.04.10:699][388]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.28-20.04.10:719][388]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.28-20.04.10:719][388]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.28-20.04.10:719][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-20.04.10:719][388]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.28-20.04.10:737][388]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.28-20.04.10:742][388]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-20.04.10:743][388]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-20.04.10:745][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-20.04.10:753][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-20.04.10:754][388]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.28-20.04.10:760][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-20.04.10:800][388]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-20.04.10:809][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.04.28-20.04.10:825][389]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.04.28-20.04.14:421][731]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.28-20.04.14:451][731]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.28-20.04.14:498][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.04.28-20.04.14:501][731]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.28-20.04.14:501][731]LightingResults: New page: Lighting Build
+[2020.04.28-20.04.14:502][731]LoadErrors: New page: Loading map: Train_lvl_2.umap
+[2020.04.28-20.04.14:502][731]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-20.04.14:502][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-20.04.14:502][731]MapCheck: New page: Map Check
+[2020.04.28-20.04.14:502][731]LightingResults: New page: Lighting Build
+[2020.04.28-20.04.14:540][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.04.28-20.04.14:571][731]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.28-20.04.14:615][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.04.28-20.04.14:647][731]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.28-20.04.14:647][731]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2020.04.28-20.04.14:647][731]LogFileHelpers: Loading map 'Train_lvl_2' took 0.147
+[2020.04.28-20.04.18:823][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
