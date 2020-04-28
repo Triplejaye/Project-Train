@@ -3881,3 +3881,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.28-03.51.35:528][158]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.28-03.51.35:528][158]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
 [2020.04.28-03.51.35:528][158]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_2_BuiltData.Train_lvl_2_BuiltData
+[2020.04.28-04.02.55:523][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2020.04.28-04.03.25:239][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.28-04.03.36:624][283]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.28-04.03.41:511][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.28-04.03.42:486][491]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_247BCFB3B4EEC09CF795AAFAB2432051F.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.28-04.03.42:529][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_2_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset" SILENT=true
+[2020.04.28-04.03.45:121][491]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2_BuiltData8E7AADDD4C8C2E9C41E069AB23DEF545.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset'
+[2020.04.28-04.03.45:162][491]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.28-04.03.45:162][491]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.28-04.03.45:162][491]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_2_BuiltData.Train_lvl_2_BuiltData
