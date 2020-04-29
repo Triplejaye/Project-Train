@@ -3479,3 +3479,733 @@ Make sure 'Enemy_Character_Blueprint_C' has been compiled for  Get CharacterMesh
 [2020.04.29-19.01.58:608][563]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
 [2020.04.29-19.01.58:608][563]LogFileHelpers: Loading map 'Train_lvl_2' took 0.239
 [2020.04.29-19.02.08:140][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.04.29-19.13.01:158][751]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{09e4c3a3-69dd-4a05-97f3-9c6b65845798}.
+[2020.04.29-19.13.01:158][751]LogTemp: Resetting audio stream to device id 
+[2020.04.29-19.13.01:175][751]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-19.13.01:175][751]LogAudioMixer: Display: Name: Line (Voicemod Virtual Audio Device (WDM))
+[2020.04.29-19.13.01:175][751]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-19.13.01:175][751]LogAudioMixer: Display: Sample Rate: 44100
+[2020.04.29-19.13.01:175][751]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-19.13.01:175][751]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-19.13.01:175][751]LogAudioMixer: Display: Channel Order:
+[2020.04.29-19.13.01:175][751]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-19.13.01:175][751]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-19.40.57:481][741]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{22f4b8ae-70bf-41f2-a10c-c9faccdf9f94}.
+[2020.04.29-19.40.57:833][741]LogTemp: Resetting audio stream to device id 
+[2020.04.29-19.40.57:863][741]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-19.40.57:863][741]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-19.40.57:863][741]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-19.40.57:863][741]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-19.40.57:863][741]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-19.40.57:863][741]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-19.40.57:863][741]LogAudioMixer: Display: Channel Order:
+[2020.04.29-19.40.57:863][741]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-19.40.57:863][741]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-20.35.35:592][903]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.04.29-20.35.37:387][903]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.29-20.35.57:998][541]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Camera_Fade_In.Camera_Fade_In
+[2020.04.29-20.36.45:415][ 14]BlueprintLog: New page: Compile Camera_Fade_In
+[2020.04.29-20.36.45:711][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.04.29-20.37.06:804][ 71]BlueprintLog: New page: Compile Camera_Fade_In
+[2020.04.29-20.37.07:095][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.04.29-20.37.14:214][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Camera_Fade_In" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Camera_Fade_In.uasset" SILENT=true
+[2020.04.29-20.37.14:228][773]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Camera_Fade_InF9AA4C8B4E9D00C06ED205897D694282.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Camera_Fade_In.uasset'
+[2020.04.29-20.37.14:252][773]AssetCheck: New page: Asset Save: Camera_Fade_In
+[2020.04.29-20.37.14:252][773]LogContentValidation: Display: Validating Blueprint /Game/UI/Camera_Fade_In.Camera_Fade_In
+[2020.04.29-20.37.16:830][ 41]BlueprintLog: New page: Compile Camera_Fade_In
+[2020.04.29-20.37.17:124][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.04.29-20.37.17:814][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Camera_Fade_In" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Camera_Fade_In.uasset" SILENT=true
+[2020.04.29-20.37.17:833][100]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Camera_Fade_In65F8868148E1E164C95AB5AF23E3C955.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Camera_Fade_In.uasset'
+[2020.04.29-20.37.17:849][100]AssetCheck: New page: Asset Save: Camera_Fade_In
+[2020.04.29-20.37.17:849][100]LogContentValidation: Display: Validating Blueprint /Game/UI/Camera_Fade_In.Camera_Fade_In
+[2020.04.29-20.37.26:826][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.26:827][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-20.37.26:827][910]PIE: New page: PIE session: Train_lvl_2 (Apr 29, 2020, 8:37:26 AM)
+[2020.04.29-20.37.26:827][910]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.29-20.37.26:892][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065422s)
+[2020.04.29-20.37.26:893][910]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.29-20.37.26:893][910]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2020.04.29-20.37.26:893][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_2.Train_lvl_2 to /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 (0.066684s)
+[2020.04.29-20.37.26:942][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.04.29-20.37.26:944][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-20.37.26:944][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-20.37.26:944][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-20.37.26:944][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-20.37.26:944][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-20.37.26:944][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-20.37.26:944][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-20.37.26:944][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-20.37.26:945][910]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-20.37.26:945][910]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-20.37.26:958][910]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-20.37.26:958][910]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.37.26:958][910]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-20.37.26:958][910]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-20.37.26:958][910]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-20.37.26:958][910]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-20.37.26:958][910]LogAudioMixer: Display: Channel Order:
+[2020.04.29-20.37.26:958][910]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-20.37.26:958][910]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-20.37.26:968][910]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.37.26:969][910]LogInit: FAudioDevice initialized.
+[2020.04.29-20.37.26:975][910]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-20.37.26:983][910]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 up for play (max tick rate 0) at 2020.04.29-14.37.26
+[2020.04.29-20.37.26:985][910]LogWorld: Bringing up level for play took: 0.009761
+[2020.04.29-20.37.26:987][910]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2020.04.29-20.37.26:989][910]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_2 -0.318
+[2020.04.29-20.37.26:989][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.28:404][ 16]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.28:425][ 16]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-20.37.28:445][ 16]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-20.37.28:445][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.28:445][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.37.28:445][ 16]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.29-20.37.28:445][ 16]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.28:446][ 16]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.37.28:447][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.37.28:458][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-20.37.28:458][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.28:465][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.37.28:511][ 16]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.28:514][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.37.28:522][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.04.29-20.37.28:554][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.04.29-20.37.29:920][113]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-20.37.29:962][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.29:962][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-20.37.29:962][113]PIE: New page: PIE session: Train_lvl_2 (Apr 29, 2020, 8:37:29 AM)
+[2020.04.29-20.37.29:962][113]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.29-20.37.30:025][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063458s)
+[2020.04.29-20.37.30:026][113]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.29-20.37.30:026][113]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2020.04.29-20.37.30:026][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_2.Train_lvl_2 to /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 (0.064591s)
+[2020.04.29-20.37.30:074][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.04.29-20.37.30:076][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-20.37.30:076][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-20.37.30:076][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-20.37.30:076][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-20.37.30:076][113]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-20.37.30:076][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-20.37.30:076][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-20.37.30:076][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-20.37.30:076][113]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-20.37.30:076][113]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-20.37.30:089][113]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-20.37.30:089][113]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.37.30:089][113]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-20.37.30:089][113]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-20.37.30:089][113]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-20.37.30:089][113]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-20.37.30:089][113]LogAudioMixer: Display: Channel Order:
+[2020.04.29-20.37.30:089][113]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-20.37.30:089][113]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-20.37.30:098][113]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.37.30:099][113]LogInit: FAudioDevice initialized.
+[2020.04.29-20.37.30:110][113]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-20.37.30:118][113]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 up for play (max tick rate 0) at 2020.04.29-14.37.30
+[2020.04.29-20.37.30:120][113]LogWorld: Bringing up level for play took: 0.009541
+[2020.04.29-20.37.30:120][113]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2020.04.29-20.37.30:123][113]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_2 0.815
+[2020.04.29-20.37.30:123][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.32:264][282]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.32:275][282]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-20.37.32:295][282]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-20.37.32:295][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.32:295][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.37.32:295][282]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.29-20.37.32:295][282]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.32:295][282]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.37.32:297][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.37.32:307][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-20.37.32:308][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.32:314][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.37.32:359][282]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.32:362][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.37.32:369][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.29-20.37.32:403][283]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2020.04.29-20.37.40:945][ 37]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.40:945][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-20.37.40:945][ 37]PIE: New page: SIE session: Train_lvl_2 (Apr 29, 2020, 8:37:40 AM)
+[2020.04.29-20.37.40:945][ 37]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.29-20.37.41:009][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063209s)
+[2020.04.29-20.37.41:009][ 37]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.29-20.37.41:010][ 37]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2020.04.29-20.37.41:010][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_2.Train_lvl_2 to /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 (0.064456s)
+[2020.04.29-20.37.41:059][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.04.29-20.37.41:062][ 37]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-20.37.41:062][ 37]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-20.37.41:062][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-20.37.41:062][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-20.37.41:062][ 37]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-20.37.41:062][ 37]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-20.37.41:062][ 37]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-20.37.41:062][ 37]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-20.37.41:063][ 37]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-20.37.41:063][ 37]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-20.37.41:078][ 37]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-20.37.41:078][ 37]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.37.41:078][ 37]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-20.37.41:078][ 37]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-20.37.41:078][ 37]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-20.37.41:078][ 37]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-20.37.41:078][ 37]LogAudioMixer: Display: Channel Order:
+[2020.04.29-20.37.41:078][ 37]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-20.37.41:078][ 37]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-20.37.41:089][ 37]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.37.41:090][ 37]LogInit: FAudioDevice initialized.
+[2020.04.29-20.37.41:102][ 37]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-20.37.41:113][ 37]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 up for play (max tick rate 0) at 2020.04.29-14.37.41
+[2020.04.29-20.37.41:115][ 37]LogWorld: Bringing up level for play took: 0.012042
+[2020.04.29-20.37.41:116][ 37]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2020.04.29-20.37.41:117][ 37]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.29-20.37.41:120][ 37]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_2 -0.187
+[2020.04.29-20.37.41:123][ 37]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.43:547][137]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.43:565][137]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-20.37.43:585][137]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-20.37.43:585][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.43:585][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.37.43:585][137]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.29-20.37.43:587][137]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.43:587][137]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.37.43:588][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.37.43:598][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-20.37.43:599][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.43:605][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.37.43:649][137]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.43:651][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.37.43:661][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.04.29-20.37.43:692][138]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2020.04.29-20.37.50:854][791]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.50:854][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-20.37.50:854][791]PIE: New page: PIE session: Train_lvl_2 (Apr 29, 2020, 8:37:50 AM)
+[2020.04.29-20.37.50:854][791]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.29-20.37.50:924][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069168s)
+[2020.04.29-20.37.50:925][791]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.29-20.37.50:925][791]LogPlayLevel: PIE: World Init took: (0.001565s)
+[2020.04.29-20.37.50:925][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_2.Train_lvl_2 to /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 (0.070945s)
+[2020.04.29-20.37.50:975][791]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.29-20.37.50:977][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-20.37.50:977][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-20.37.50:977][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-20.37.50:977][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-20.37.50:977][791]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-20.37.50:977][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-20.37.50:977][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-20.37.50:977][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-20.37.50:977][791]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-20.37.50:977][791]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-20.37.50:989][791]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-20.37.50:989][791]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.37.50:989][791]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-20.37.50:989][791]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-20.37.50:989][791]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-20.37.50:989][791]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-20.37.50:989][791]LogAudioMixer: Display: Channel Order:
+[2020.04.29-20.37.50:990][791]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-20.37.50:990][791]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-20.37.50:998][791]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.37.51:000][791]LogInit: FAudioDevice initialized.
+[2020.04.29-20.37.51:011][791]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-20.37.51:020][791]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 up for play (max tick rate 0) at 2020.04.29-14.37.51
+[2020.04.29-20.37.51:021][791]LogWorld: Bringing up level for play took: 0.009452
+[2020.04.29-20.37.51:022][791]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2020.04.29-20.37.51:024][791]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_2 -0.283
+[2020.04.29-20.37.51:025][791]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.52:770][925]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.52:775][925]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-20.37.52:795][925]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-20.37.52:795][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.52:795][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.37.52:795][925]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.29-20.37.52:795][925]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.52:796][925]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.37.52:797][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.37.52:808][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-20.37.52:809][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.52:815][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.37.52:862][925]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.52:865][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.37.52:873][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.04.29-20.37.52:902][926]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2020.04.29-20.37.56:111][143]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-20.37.56:156][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.56:156][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-20.37.56:156][143]PIE: New page: PIE session: Train_lvl_2 (Apr 29, 2020, 8:37:56 AM)
+[2020.04.29-20.37.56:156][143]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.29-20.37.56:222][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065522s)
+[2020.04.29-20.37.56:223][143]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.29-20.37.56:223][143]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2020.04.29-20.37.56:223][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_2.Train_lvl_2 to /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 (0.066624s)
+[2020.04.29-20.37.56:268][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.04.29-20.37.56:270][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-20.37.56:270][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-20.37.56:270][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-20.37.56:270][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-20.37.56:270][143]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-20.37.56:270][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-20.37.56:270][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-20.37.56:270][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-20.37.56:270][143]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-20.37.56:270][143]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-20.37.56:283][143]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-20.37.56:283][143]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.37.56:283][143]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-20.37.56:283][143]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-20.37.56:283][143]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-20.37.56:283][143]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-20.37.56:283][143]LogAudioMixer: Display: Channel Order:
+[2020.04.29-20.37.56:283][143]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-20.37.56:283][143]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-20.37.56:292][143]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.37.56:293][143]LogInit: FAudioDevice initialized.
+[2020.04.29-20.37.56:300][143]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-20.37.56:309][143]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 up for play (max tick rate 0) at 2020.04.29-14.37.56
+[2020.04.29-20.37.56:311][143]LogWorld: Bringing up level for play took: 0.010053
+[2020.04.29-20.37.56:311][143]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2020.04.29-20.37.56:314][143]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_2 1.007
+[2020.04.29-20.37.56:315][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.58:811][359]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.58:824][359]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-20.37.58:844][359]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-20.37.58:845][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.58:845][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.37.58:845][359]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.29-20.37.58:845][359]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.58:845][359]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.37.58:846][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.37.58:855][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-20.37.58:855][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2' with GeneratedClass '/Game/Levels/Train_lvl_2.Train_lvl_2_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2'
+[2020.04.29-20.37.58:862][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.37.58:908][359]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.37.58:911][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.37.58:918][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.29-20.37.58:947][360]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2020.04.29-20.38.09:565][197]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.29-20.38.09:603][197]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.29-20.38.09:656][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.04.29-20.38.10:765][197]LogSlate: Window 'Save Content' being destroyed
+[2020.04.29-20.38.10:833][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.29-20.38.11:890][197]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_25F1A53C4447D78ACE9E132AE71EB620A.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.29-20.38.11:928][197]LogFileHelpers: Saving map 'Train_lvl_2' took 1.140
+[2020.04.29-20.38.11:930][197]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-20.38.11:930][197]LightingResults: New page: Lighting Build
+[2020.04.29-20.38.11:931][197]LoadErrors: New page: Loading map: Train_lvl_1.umap
+[2020.04.29-20.38.11:933][197]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.38.11:933][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.38.11:934][197]MapCheck: New page: Map Check
+[2020.04.29-20.38.11:934][197]LightingResults: New page: Lighting Build
+[2020.04.29-20.38.11:998][197]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.04.29-20.38.12:032][197]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-20.38.12:083][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.04.29-20.38.12:114][197]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-20.38.12:114][197]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2020.04.29-20.38.12:114][197]LogFileHelpers: Loading map 'Train_lvl_1' took 0.186
+[2020.04.29-20.38.12:184][197]AssetCheck: New page: Asset Save: Train_lvl_2
+[2020.04.29-20.38.12:184][197]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.29-20.38.12:555][197]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.29-20.38.22:474][934]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.04.29-20.38.23:245][934]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1D09EF3314FA79B82806E6BA9DA0E9A2D.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.29-20.38.23:283][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_1_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1_BuiltData.uasset" SILENT=true
+[2020.04.29-20.38.26:828][934]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1_BuiltData2A63451F49065FDC23559B9A1BADDD98.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1_BuiltData.uasset'
+[2020.04.29-20.38.26:876][934]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.29-20.38.26:876][934]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.29-20.38.26:876][934]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_1_BuiltData.Train_lvl_1_BuiltData
+[2020.04.29-20.38.33:615][448]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-20.38.33:665][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.29-20.38.33:665][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-20.38.33:665][448]PIE: New page: PIE session: Train_lvl_1 (Apr 29, 2020, 8:38:33 AM)
+[2020.04.29-20.38.33:665][448]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.29-20.38.33:714][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048455s)
+[2020.04.29-20.38.33:715][448]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.29-20.38.33:715][448]LogPlayLevel: PIE: World Init took: (0.001596s)
+[2020.04.29-20.38.33:715][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Train_lvl_1.Train_lvl_1 to /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 (0.050263s)
+[2020.04.29-20.38.33:768][448]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.04.29-20.38.33:776][448]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-20.38.33:776][448]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-20.38.33:776][448]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-20.38.33:776][448]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-20.38.33:776][448]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-20.38.33:776][448]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-20.38.33:776][448]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-20.38.33:776][448]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-20.38.33:777][448]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-20.38.33:777][448]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-20.38.33:790][448]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-20.38.33:790][448]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.38.33:790][448]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-20.38.33:790][448]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-20.38.33:790][448]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-20.38.33:790][448]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-20.38.33:790][448]LogAudioMixer: Display: Channel Order:
+[2020.04.29-20.38.33:790][448]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-20.38.33:790][448]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-20.38.33:799][448]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.38.33:801][448]LogInit: FAudioDevice initialized.
+[2020.04.29-20.38.33:808][448]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-20.38.33:816][448]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_1.Train_lvl_1 up for play (max tick rate 0) at 2020.04.29-14.38.33
+[2020.04.29-20.38.33:817][448]LogWorld: Bringing up level for play took: 0.008851
+[2020.04.29-20.38.33:818][448]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2020.04.29-20.38.33:820][448]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Train_lvl_1 0.512
+[2020.04.29-20.38.33:820][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.29-20.38.35:683][604]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.38.35:695][604]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-20.38.35:715][604]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-20.38.35:715][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.29-20.38.35:716][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.38.35:716][604]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_1
+[2020.04.29-20.38.35:716][604]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.38.35:716][604]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.38.35:717][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.38.35:726][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-20.38.35:727][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1' with GeneratedClass '/Game/Levels/Train_lvl_1.Train_lvl_1_C' with ClassGeneratedBy '/Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1'
+[2020.04.29-20.38.35:733][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.38.35:779][604]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.38.35:783][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.38.35:791][604]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.04.29-20.38.35:820][605]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2020.04.29-20.38.48:070][402]LogAIModule: Creating AISystem for world Info_1
+[2020.04.29-20.38.48:071][402]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Info_1.Info_1
+[2020.04.29-20.38.48:119][402]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.04.29-20.38.48:122][402]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-20.38.48:122][402]LightingResults: New page: Lighting Build
+[2020.04.29-20.38.48:123][402]LoadErrors: New page: Loading map: Info_1.umap
+[2020.04.29-20.38.48:125][402]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.38.48:125][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.38.48:125][402]MapCheck: New page: Map Check
+[2020.04.29-20.38.48:125][402]LightingResults: New page: Lighting Build
+[2020.04.29-20.38.48:179][402]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.04.29-20.38.48:307][402]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.29-20.38.48:360][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.04.29-20.38.48:361][402]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-20.38.48:405][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.04.29-20.38.48:436][402]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-20.38.48:436][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2020.04.29-20.38.48:436][402]LogFileHelpers: Loading map 'Info_1' took 0.316
+[2020.04.29-20.38.54:888][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.04.29-20.38.56:081][110]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Camera_Fade_In_2.Camera_Fade_In_2
+[2020.04.29-20.39.08:500][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Camera_Fade_In_2" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Camera_Fade_In_2.uasset" SILENT=true
+[2020.04.29-20.39.08:513][257]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Camera_Fade_In_284811AC24BE4E509FBDD64968B3BA3FB.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Camera_Fade_In_2.uasset'
+[2020.04.29-20.39.08:531][257]AssetCheck: New page: Asset Save: Camera_Fade_In_2
+[2020.04.29-20.39.08:531][257]LogContentValidation: Display: Validating Blueprint /Game/UI/Camera_Fade_In_2.Camera_Fade_In_2
+[2020.04.29-20.39.09:256][324]BlueprintLog: New page: Compile Camera_Fade_In_2
+[2020.04.29-20.39.09:539][324]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.04.29-20.39.16:538][ 14]BlueprintLog: New page: Compile Camera_Fade_In
+[2020.04.29-20.39.16:815][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.04.29-20.39.17:284][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Camera_Fade_In" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Camera_Fade_In.uasset" SILENT=true
+[2020.04.29-20.39.17:298][ 50]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Camera_Fade_In6CD955204E00AC671CB91B8FA614C4C1.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Camera_Fade_In.uasset'
+[2020.04.29-20.39.17:315][ 50]AssetCheck: New page: Asset Save: Camera_Fade_In
+[2020.04.29-20.39.17:315][ 50]LogContentValidation: Display: Validating Blueprint /Game/UI/Camera_Fade_In.Camera_Fade_In
+[2020.04.29-20.39.33:357][492]LogAIModule: Creating AISystem for world Info_3
+[2020.04.29-20.39.33:357][492]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Info_3.Info_3
+[2020.04.29-20.39.33:405][492]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.04.29-20.39.34:776][492]LogSlate: Window 'Save Content' being destroyed
+[2020.04.29-20.39.34:789][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Info_1" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.29-20.39.34:832][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.04.29-20.39.35:104][492]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Info_1710F4CD8419E9F745E44C58C7DA113FC.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_1.umap'
+[2020.04.29-20.39.35:139][492]LogFileHelpers: Saving map 'Info_1' took 0.351
+[2020.04.29-20.39.35:141][492]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-20.39.35:142][492]LightingResults: New page: Lighting Build
+[2020.04.29-20.39.35:142][492]LoadErrors: New page: Loading map: Info_3.umap
+[2020.04.29-20.39.35:142][492]LogWorld: UWorld::CleanupWorld for Info_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.39.35:143][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.39.35:143][492]MapCheck: New page: Map Check
+[2020.04.29-20.39.35:143][492]LightingResults: New page: Lighting Build
+[2020.04.29-20.39.35:189][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.04.29-20.39.35:191][492]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-20.39.35:238][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.04.29-20.39.35:268][492]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-20.39.35:268][492]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2020.04.29-20.39.35:268][492]LogFileHelpers: Loading map 'Info_3' took 0.129
+[2020.04.29-20.39.35:315][492]AssetCheck: New page: Asset Save: Info_1
+[2020.04.29-20.39.35:315][492]LogContentValidation: Display: Validating World /Game/Levels/Info_1.Info_1
+[2020.04.29-20.39.35:322][492]LogAIModule: Creating AISystem for world Info_1
+[2020.04.29-20.39.48:116][704]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.04.29-20.39.49:187][704]LogSlate: Window 'Save Content' being destroyed
+[2020.04.29-20.39.49:216][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Info_3" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.29-20.39.49:263][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.29-20.39.49:515][704]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Info_307F122BD423964712FE14F9E01532C59.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_3.umap'
+[2020.04.29-20.39.49:551][704]LogFileHelpers: Saving map 'Info_3' took 0.335
+[2020.04.29-20.39.49:568][704]AssetCheck: New page: Asset Save: Info_3
+[2020.04.29-20.39.49:568][704]LogContentValidation: Display: Validating World /Game/Levels/Info_3.Info_3
+[2020.04.29-20.39.53:856][ 49]LogAIModule: Creating AISystem for world Credits
+[2020.04.29-20.39.53:857][ 49]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Credits.Credits
+[2020.04.29-20.39.53:904][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.04.29-20.39.53:906][ 49]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Credits.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-20.39.53:906][ 49]LightingResults: New page: Lighting Build
+[2020.04.29-20.39.53:907][ 49]LoadErrors: New page: Loading map: Credits.umap
+[2020.04.29-20.39.53:907][ 49]LogWorld: UWorld::CleanupWorld for Info_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.39.53:907][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.39.53:907][ 49]MapCheck: New page: Map Check
+[2020.04.29-20.39.53:907][ 49]LightingResults: New page: Lighting Build
+[2020.04.29-20.39.53:950][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.04.29-20.39.54:000][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.04.29-20.39.54:047][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.04.29-20.39.54:053][ 49]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-20.39.54:100][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.29-20.39.54:135][ 49]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-20.39.54:135][ 49]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2020.04.29-20.39.54:135][ 49]LogFileHelpers: Loading map 'Credits' took 0.230
+[2020.04.29-20.40.05:433][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Credits" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Credits.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.29-20.40.05:482][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.04.29-20.40.05:732][148]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/CreditsEF78BF764BF6C5DF1CA9B29089061967.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Credits.umap'
+[2020.04.29-20.40.05:784][148]AssetCheck: New page: Asset Save: Credits
+[2020.04.29-20.40.05:784][148]LogContentValidation: Display: Validating World /Game/Levels/Credits.Credits
+[2020.04.29-20.40.07:112][253]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.29-20.40.07:160][253]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.07:160][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-20.40.07:160][253]PIE: New page: PIE session: Credits (Apr 29, 2020, 8:40:07 AM)
+[2020.04.29-20.40.07:160][253]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Credits
+[2020.04.29-20.40.07:161][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001364s)
+[2020.04.29-20.40.07:162][253]LogAIModule: Creating AISystem for world Credits
+[2020.04.29-20.40.07:162][253]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2020.04.29-20.40.07:162][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Credits.Credits to /Game/Levels/UEDPIE_0_Credits.Credits (0.002345s)
+[2020.04.29-20.40.07:211][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.04.29-20.40.07:212][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-20.40.07:212][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-20.40.07:212][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-20.40.07:212][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-20.40.07:212][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-20.40.07:212][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-20.40.07:212][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-20.40.07:212][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-20.40.07:212][253]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-20.40.07:212][253]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-20.40.07:226][253]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-20.40.07:226][253]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.40.07:226][253]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-20.40.07:226][253]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-20.40.07:226][253]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-20.40.07:226][253]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-20.40.07:226][253]LogAudioMixer: Display: Channel Order:
+[2020.04.29-20.40.07:226][253]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-20.40.07:226][253]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-20.40.07:236][253]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.40.07:237][253]LogInit: FAudioDevice initialized.
+[2020.04.29-20.40.07:242][253]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-20.40.07:242][253]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2020.04.29-14.40.07
+[2020.04.29-20.40.07:242][253]LogWorld: Bringing up level for play took: 0.000232
+[2020.04.29-20.40.07:242][253]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2020.04.29-20.40.07:246][253]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.29-20.40.07:246][253]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Credits -0.061
+[2020.04.29-20.40.07:247][253]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.13:381][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.40.13:385][850]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-20.40.13:405][850]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-20.40.13:405][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.13:405][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.40.13:405][850]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Credits
+[2020.04.29-20.40.13:405][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.40.13:405][850]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.40.13:405][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.40.13:415][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-20.40.13:416][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.13:421][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.40.13:461][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.40.13:464][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.40.13:469][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.04.29-20.40.13:489][851]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.04.29-20.40.25:240][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.25:240][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-20.40.25:240][ 22]PIE: New page: PIE session: Credits (Apr 29, 2020, 8:40:25 AM)
+[2020.04.29-20.40.25:240][ 22]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Credits
+[2020.04.29-20.40.25:242][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001695s)
+[2020.04.29-20.40.25:243][ 22]LogAIModule: Creating AISystem for world Credits
+[2020.04.29-20.40.25:243][ 22]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2020.04.29-20.40.25:243][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Credits.Credits to /Game/Levels/UEDPIE_0_Credits.Credits (0.002626s)
+[2020.04.29-20.40.25:292][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.04.29-20.40.25:293][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-20.40.25:293][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-20.40.25:293][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-20.40.25:293][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-20.40.25:293][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-20.40.25:293][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-20.40.25:293][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-20.40.25:293][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-20.40.25:293][ 22]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-20.40.25:293][ 22]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-20.40.25:305][ 22]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-20.40.25:305][ 22]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.40.25:305][ 22]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-20.40.25:305][ 22]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-20.40.25:305][ 22]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-20.40.25:306][ 22]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-20.40.25:306][ 22]LogAudioMixer: Display: Channel Order:
+[2020.04.29-20.40.25:306][ 22]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-20.40.25:306][ 22]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-20.40.25:314][ 22]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.40.25:316][ 22]LogInit: FAudioDevice initialized.
+[2020.04.29-20.40.25:359][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.40.25:359][ 22]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-20.40.25:360][ 22]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2020.04.29-14.40.25
+[2020.04.29-20.40.25:360][ 22]LogWorld: Bringing up level for play took: 0.000483
+[2020.04.29-20.40.25:361][ 22]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2020.04.29-20.40.25:365][ 22]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.29-20.40.25:368][ 22]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Credits 0.06
+[2020.04.29-20.40.25:368][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.29:366][343]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.29-20.40.29:374][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.29:374][343]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Credits
+[2020.04.29-20.40.29:374][343]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.40.29:374][343]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.40.29:374][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.40.29:383][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-20.40.29:384][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.29:389][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.40.29:438][343]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.40.29:445][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.04.29-20.40.29:546][344]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2020.04.29-20.40.30:266][419]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.29-20.40.30:313][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.30:313][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-20.40.30:313][419]PIE: New page: PIE session: Credits (Apr 29, 2020, 8:40:30 AM)
+[2020.04.29-20.40.30:313][419]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Credits
+[2020.04.29-20.40.30:314][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001086s)
+[2020.04.29-20.40.30:315][419]LogAIModule: Creating AISystem for world Credits
+[2020.04.29-20.40.30:315][419]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2020.04.29-20.40.30:315][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Credits.Credits to /Game/Levels/UEDPIE_0_Credits.Credits (0.001963s)
+[2020.04.29-20.40.30:363][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.04.29-20.40.30:364][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-20.40.30:364][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-20.40.30:364][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-20.40.30:364][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-20.40.30:364][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-20.40.30:364][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-20.40.30:364][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-20.40.30:364][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-20.40.30:364][419]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-20.40.30:364][419]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-20.40.30:377][419]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-20.40.30:377][419]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.40.30:377][419]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-20.40.30:377][419]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-20.40.30:377][419]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-20.40.30:377][419]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-20.40.30:377][419]LogAudioMixer: Display: Channel Order:
+[2020.04.29-20.40.30:377][419]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-20.40.30:377][419]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-20.40.30:386][419]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.40.30:387][419]LogInit: FAudioDevice initialized.
+[2020.04.29-20.40.30:443][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.40.30:444][419]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-20.40.30:444][419]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2020.04.29-14.40.30
+[2020.04.29-20.40.30:445][419]LogWorld: Bringing up level for play took: 0.000493
+[2020.04.29-20.40.30:445][419]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2020.04.29-20.40.30:450][419]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.29-20.40.30:453][419]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Credits 1.145
+[2020.04.29-20.40.30:453][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.32:288][565]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.29-20.40.32:295][565]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.32:295][565]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Credits
+[2020.04.29-20.40.32:304][565]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-20.40.32:334][565]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-20.40.32:335][565]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.40.32:335][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.40.32:346][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-20.40.32:346][565]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Credits.Credits:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Credits.Credits:PersistentLevel.Credits' with GeneratedClass '/Game/Levels/Credits.Credits_C' with ClassGeneratedBy '/Game/Levels/Credits.Credits:PersistentLevel.Credits'
+[2020.04.29-20.40.32:352][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.40.32:399][565]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.40.32:406][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.04.29-20.40.32:520][566]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2020.04.29-20.40.53:674][768]LogAIModule: Creating AISystem for world Info_1
+[2020.04.29-20.40.53:675][768]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Info_1.Info_1
+[2020.04.29-20.40.53:724][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.04.29-20.40.53:727][768]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-20.40.53:727][768]LightingResults: New page: Lighting Build
+[2020.04.29-20.40.53:728][768]LoadErrors: New page: Loading map: Info_1.umap
+[2020.04.29-20.40.53:728][768]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.40.53:728][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.40.53:728][768]MapCheck: New page: Map Check
+[2020.04.29-20.40.53:728][768]LightingResults: New page: Lighting Build
+[2020.04.29-20.40.53:779][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.04.29-20.40.53:781][768]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-20.40.53:827][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.04.29-20.40.53:858][768]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-20.40.53:858][768]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2020.04.29-20.40.53:858][768]LogFileHelpers: Loading map 'Info_1' took 0.133
+[2020.04.29-20.40.55:592][932]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.29-20.40.55:642][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Info_1.Info_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Info_1.Info_1:PersistentLevel.Info_1' with GeneratedClass '/Game/Levels/Info_1.Info_1_C' with ClassGeneratedBy '/Game/Levels/Info_1.Info_1:PersistentLevel.Info_1'
+[2020.04.29-20.40.55:642][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-20.40.55:642][932]PIE: New page: PIE session: Info_1 (Apr 29, 2020, 8:40:55 AM)
+[2020.04.29-20.40.55:642][932]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Info_1
+[2020.04.29-20.40.55:643][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001250s)
+[2020.04.29-20.40.55:644][932]LogAIModule: Creating AISystem for world Info_1
+[2020.04.29-20.40.55:644][932]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2020.04.29-20.40.55:644][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Info_1.Info_1 to /Game/Levels/UEDPIE_0_Info_1.Info_1 (0.002226s)
+[2020.04.29-20.40.55:691][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.04.29-20.40.55:691][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-20.40.55:691][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-20.40.55:691][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-20.40.55:691][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-20.40.55:691][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-20.40.55:692][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-20.40.55:692][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-20.40.55:692][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-20.40.55:692][932]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-20.40.55:692][932]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-20.40.55:704][932]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-20.40.55:704][932]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.40.55:705][932]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-20.40.55:705][932]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-20.40.55:705][932]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-20.40.55:705][932]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-20.40.55:705][932]LogAudioMixer: Display: Channel Order:
+[2020.04.29-20.40.55:705][932]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-20.40.55:705][932]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-20.40.55:713][932]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-20.40.55:715][932]LogInit: FAudioDevice initialized.
+[2020.04.29-20.40.55:759][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.40.55:760][932]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-20.40.55:760][932]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Info_1.Info_1 up for play (max tick rate 0) at 2020.04.29-14.40.55
+[2020.04.29-20.40.55:761][932]LogWorld: Bringing up level for play took: 0.000355
+[2020.04.29-20.40.55:761][932]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2020.04.29-20.40.55:765][932]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.29-20.40.55:767][932]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Info_1 0.459
+[2020.04.29-20.40.55:768][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Info_1.Info_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Info_1.Info_1:PersistentLevel.Info_1' with GeneratedClass '/Game/Levels/Info_1.Info_1_C' with ClassGeneratedBy '/Game/Levels/Info_1.Info_1:PersistentLevel.Info_1'
+[2020.04.29-20.40.57:474][ 69]LogNet: Browse: /Game/Levels/Train_lvl_2
+[2020.04.29-20.40.57:474][ 69]LogLoad: LoadMap: /Game/Levels/Train_lvl_2
+[2020.04.29-20.40.57:474][ 69]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Info_1
+[2020.04.29-20.40.57:475][ 69]LogWorld: UWorld::CleanupWorld for Info_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.40.57:475][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.40.57:485][ 69]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-20.40.57:505][ 69]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-20.40.57:555][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.04.29-20.40.57:947][ 69]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.29-20.40.57:947][ 69]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-20.40.57:974][ 69]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Train_lvl_2.Train_lvl_2 up for play (max tick rate 0) at 2020.04.29-14.40.57
+[2020.04.29-20.40.57:976][ 69]LogWorld: Bringing up level for play took: 0.028096
+[2020.04.29-20.40.57:976][ 69]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.29-20.40.57:977][ 69]LogLoad: Took 0.502920 seconds to LoadMap(/Game/Levels/Train_lvl_2)
+[2020.04.29-20.41.03:419][479]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.41.03:435][479]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-20.41.03:455][479]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-20.41.03:455][479]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Info_1.Info_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Info_1.Info_1:PersistentLevel.Info_1' with GeneratedClass '/Game/Levels/Info_1.Info_1_C' with ClassGeneratedBy '/Game/Levels/Info_1.Info_1:PersistentLevel.Info_1'
+[2020.04.29-20.41.03:455][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-20.41.03:455][479]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Train_lvl_2
+[2020.04.29-20.41.03:474][479]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.29-20.41.03:480][479]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.41.03:480][479]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.41.03:483][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.41.03:495][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-20.41.03:496][479]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Info_1.Info_1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Info_1.Info_1:PersistentLevel.Info_1' with GeneratedClass '/Game/Levels/Info_1.Info_1_C' with ClassGeneratedBy '/Game/Levels/Info_1.Info_1:PersistentLevel.Info_1'
+[2020.04.29-20.41.03:503][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.41.03:563][479]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-20.41.03:576][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.04.29-20.41.03:594][480]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2020.04.29-20.41.08:669][949]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.29-20.41.08:711][949]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.29-20.41.08:766][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.04.29-20.41.08:769][949]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-20.41.08:769][949]LightingResults: New page: Lighting Build
+[2020.04.29-20.41.08:769][949]LoadErrors: New page: Loading map: Train_lvl_2.umap
+[2020.04.29-20.41.08:770][949]LogWorld: UWorld::CleanupWorld for Info_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.41.08:770][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.41.08:770][949]MapCheck: New page: Map Check
+[2020.04.29-20.41.08:770][949]LightingResults: New page: Lighting Build
+[2020.04.29-20.41.08:820][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.04.29-20.41.08:861][949]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-20.41.08:918][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.04.29-20.41.08:949][949]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-20.41.08:949][949]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2020.04.29-20.41.08:949][949]LogFileHelpers: Loading map 'Train_lvl_2' took 0.182
+[2020.04.29-20.41.11:582][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
