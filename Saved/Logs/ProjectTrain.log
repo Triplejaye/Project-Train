@@ -3065,3 +3065,417 @@ Make sure 'Enemy_Character_Blueprint_C' has been compiled for  Get CharacterMesh
 [2020.04.29-18.35.27:146][443]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Options0A6784FF46E69C77DAD84282E57640D3.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Options.uasset'
 [2020.04.29-18.35.27:163][443]AssetCheck: New page: Asset Save: Options
 [2020.04.29-18.35.27:163][443]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.04.29-18.45.59:740][286]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.04.29-18.45.59:742][286]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Info_3' took 0.057
+[2020.04.29-18.45.59:743][286]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Options] ([1] browsable assets)...
+[2020.04.29-18.45.59:743][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Options]
+[2020.04.29-18.45.59:743][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Autosaves/Game/UI/Options_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.04.29-18.45.59:765][286]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Options_Auto581E9549C448C4026A46A10960F4F5835.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Autosaves/Game/UI/Options_Auto5.uasset'
+[2020.04.29-18.45.59:766][286]LogFileHelpers: Auto-saving content packages took 0.023
+[2020.04.29-18.48.26:679][520]BlueprintLog: New page: Compile Options
+[2020.04.29-18.48.26:744][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.04.29-18.48.27:545][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Options.uasset" SILENT=true
+[2020.04.29-18.48.27:564][592]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/OptionsEA09E3C74F9E5B1D7E35A9BFE5C2811E.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Options.uasset'
+[2020.04.29-18.48.27:582][592]AssetCheck: New page: Asset Save: Options
+[2020.04.29-18.48.27:582][592]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.04.29-18.48.34:724][334]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.29-18.48.34:724][334]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.04.29-18.48.34:768][334]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.04.29-18.48.34:770][334]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-18.48.34:770][334]LightingResults: New page: Lighting Build
+[2020.04.29-18.48.34:774][334]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.04.29-18.48.34:775][334]LogWorld: UWorld::CleanupWorld for Info_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.48.34:775][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.48.34:775][334]MapCheck: New page: Map Check
+[2020.04.29-18.48.34:775][334]LightingResults: New page: Lighting Build
+[2020.04.29-18.48.34:822][334]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.04.29-18.48.34:824][334]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-18.48.34:870][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.04.29-18.48.34:901][334]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-18.48.34:901][334]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2020.04.29-18.48.34:901][334]LogFileHelpers: Loading map 'MainMenu' took 0.132
+[2020.04.29-18.48.35:977][438]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.29-18.48.36:017][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.29-18.48.36:017][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-18.48.36:017][438]PIE: New page: PIE session: MainMenu (Apr 29, 2020, 6:48:36 AM)
+[2020.04.29-18.48.36:017][438]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.29-18.48.36:019][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001134s)
+[2020.04.29-18.48.36:019][438]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.29-18.48.36:019][438]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2020.04.29-18.48.36:019][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002117s)
+[2020.04.29-18.48.36:061][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.04.29-18.48.36:062][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-18.48.36:062][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-18.48.36:062][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-18.48.36:062][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-18.48.36:062][438]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-18.48.36:062][438]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-18.48.36:062][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-18.48.36:062][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-18.48.36:062][438]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-18.48.36:062][438]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-18.48.36:075][438]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-18.48.36:075][438]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-18.48.36:075][438]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-18.48.36:075][438]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-18.48.36:075][438]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-18.48.36:075][438]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-18.48.36:075][438]LogAudioMixer: Display: Channel Order:
+[2020.04.29-18.48.36:075][438]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-18.48.36:075][438]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-18.48.36:086][438]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-18.48.36:087][438]LogInit: FAudioDevice initialized.
+[2020.04.29-18.48.36:141][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-18.48.36:141][438]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-18.48.36:142][438]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.29-12.48.36
+[2020.04.29-18.48.36:142][438]LogWorld: Bringing up level for play took: 0.000387
+[2020.04.29-18.48.36:142][438]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.04.29-18.48.36:147][438]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.29-18.48.36:150][438]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.842
+[2020.04.29-18.48.36:150][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.29-18.48.36:153][438]LogAudio: Warning: Detected orphaned looping sound 'symmetry-by-kevin-macleod-from-filmmusic-io'.
+[2020.04.29-18.48.48:139][572]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.29-18.48.48:147][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.29-18.48.48:147][572]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.29-18.48.48:161][572]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-18.48.48:181][572]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-18.48.48:181][572]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.48.48:181][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.48.48:186][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-18.48.48:186][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.29-18.48.48:192][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.48.48:229][572]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-18.48.48:236][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.04.29-18.48.48:315][573]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.04.29-18.49.13:036][498]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.49.13:036][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.49.13:041][498]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.49.13:041][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.49.46:738][157]BlueprintLog: New page: Compile Options
+[2020.04.29-18.49.46:796][157]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.04.29-18.49.47:614][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Options.uasset" SILENT=true
+[2020.04.29-18.49.47:633][237]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/OptionsFD5BB6DD4A38FC2A9C9678A01D539C3E.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Options.uasset'
+[2020.04.29-18.49.47:649][237]AssetCheck: New page: Asset Save: Options
+[2020.04.29-18.49.47:649][237]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.04.29-18.50.27:588][605]BlueprintLog: New page: Compile Options
+[2020.04.29-18.50.27:641][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.04.29-18.50.28:315][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Options.uasset" SILENT=true
+[2020.04.29-18.50.28:336][668]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Options10F92DD94496455F7F97C0BD007EBED9.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Options.uasset'
+[2020.04.29-18.50.28:354][668]AssetCheck: New page: Asset Save: Options
+[2020.04.29-18.50.28:354][668]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.04.29-18.50.30:053][850]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.29-18.50.30:088][850]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.29-18.50.30:088][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.29-18.50.30:088][850]PIE: New page: PIE session: MainMenu (Apr 29, 2020, 6:50:30 AM)
+[2020.04.29-18.50.30:088][850]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.29-18.50.30:090][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001238s)
+[2020.04.29-18.50.30:090][850]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.29-18.50.30:091][850]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2020.04.29-18.50.30:091][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002219s)
+[2020.04.29-18.50.30:133][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.04.29-18.50.30:133][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-18.50.30:133][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-18.50.30:133][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-18.50.30:133][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-18.50.30:133][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-18.50.30:133][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.29-18.50.30:133][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-18.50.30:133][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.29-18.50.30:134][850]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.29-18.50.30:134][850]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-18.50.30:146][850]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-18.50.30:146][850]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-18.50.30:146][850]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-18.50.30:146][850]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-18.50.30:146][850]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-18.50.30:146][850]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-18.50.30:146][850]LogAudioMixer: Display: Channel Order:
+[2020.04.29-18.50.30:146][850]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-18.50.30:147][850]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-18.50.30:156][850]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.29-18.50.30:157][850]LogInit: FAudioDevice initialized.
+[2020.04.29-18.50.30:193][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-18.50.30:193][850]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.29-18.50.30:194][850]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.29-12.50.30
+[2020.04.29-18.50.30:194][850]LogWorld: Bringing up level for play took: 0.000306
+[2020.04.29-18.50.30:194][850]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2020.04.29-18.50.30:199][850]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.29-18.50.30:202][850]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.894
+[2020.04.29-18.50.30:202][850]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.29-18.50.30:205][850]LogAudio: Warning: Detected orphaned looping sound 'symmetry-by-kevin-macleod-from-filmmusic-io'.
+[2020.04.29-18.50.36:696][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-18.50.36:696][493]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.29-18.50.36:696][493]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.29-18.50.36:716][493]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.29-18.50.36:731][493]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.29-18.50.36:751][493]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.29-18.50.36:751][493]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.50.36:752][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.50.36:762][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.29-18.50.36:762][493]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.29-18.50.36:768][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.50.36:805][493]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-18.50.36:813][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.04.29-18.50.36:874][494]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2020.04.29-18.51.15:491][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.04.29-18.52.13:732][425]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.04.29-18.52.42:582][955]BlueprintLog: New page: Compile MainMenu
+[2020.04.29-18.52.42:646][955]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.04.29-18.52.43:566][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/MainMenu.uasset" SILENT=true
+[2020.04.29-18.52.43:592][ 17]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/MainMenu280FA074418932C00F888BAA94DB8B43.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/MainMenu.uasset'
+[2020.04.29-18.52.43:610][ 17]AssetCheck: New page: Asset Save: MainMenu
+[2020.04.29-18.52.43:610][ 17]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.04.29-18.53.14:868][593]BlueprintLog: New page: Compile Info_3
+[2020.04.29-18.53.14:917][593]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.04.29-18.53.16:082][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Info_3" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_3.uasset" SILENT=true
+[2020.04.29-18.53.16:104][678]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Info_3043874C345CAA198B9BBC29882E5CB11.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_3.uasset'
+[2020.04.29-18.53.16:122][678]AssetCheck: New page: Asset Save: Info_3
+[2020.04.29-18.53.16:122][678]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Info_3.Info_3
+[2020.04.29-18.53.26:149][556]BlueprintLog: New page: Compile Info_1
+[2020.04.29-18.53.26:200][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.04.29-18.53.26:882][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Info_1" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_1.uasset" SILENT=true
+[2020.04.29-18.53.26:900][603]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Info_1F4F81A8648D045FFE835C887E7EC0AA7.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_1.uasset'
+[2020.04.29-18.53.26:917][603]AssetCheck: New page: Asset Save: Info_1
+[2020.04.29-18.53.26:917][603]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Info_1.Info_1
+[2020.04.29-18.54.08:635][116]BlueprintLog: New page: Compile Credits
+[2020.04.29-18.54.08:684][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.04.29-18.54.09:282][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Credits" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Credits.uasset" SILENT=true
+[2020.04.29-18.54.09:306][152]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Credits7710047C400DA58D70A04FB1A2713071.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Credits.uasset'
+[2020.04.29-18.54.09:322][152]AssetCheck: New page: Asset Save: Credits
+[2020.04.29-18.54.09:322][152]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Credits.Credits
+[2020.04.29-18.54.14:482][578]LogTemp: Repeating last play command: Standalone Game
+[2020.04.29-18.54.14:543][578]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.04.29-18.54.54:990][715]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.29-18.54.55:025][715]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.29-18.54.55:074][715]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.04.29-18.54.55:076][715]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-18.54.55:076][715]LightingResults: New page: Lighting Build
+[2020.04.29-18.54.55:077][715]LoadErrors: New page: Loading map: Train_lvl_1.umap
+[2020.04.29-18.54.55:077][715]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.54.55:078][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.54.55:078][715]MapCheck: New page: Map Check
+[2020.04.29-18.54.55:078][715]LightingResults: New page: Lighting Build
+[2020.04.29-18.54.55:125][715]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.04.29-18.54.55:155][715]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-18.54.55:203][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.04.29-18.54.55:236][715]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-18.54.55:236][715]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2020.04.29-18.54.55:236][715]LogFileHelpers: Loading map 'Train_lvl_1' took 0.161
+[2020.04.29-18.55.15:968][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.29-18.55.16:719][  7]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_173EBB2CC4E18E184CD7AB2BE88DAA908.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.29-18.55.16:761][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_1_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1_BuiltData.uasset" SILENT=true
+[2020.04.29-18.55.20:306][  7]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1_BuiltData00887FD94449A562D8FE31BF704CD087.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1_BuiltData.uasset'
+[2020.04.29-18.55.20:346][  7]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.29-18.55.20:346][  7]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.29-18.55.20:346][  7]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_1_BuiltData.Train_lvl_1_BuiltData
+[2020.04.29-18.55.34:947][874]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.29-18.55.34:972][874]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.29-18.55.35:029][874]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.04.29-18.55.35:040][874]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-18.55.35:040][874]LightingResults: New page: Lighting Build
+[2020.04.29-18.55.35:041][874]LoadErrors: New page: Loading map: Train_lvl_2.umap
+[2020.04.29-18.55.35:043][874]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.55.35:043][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.55.35:043][874]MapCheck: New page: Map Check
+[2020.04.29-18.55.35:043][874]LightingResults: New page: Lighting Build
+[2020.04.29-18.55.35:098][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.04.29-18.55.35:194][874]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-18.55.35:244][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.04.29-18.55.35:275][874]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-18.55.35:275][874]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.194ms to complete.
+[2020.04.29-18.55.35:275][874]LogFileHelpers: Loading map 'Train_lvl_2' took 0.236
+[2020.04.29-18.55.54:882][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.04.29-18.55.55:936][ 24]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_290825ED647DD3719E70ECDB0ACA79F55.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.29-18.55.55:972][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_2_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset" SILENT=true
+[2020.04.29-18.55.59:364][ 24]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2_BuiltData86E6BCAF4D1BA0DA22E8E6B01103834C.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset'
+[2020.04.29-18.55.59:392][ 24]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.29-18.55.59:392][ 24]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.29-18.55.59:392][ 24]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_2_BuiltData.Train_lvl_2_BuiltData
+[2020.04.29-18.56.12:423][824]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.04.29-18.56.13:446][824]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_27A49AACD456EDCBAEC0D49A6229862C7.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.29-18.56.13:483][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_2_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset" SILENT=true
+[2020.04.29-18.56.15:816][824]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2_BuiltData6966828543461620B91BEB8A2C758764.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset'
+[2020.04.29-18.56.15:845][824]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.29-18.56.15:845][824]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.29-18.56.15:845][824]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_2_BuiltData.Train_lvl_2_BuiltData
+[2020.04.29-18.56.29:897][744]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2
+[2020.04.29-18.58.57:446][261]BlueprintLog: New page: Compile Train_lvl_2
+[2020.04.29-18.58.57:975][261]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.04.29-18.59.01:925][401]LogTemp: Repeating last play command: Standalone Game
+[2020.04.29-18.59.01:992][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.04.29-18.59.03:704][401]LogSlate: Window 'Save Content' being destroyed
+[2020.04.29-18.59.03:779][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.04.29-18.59.05:096][401]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2FF65348845C479D4686D589FAF932978.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.29-18.59.05:133][401]LogFileHelpers: Saving map 'Train_lvl_2' took 1.399
+[2020.04.29-18.59.05:797][402]AssetCheck: New page: Asset Save: Train_lvl_2
+[2020.04.29-18.59.05:797][402]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.29-18.59.20:092][747]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.04.29-18.59.21:404][747]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2FC0A3EB545588AF8BCA5FF9F0D8D0B6C.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.29-18.59.21:440][747]LogFileHelpers: Saving map 'Train_lvl_2' took 1.406
+[2020.04.29-18.59.21:474][747]AssetCheck: New page: Asset Save: Train_lvl_2
+[2020.04.29-18.59.21:474][747]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.29-18.59.24:183][834]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.29-18.59.24:222][834]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.29-18.59.24:284][834]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.04.29-18.59.24:287][834]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-18.59.24:287][834]LightingResults: New page: Lighting Build
+[2020.04.29-18.59.24:288][834]LoadErrors: New page: Loading map: Train_lvl_1.umap
+[2020.04.29-18.59.24:594][834]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.59.24:595][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.59.24:643][834]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.59.24:643][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.59.24:644][834]MapCheck: New page: Map Check
+[2020.04.29-18.59.24:644][834]LightingResults: New page: Lighting Build
+[2020.04.29-18.59.24:707][834]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.04.29-18.59.24:804][834]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-18.59.24:856][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.04.29-18.59.24:888][834]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-18.59.24:888][834]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2020.04.29-18.59.24:888][834]LogFileHelpers: Loading map 'Train_lvl_1' took 0.602
+[2020.04.29-18.59.27:598][979]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1
+[2020.04.29-18.59.42:375][779]BlueprintLog: New page: Compile Train_lvl_1
+[2020.04.29-18.59.42:779][779]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.04.29-18.59.50:313][186]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.29-18.59.50:314][186]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.04.29-18.59.50:360][186]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.04.29-18.59.53:534][186]LogSlate: Window 'Save Content' being destroyed
+[2020.04.29-18.59.53:595][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.04.29-18.59.54:555][186]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_132493D1B4355A7966AFB3FB54B5EAB2C.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.29-18.59.54:592][186]LogFileHelpers: Saving map 'Train_lvl_1' took 1.050
+[2020.04.29-18.59.54:594][186]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-18.59.54:594][186]LightingResults: New page: Lighting Build
+[2020.04.29-18.59.54:594][186]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.04.29-18.59.54:615][186]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.59.54:615][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.59.54:660][186]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.59.54:660][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.59.54:660][186]MapCheck: New page: Map Check
+[2020.04.29-18.59.54:661][186]LightingResults: New page: Lighting Build
+[2020.04.29-18.59.54:719][186]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.04.29-18.59.54:721][186]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-18.59.54:763][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.04.29-18.59.54:795][186]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-18.59.54:797][186]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.891ms to complete.
+[2020.04.29-18.59.54:797][186]LogFileHelpers: Loading map 'MainMenu' took 0.205
+[2020.04.29-18.59.54:872][186]AssetCheck: New page: Asset Save: Train_lvl_1
+[2020.04.29-18.59.54:872][186]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.29-18.59.55:108][186]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.29-18.59.58:364][420]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.04.29-19.00.03:486][931]BlueprintLog: New page: Compile MainMenu
+[2020.04.29-19.00.03:777][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.04.29-19.00.04:220][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.29-19.00.04:276][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.04.29-19.00.04:539][963]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/MainMenu8D639ED94B8296749FFFB0AED095A08C.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/MainMenu.umap'
+[2020.04.29-19.00.04:577][963]LogFileHelpers: Saving map 'MainMenu' took 0.357
+[2020.04.29-19.00.04:592][963]AssetCheck: New page: Asset Save: MainMenu
+[2020.04.29-19.00.04:592][963]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.04.29-19.00.07:961][273]LogAIModule: Creating AISystem for world Info_1
+[2020.04.29-19.00.07:961][273]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Info_1.Info_1
+[2020.04.29-19.00.08:007][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.04.29-19.00.08:009][273]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-19.00.08:009][273]LightingResults: New page: Lighting Build
+[2020.04.29-19.00.08:010][273]LoadErrors: New page: Loading map: Info_1.umap
+[2020.04.29-19.00.08:031][273]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-19.00.08:031][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-19.00.08:078][273]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-19.00.08:078][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-19.00.08:078][273]MapCheck: New page: Map Check
+[2020.04.29-19.00.08:078][273]LightingResults: New page: Lighting Build
+[2020.04.29-19.00.08:126][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.04.29-19.00.08:181][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.04.29-19.00.08:228][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.04.29-19.00.08:230][273]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-19.00.08:275][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.04.29-19.00.08:307][273]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-19.00.08:307][273]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2020.04.29-19.00.08:307][273]LogFileHelpers: Loading map 'Info_1' took 0.299
+[2020.04.29-19.00.11:617][515]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Info_1.Info_1:PersistentLevel.Info_1
+[2020.04.29-19.00.18:908][263]BlueprintLog: New page: Compile Info_1
+[2020.04.29-19.00.19:181][263]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.04.29-19.00.20:169][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Info_1" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.29-19.00.20:219][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.04.29-19.00.20:474][357]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Info_18C34D9C045664BBA788ABB85AFF86E45.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_1.umap'
+[2020.04.29-19.00.20:511][357]LogFileHelpers: Saving map 'Info_1' took 0.343
+[2020.04.29-19.00.20:525][357]AssetCheck: New page: Asset Save: Info_1
+[2020.04.29-19.00.20:525][357]LogContentValidation: Display: Validating World /Game/Levels/Info_1.Info_1
+[2020.04.29-19.00.22:478][538]LogAIModule: Creating AISystem for world Info_3
+[2020.04.29-19.00.22:479][538]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Info_3.Info_3
+[2020.04.29-19.00.22:527][538]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.04.29-19.00.22:529][538]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-19.00.22:529][538]LightingResults: New page: Lighting Build
+[2020.04.29-19.00.22:530][538]LoadErrors: New page: Loading map: Info_3.umap
+[2020.04.29-19.00.22:551][538]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-19.00.22:551][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-19.00.22:594][538]LogWorld: UWorld::CleanupWorld for Info_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-19.00.22:594][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-19.00.22:594][538]MapCheck: New page: Map Check
+[2020.04.29-19.00.22:594][538]LightingResults: New page: Lighting Build
+[2020.04.29-19.00.22:641][538]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.04.29-19.00.22:643][538]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-19.00.22:687][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.04.29-19.00.22:720][538]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-19.00.22:720][538]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2020.04.29-19.00.22:720][538]LogFileHelpers: Loading map 'Info_3' took 0.193
+[2020.04.29-19.00.33:781][397]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Info_3.Info_3:PersistentLevel.Info_3
+[2020.04.29-19.00.39:006][926]BlueprintLog: New page: Compile Info_3
+[2020.04.29-19.00.39:278][926]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.04.29-19.00.39:703][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Info_3" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.29-19.00.39:753][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.04.29-19.00.40:003][958]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Info_3053489814A9C94D179C6F9B5A3C7687C.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Info_3.umap'
+[2020.04.29-19.00.40:039][958]LogFileHelpers: Saving map 'Info_3' took 0.336
+[2020.04.29-19.00.40:053][958]AssetCheck: New page: Asset Save: Info_3
+[2020.04.29-19.00.40:053][958]LogContentValidation: Display: Validating World /Game/Levels/Info_3.Info_3
+[2020.04.29-19.00.43:444][287]LogAIModule: Creating AISystem for world Credits
+[2020.04.29-19.00.43:445][287]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Credits.Credits
+[2020.04.29-19.00.43:491][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.04.29-19.00.43:493][287]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Credits.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-19.00.43:493][287]LightingResults: New page: Lighting Build
+[2020.04.29-19.00.43:494][287]LoadErrors: New page: Loading map: Credits.umap
+[2020.04.29-19.00.43:514][287]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-19.00.43:514][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-19.00.43:559][287]LogWorld: UWorld::CleanupWorld for Info_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-19.00.43:560][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-19.00.43:560][287]MapCheck: New page: Map Check
+[2020.04.29-19.00.43:560][287]LightingResults: New page: Lighting Build
+[2020.04.29-19.00.43:610][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.04.29-19.00.43:613][287]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-19.00.43:656][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.04.29-19.00.43:690][287]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-19.00.43:690][287]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2020.04.29-19.00.43:690][287]LogFileHelpers: Loading map 'Credits' took 0.198
+[2020.04.29-19.00.50:317][787]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Credits.Credits:PersistentLevel.Credits
+[2020.04.29-19.00.57:378][528]BlueprintLog: New page: Compile Credits
+[2020.04.29-19.00.57:659][528]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.04.29-19.00.58:836][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Credits" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Credits.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.29-19.00.58:888][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.04.29-19.00.59:138][639]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Credits0D7B4A0F4D9C9B504F927E9C341B565D.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Credits.umap'
+[2020.04.29-19.00.59:172][639]LogFileHelpers: Saving map 'Credits' took 0.336
+[2020.04.29-19.00.59:186][639]AssetCheck: New page: Asset Save: Credits
+[2020.04.29-19.00.59:186][639]LogContentValidation: Display: Validating World /Game/Levels/Credits.Credits
+[2020.04.29-19.01.01:354][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.04.29-19.01.04:887][230]LogTemp: Repeating last play command: Standalone Game
+[2020.04.29-19.01.04:946][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.04.29-19.01.42:102][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Credits" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Credits.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.29-19.01.42:148][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.04.29-19.01.42:403][921]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Credits607DA1E844FC5046CB4B1F9EC56F6FBA.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Credits.umap'
+[2020.04.29-19.01.42:451][921]AssetCheck: New page: Asset Save: Credits
+[2020.04.29-19.01.42:451][921]LogContentValidation: Display: Validating World /Game/Levels/Credits.Credits
+[2020.04.29-19.01.58:275][563]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.29-19.01.58:310][563]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.29-19.01.58:367][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.04.29-19.01.58:370][563]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-19.01.58:370][563]LightingResults: New page: Lighting Build
+[2020.04.29-19.01.58:371][563]LoadErrors: New page: Loading map: Train_lvl_2.umap
+[2020.04.29-19.01.58:391][563]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-19.01.58:392][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-19.01.58:436][563]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-19.01.58:436][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-19.01.58:436][563]MapCheck: New page: Map Check
+[2020.04.29-19.01.58:436][563]LightingResults: New page: Lighting Build
+[2020.04.29-19.01.58:484][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.04.29-19.01.58:521][563]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-19.01.58:576][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.04.29-19.01.58:608][563]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-19.01.58:608][563]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2020.04.29-19.01.58:608][563]LogFileHelpers: Loading map 'Train_lvl_2' took 0.239
+[2020.04.29-19.02.08:140][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
