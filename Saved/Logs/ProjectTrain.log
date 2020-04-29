@@ -4209,3 +4209,43 @@ Make sure 'Enemy_Character_Blueprint_C' has been compiled for  Get CharacterMesh
 [2020.04.29-20.41.08:949][949]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
 [2020.04.29-20.41.08:949][949]LogFileHelpers: Loading map 'Train_lvl_2' took 0.182
 [2020.04.29-20.41.11:582][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.04.29-20.44.42:405][602]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.29-20.44.42:452][602]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.29-20.44.42:511][602]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.04.29-20.44.42:515][602]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-20.44.42:515][602]LightingResults: New page: Lighting Build
+[2020.04.29-20.44.42:516][602]LoadErrors: New page: Loading map: Train_lvl_1.umap
+[2020.04.29-20.44.42:518][602]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.44.42:518][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.44.42:518][602]MapCheck: New page: Map Check
+[2020.04.29-20.44.42:518][602]LightingResults: New page: Lighting Build
+[2020.04.29-20.44.42:579][602]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.04.29-20.44.42:614][602]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-20.44.42:668][602]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.04.29-20.44.42:701][602]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-20.44.42:701][602]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2020.04.29-20.44.42:701][602]LogFileHelpers: Loading map 'Train_lvl_1' took 0.188
+[2020.04.29-20.44.53:432][595]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Train_lvl_1.Train_lvl_1:PersistentLevel.Train_lvl_1
+[2020.04.29-20.46.55:737][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.04.29-20.46.56:829][210]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_13DAB20384F501C5A6773F1B74B7564DF.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.29-20.46.56:864][210]LogFileHelpers: Saving map 'Train_lvl_1' took 1.193
+[2020.04.29-20.46.56:900][210]AssetCheck: New page: Asset Save: Train_lvl_1
+[2020.04.29-20.46.56:900][210]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.29-20.47.11:452][998]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.29-20.47.11:489][998]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.29-20.47.11:553][998]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.04.29-20.47.11:557][998]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.29-20.47.11:557][998]LightingResults: New page: Lighting Build
+[2020.04.29-20.47.11:558][998]LoadErrors: New page: Loading map: Train_lvl_2.umap
+[2020.04.29-20.47.11:952][998]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.47.11:952][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.47.12:007][998]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-20.47.12:007][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-20.47.12:007][998]MapCheck: New page: Map Check
+[2020.04.29-20.47.12:007][998]LightingResults: New page: Lighting Build
+[2020.04.29-20.47.12:070][998]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.04.29-20.47.12:108][998]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.29-20.47.12:165][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.04.29-20.47.12:197][998]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.29-20.47.12:198][998]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2020.04.29-20.47.12:198][998]LogFileHelpers: Loading map 'Train_lvl_2' took 0.642
