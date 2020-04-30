@@ -1402,3 +1402,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.30-01.32.26:696][ 77]LogFileHelpers: Saving map 'Train_lvl_2' took 1.386
 [2020.04.30-01.32.27:382][ 78]AssetCheck: New page: Asset Save: Train_lvl_2
 [2020.04.30-01.32.27:382][ 78]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.30-01.36.26:804][615]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TriggerBoxTargetPoint)
+[2020.04.30-01.36.27:756][655]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_1)
+[2020.04.30-01.36.32:658][871]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_1)
+[2020.04.30-01.36.37:193][ 72]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TriggerBoxTargetPoint)
+[2020.04.30-01.36.42:343][293]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.04.30-01.36.43:626][293]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_23478470C4F055627D8901FAA93C0EC4E.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.30-01.36.43:664][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_2_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset" SILENT=true
+[2020.04.30-01.36.47:257][293]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2_BuiltData740FD8C04D5DD76958862D8360796EAE.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset'
+[2020.04.30-01.36.47:291][293]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.30-01.36.47:291][293]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.30-01.36.47:291][293]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_2_BuiltData.Train_lvl_2_BuiltData
+[2020.04.30-01.36.47:922][294]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (bookBlurred)
+[2020.04.30-01.36.59:007][773]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TriggerBoxTargetPoint)
+[2020.04.30-01.37.12:885][398]Cmd: TRANSACTION UNDO
+[2020.04.30-01.37.12:885][398]LogEditorTransaction: Undo Move Actors
+[2020.04.30-01.37.14:191][416]Cmd: TRANSACTION UNDO
+[2020.04.30-01.37.14:191][416]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.30-01.37.14:847][443]Cmd: TRANSACTION UNDO
+[2020.04.30-01.37.14:847][443]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.30-01.37.24:305][873]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox_Harraser_Color)
+[2020.04.30-01.37.26:168][958]Cmd: TRANSACTION UNDO
+[2020.04.30-01.37.26:168][958]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.30-01.37.30:341][134]LogTemp: Repeating last play command: Standalone Game
+[2020.04.30-01.37.30:410][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
