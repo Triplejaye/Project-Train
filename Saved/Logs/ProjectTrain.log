@@ -1267,3 +1267,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.30-00.56.39:063][810]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.661
 [2020.04.30-00.57.35:862][594]LogSlate: Window 'Message Log' being destroyed
 [2020.04.30-00.57.35:867][594]LogSlate: Window 'Message Log' being destroyed
+[2020.04.30-00.58.18:843][884]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6e67b025-ea54-4643-b7bf-e5b54338fe9b}.
+[2020.04.30-00.58.18:843][884]LogTemp: Resetting audio stream to device id 
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Name: Speakers (USB-BH209A)
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Channel Order:
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-00.59.51:594][708]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Credits.Credits
+[2020.04.30-00.59.51:839][708]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.30-00.59.52:938][708]LogSlate: Took 0.004409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.30-00.59.56:779][ 25]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Info_3.Info_3
+[2020.04.30-00.59.59:563][213]LogSlate: Took 0.004847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.30-01.00.15:325][462]BlueprintLog: New page: Compile Info_3
+[2020.04.30-01.00.15:403][462]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.04.30-01.00.16:115][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Info_3" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_3.uasset" SILENT=true
+[2020.04.30-01.00.16:135][504]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Info_337445A6043CAA732105B65954C543194.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_3.uasset'
+[2020.04.30-01.00.16:154][504]AssetCheck: New page: Asset Save: Info_3
+[2020.04.30-01.00.16:154][504]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Info_3.Info_3
+[2020.04.30-01.00.17:828][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.04.30-01.00.18:986][622]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-01.00.19:055][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.30-01.00.19:750][622]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1BDB1FC8A445934F1268DAB8180A93988.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.30-01.00.19:795][622]LogFileHelpers: Saving map 'Train_lvl_1' took 0.780
+[2020.04.30-01.00.19:796][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_1_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1_BuiltData.uasset" SILENT=true
+[2020.04.30-01.00.22:495][622]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1_BuiltData0907012C48F3A7E2261996BE704B2E09.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1_BuiltData.uasset'
+[2020.04.30-01.00.22:527][622]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.30-01.00.22:527][622]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.30-01.00.22:527][622]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_1_BuiltData.Train_lvl_1_BuiltData
