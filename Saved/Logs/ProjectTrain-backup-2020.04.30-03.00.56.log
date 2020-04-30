@@ -1,0 +1,1428 @@
+﻿Log file open, 04/29/20 18:19:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectTrain
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.063205
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Engine.ini]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Engine.ini]
+[2020.04.30-00.19.51:962][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Engine.ini]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Engine.ini]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.30-00.19.51:962][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Engine.ini]
+[2020.04.30-00.19.51:962][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Engine.ini]
+[2020.04.30-00.19.51:970][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.30-00.19.51:971][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.30-00.19.51:972][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.30-00.19.51:972][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.30-00.19.51:972][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.30-00.19.51:974][  0]LogHAL: Display: Platform has ~ 32 GB [34284154880 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.30-00.19.51:974][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.30-00.19.51:974][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.30-00.19.51:974][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.30-00.19.51:975][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.30-00.19.51:976][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.30-00.19.51:976][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.30-00.19.51:976][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Config/Windows/Engine.ini]
+[2020.04.30-00.19.51:976][  0]LogInit: Computer: DESKTOP-KBUC8NT
+[2020.04.30-00.19.51:976][  0]LogInit: User: jacob
+[2020.04.30-00.19.51:976][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.30-00.19.51:976][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.30-00.19.51:976][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.04.30-00.19.51:976][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.30-00.19.51:976][  0]LogMemory: Process Physical Memory: 105.45 MB used, 105.45 MB peak
+[2020.04.30-00.19.51:976][  0]LogMemory: Process Virtual Memory: 100.88 MB used, 100.88 MB peak
+[2020.04.30-00.19.51:976][  0]LogMemory: Physical Memory: 8128.28 MB used,  24567.64 MB free, 32695.92 MB total
+[2020.04.30-00.19.51:976][  0]LogMemory: Virtual Memory: 5151.98 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2020.04.30-00.19.51:978][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.30-00.19.51:994][  0]LogInit: Using OS detected language (en-US).
+[2020.04.30-00.19.51:994][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.30-00.19.51:994][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.30-00.19.52:146][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.30-00.19.52:187][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.30-00.19.52:187][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.30-00.19.54:216][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.30-00.19.54:216][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.30-00.19.54:216][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.30-00.19.54:216][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.30-00.19.54:274][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.04.30-00.19.54:274][  0]LogD3D11RHI:       8088/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.30-00.19.54:276][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.30-00.19.54:276][  0]LogD3D11RHI:       0/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.30-00.19.54:276][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.30-00.19.54:283][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.30-00.19.54:283][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.30-00.19.54:283][  0]LogWindows: EnumDisplayDevices:
+[2020.04.30-00.19.54:284][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.04.30-00.19.54:284][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.04.30-00.19.54:284][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.04.30-00.19.54:284][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.04.30-00.19.54:284][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.30-00.19.54:284][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.04.30-00.19.54:284][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.04.30-00.19.54:284][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.30-00.19.54:284][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.04.30-00.19.54:328][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.30-00.19.54:328][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.30-00.19.54:349][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.30-00.19.54:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.30-00.19.54:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.30-00.19.54:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.30-00.19.54:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.30-00.19.54:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.30-00.19.54:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.30-00.19.54:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.30-00.19.54:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.30-00.19.54:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.30-00.19.54:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.30-00.19.54:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.30-00.19.54:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.30-00.19.54:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.30-00.19.54:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.30-00.19.54:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.30-00.19.54:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.30-00.19.54:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.30-00.19.54:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.30-00.19.54:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.30-00.19.54:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.30-00.19.54:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.30-00.19.54:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.30-00.19.54:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.30-00.19.54:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.30-00.19.54:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.30-00.19.54:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.30-00.19.54:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.30-00.19.54:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.30-00.19.54:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.30-00.19.54:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.30-00.19.54:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.30-00.19.54:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.30-00.19.54:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.30-00.19.54:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.30-00.19.54:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.30-00.19.54:859][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.30-00.19.54:861][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.30-00.19.54:878][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Intermediate/Shaders/WorkingDirectory/20692/).
+[2020.04.30-00.19.54:879][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jacob/AppData/Local/Temp/UnrealShaderWorkingDir/22AA2B114B8D60D0899C619E8E7950D0/'.
+[2020.04.30-00.19.54:879][  0]LogXGEController: Cleaning working directory: C:/Users/jacob/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.30-00.19.54:879][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.30-00.19.54:879][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.30-00.19.54:879][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.30-00.19.55:503][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.30-00.19.55:552][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/jacob/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.30-00.19.55:552][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jacob/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.30-00.19.55:552][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.30-00.19.55:552][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.30-00.19.55:552][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.30-00.19.55:552][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.30-00.19.55:562][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.30-00.19.55:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.30-00.19.55:562][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.30-00.19.55:563][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jacob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.30-00.19.55:563][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.30-00.19.55:563][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.30-00.19.55:586][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.30-00.19.55:588][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.30-00.19.55:588][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.30-00.19.55:632][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.04.30-00.19.55:895][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.30-00.19.56:042][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.30-00.19.56:042][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.30-00.19.56:042][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.30-00.19.56:042][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.30-00.19.56:042][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.30-00.19.56:061][  0]LogNetVersion: ProjectTrain 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1973535973)
+[2020.04.30-00.19.57:749][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.040980 seconds
+[2020.04.30-00.19.57:756][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.30-00.19.57:756][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.30-00.19.57:756][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.30-00.19.58:141][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.30-00.19.58:144][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.30-00.19.58:190][  0]SourceControl: Source control is disabled
+[2020.04.30-00.19.58:191][  0]SourceControl: Source control is disabled
+[2020.04.30-00.19.58:192][  0]SourceControl: Source control is disabled
+[2020.04.30-00.19.58:192][  0]SourceControl: Source control is disabled
+[2020.04.30-00.19.58:193][  0]SourceControl: Source control is disabled
+[2020.04.30-00.19.58:268][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.30-00.19.58:276][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.30-00.19.58:276][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.30-00.19.58:348][  0]LogOcInput: OculusInput pre-init called
+[2020.04.30-00.19.58:353][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.30-00.19.58:353][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.30-00.19.58:412][  0]LogEngine: Initializing Engine...
+[2020.04.30-00.19.58:413][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.30-00.19.58:414][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.30-00.19.58:780][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.30-00.19.58:786][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.30-00.19.58:800][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-00.19.58:800][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-00.19.58:800][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-00.19.58:800][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-00.19.58:800][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-00.19.58:800][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-00.19.58:800][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-00.19.58:800][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-00.19.58:800][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-00.19.58:800][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-00.19.58:816][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-00.19.58:816][  0]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.30-00.19.58:816][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-00.19.58:817][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-00.19.58:817][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-00.19.58:817][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-00.19.58:817][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.30-00.19.58:817][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-00.19.58:817][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-00.19.58:847][  0]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.30-00.19.58:851][  0]LogInit: FAudioDevice initialized.
+[2020.04.30-00.19.58:852][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.30-00.19.59:025][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/jacob/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.30-00.19.59:031][  0]LogInit: Texture streaming: Enabled
+[2020.04.30-00.19.59:039][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.30-00.19.59:039][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.30-00.19.59:040][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.30-00.19.59:101][  0]LogInit: Transaction tracking system initialized
+[2020.04.30-00.19.59:111][  0]BlueprintLog: New page: Editor Load
+[2020.04.30-00.19.59:136][  0]LocalizationService: Localization service is disabled
+[2020.04.30-00.19.59:624][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/' took 0.01s
+[2020.04.30-00.19.59:624][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.30-00.19.59:624][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.30-00.20.00:255][  0]SourceControl: Source control is disabled
+[2020.04.30-00.20.00:255][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-00.20.00:255][  0]LightingResults: New page: Lighting Build
+[2020.04.30-00.20.00:256][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-00.20.00:256][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.20.00:256][  0]MapCheck: New page: Map Check
+[2020.04.30-00.20.00:256][  0]LightingResults: New page: Lighting Build
+[2020.04.30-00.20.00:280][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.04.30-00.20.01:351][  0]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.30-00.20.01:400][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-00.20.01:440][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.04.30-00.20.01:440][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-00.20.01:440][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.267ms to complete.
+[2020.04.30-00.20.01:440][  0]LogFileHelpers: Loading map 'Train_lvl_2' took 1.186
+[2020.04.30-00.20.01:620][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-00.20.01:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-00.20.01:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-00.20.01:639][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-00.20.01:648][  0]LogCollectionManager: Loaded 0 collections in 0.001774 seconds
+[2020.04.30-00.20.01:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Collections/' took 0.00s
+[2020.04.30-00.20.01:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Developers/jacob/Collections/' took 0.00s
+[2020.04.30-00.20.01:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Collections/' took 0.00s
+[2020.04.30-00.20.01:658][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3015 classes and 717 folders.
+[2020.04.30-00.20.01:660][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.30-00.20.01:897][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.30-00.20.01:901][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.30-00.20.01:940][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.30-00.20.01:946][  0]LogSlate: Took 0.004331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.30-00.20.01:955][  0]LogSlate: Took 0.004399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.30-00.20.02:076][  0]LogRenderer: Reallocating scene render targets to support 1704x576 Format 10 NumSamples 1 (Frame:1).
+[2020.04.30-00.20.02:228][  0]LogSlate: Took 0.004881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.30-00.20.02:332][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.30-00.20.02:332][  0]LogLoad: (Engine Initialization) Total time: 11.48 seconds
+[2020.04.30-00.20.02:332][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.30-00.20.02:427][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.30-00.20.02:978][ 10]LogAssetRegistry: Asset discovery search completed in 7.3465 seconds
+[2020.04.30-00.20.02:981][ 10]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.04.30-00.20.07:419][383]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.30-00.20.07:463][383]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.30-00.20.07:465][383]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.04.30-00.20.07:486][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.04.30-00.20.07:491][383]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-00.20.07:491][383]LightingResults: New page: Lighting Build
+[2020.04.30-00.20.07:492][383]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.04.30-00.20.07:494][383]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-00.20.07:494][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.20.07:495][383]MapCheck: New page: Map Check
+[2020.04.30-00.20.07:495][383]LightingResults: New page: Lighting Build
+[2020.04.30-00.20.07:528][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.04.30-00.20.07:529][383]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-00.20.07:551][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.04.30-00.20.07:582][383]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-00.20.07:583][383]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2020.04.30-00.20.07:583][383]LogFileHelpers: Loading map 'MainMenu' took 0.092
+[2020.04.30-00.20.35:527][728]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.30-00.20.35:544][728]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.20.35:544][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-00.20.35:544][728]PIE: New page: PIE session: MainMenu (Apr 29, 2020, 12:20:35 PM)
+[2020.04.30-00.20.35:545][728]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.30-00.20.35:546][728]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.30-00.20.35:546][728]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.30-00.20.35:547][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001250s)
+[2020.04.30-00.20.35:548][728]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.30-00.20.35:548][728]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2020.04.30-00.20.35:548][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002301s)
+[2020.04.30-00.20.35:568][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.04.30-00.20.35:570][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-00.20.35:570][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-00.20.35:570][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-00.20.35:570][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-00.20.35:570][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-00.20.35:570][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-00.20.35:570][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-00.20.35:570][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-00.20.35:570][728]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-00.20.35:570][728]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-00.20.35:583][728]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-00.20.35:583][728]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.30-00.20.35:583][728]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-00.20.35:583][728]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-00.20.35:583][728]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-00.20.35:583][728]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-00.20.35:583][728]LogAudioMixer: Display: Channel Order:
+[2020.04.30-00.20.35:583][728]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-00.20.35:583][728]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-00.20.35:592][728]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.30-00.20.35:593][728]LogInit: FAudioDevice initialized.
+[2020.04.30-00.20.35:644][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-00.20.35:646][728]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.30-00.20.35:647][728]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.29-18.20.35
+[2020.04.30-00.20.35:647][728]LogWorld: Bringing up level for play took: 0.000553
+[2020.04.30-00.20.35:647][728]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.04.30-00.20.35:650][728]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.30-00.20.35:653][728]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.30-00.20.35:655][728]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.347
+[2020.04.30-00.20.35:656][728]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.20.35:668][728]LogAudio: Warning: Detected orphaned looping sound 'symmetry-by-kevin-macleod-from-filmmusic-io'.
+[2020.04.30-00.20.35:710][729]LogRenderer: Reallocating scene render targets to support 1704x720 Format 10 NumSamples 1 (Frame:1).
+[2020.04.30-00.22.32:454][722]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.30-00.22.32:459][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.32:459][722]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.30-00.22.32:475][722]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.30-00.22.32:495][722]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.30-00.22.32:495][722]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-00.22.32:496][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.22.32:503][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-00.22.32:503][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.32:507][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.22.32:526][722]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-00.22.32:531][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.04.30-00.22.32:575][723]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.04.30-00.22.39:200][504]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.39:200][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-00.22.39:200][504]PIE: New page: PIE session: MainMenu (Apr 29, 2020, 12:22:39 PM)
+[2020.04.30-00.22.39:201][504]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.30-00.22.39:202][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001203s)
+[2020.04.30-00.22.39:203][504]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.30-00.22.39:203][504]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2020.04.30-00.22.39:203][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002100s)
+[2020.04.30-00.22.39:225][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.04.30-00.22.39:226][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-00.22.39:226][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-00.22.39:226][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-00.22.39:226][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-00.22.39:226][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-00.22.39:226][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-00.22.39:226][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-00.22.39:226][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-00.22.39:226][504]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-00.22.39:226][504]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-00.22.39:238][504]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-00.22.39:238][504]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.30-00.22.39:238][504]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-00.22.39:238][504]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-00.22.39:238][504]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-00.22.39:238][504]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-00.22.39:238][504]LogAudioMixer: Display: Channel Order:
+[2020.04.30-00.22.39:238][504]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-00.22.39:238][504]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-00.22.39:249][504]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.30-00.22.39:250][504]LogInit: FAudioDevice initialized.
+[2020.04.30-00.22.39:296][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-00.22.39:296][504]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.30-00.22.39:297][504]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.29-18.22.39
+[2020.04.30-00.22.39:297][504]LogWorld: Bringing up level for play took: 0.000356
+[2020.04.30-00.22.39:297][504]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.04.30-00.22.39:302][504]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.30-00.22.39:303][504]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.005
+[2020.04.30-00.22.39:304][504]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.39:307][504]LogAudio: Warning: Detected orphaned looping sound 'symmetry-by-kevin-macleod-from-filmmusic-io'.
+[2020.04.30-00.22.43:660][ 20]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.30-00.22.43:665][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.43:665][ 20]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.30-00.22.43:685][ 20]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.30-00.22.43:705][ 20]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.30-00.22.43:705][ 20]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-00.22.43:705][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.22.43:712][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-00.22.43:712][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.43:715][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.22.43:736][ 20]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-00.22.43:741][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.04.30-00.22.43:770][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.04.30-00.22.47:771][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.47:771][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-00.22.47:772][490]PIE: New page: PIE session: MainMenu (Apr 29, 2020, 12:22:47 PM)
+[2020.04.30-00.22.47:772][490]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.30-00.22.47:773][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001119s)
+[2020.04.30-00.22.47:773][490]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.30-00.22.47:774][490]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2020.04.30-00.22.47:774][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002139s)
+[2020.04.30-00.22.47:793][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.04.30-00.22.47:793][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-00.22.47:793][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-00.22.47:794][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-00.22.47:794][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-00.22.47:794][490]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-00.22.47:794][490]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-00.22.47:794][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-00.22.47:794][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-00.22.47:794][490]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-00.22.47:794][490]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-00.22.47:806][490]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-00.22.47:806][490]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.30-00.22.47:806][490]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-00.22.47:806][490]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-00.22.47:806][490]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-00.22.47:806][490]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-00.22.47:806][490]LogAudioMixer: Display: Channel Order:
+[2020.04.30-00.22.47:806][490]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-00.22.47:806][490]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-00.22.47:815][490]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.30-00.22.47:816][490]LogInit: FAudioDevice initialized.
+[2020.04.30-00.22.47:822][490]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.30-00.22.47:823][490]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.29-18.22.47
+[2020.04.30-00.22.47:823][490]LogWorld: Bringing up level for play took: 0.000294
+[2020.04.30-00.22.47:823][490]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.04.30-00.22.47:826][490]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.30-00.22.47:826][490]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.519
+[2020.04.30-00.22.47:826][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.47:830][490]LogAudio: Warning: Detected orphaned looping sound 'symmetry-by-kevin-macleod-from-filmmusic-io'.
+[2020.04.30-00.22.50:270][774]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-00.22.50:275][774]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.30-00.22.50:295][774]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.30-00.22.50:295][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.50:295][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-00.22.50:295][774]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.30-00.22.50:295][774]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-00.22.50:295][774]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-00.22.50:295][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.22.50:302][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-00.22.50:302][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.50:305][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.22.50:326][774]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-00.22.50:328][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-00.22.50:331][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.04.30-00.22.50:373][779]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.04.30-00.22.56:450][500]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.56:451][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-00.22.56:451][500]PIE: New page: PIE session: MainMenu (Apr 29, 2020, 12:22:56 PM)
+[2020.04.30-00.22.56:451][500]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.30-00.22.56:452][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001149s)
+[2020.04.30-00.22.56:453][500]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.30-00.22.56:453][500]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2020.04.30-00.22.56:453][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002090s)
+[2020.04.30-00.22.56:473][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.04.30-00.22.56:474][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-00.22.56:474][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-00.22.56:474][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-00.22.56:474][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-00.22.56:474][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-00.22.56:474][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-00.22.56:474][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-00.22.56:474][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-00.22.56:474][500]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-00.22.56:474][500]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-00.22.56:486][500]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-00.22.56:486][500]LogAudioMixer: Display: Name: LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.30-00.22.56:486][500]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-00.22.56:486][500]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-00.22.56:486][500]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-00.22.56:486][500]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-00.22.56:486][500]LogAudioMixer: Display: Channel Order:
+[2020.04.30-00.22.56:486][500]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-00.22.56:486][500]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-00.22.56:498][500]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2020.04.30-00.22.56:499][500]LogInit: FAudioDevice initialized.
+[2020.04.30-00.22.56:546][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-00.22.56:546][500]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.30-00.22.56:547][500]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.29-18.22.56
+[2020.04.30-00.22.56:548][500]LogWorld: Bringing up level for play took: 0.000475
+[2020.04.30-00.22.56:548][500]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.04.30-00.22.56:553][500]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.04.30-00.22.56:555][500]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.753
+[2020.04.30-00.22.56:555][500]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.22.56:559][500]LogAudio: Warning: Detected orphaned looping sound 'symmetry-by-kevin-macleod-from-filmmusic-io'.
+[2020.04.30-00.23.00:903][ 13]LogSlate: Window 'ProjectTrain Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.30-00.23.00:908][ 13]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.23.00:908][ 13]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.04.30-00.23.00:915][ 13]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.30-00.23.00:935][ 13]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.30-00.23.00:936][ 13]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-00.23.00:936][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.23.00:946][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-00.23.00:946][ 13]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.30-00.23.00:949][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.23.00:970][ 13]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-00.23.00:975][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.04.30-00.23.01:002][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.04.30-00.23.14:650][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.04.30-00.34.48:314][102]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.30-00.34.48:348][102]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.30-00.34.48:382][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.30-00.34.48:383][102]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-00.34.48:383][102]LightingResults: New page: Lighting Build
+[2020.04.30-00.34.48:384][102]LoadErrors: New page: Loading map: Train_lvl_2.umap
+[2020.04.30-00.34.48:384][102]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-00.34.48:384][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.34.48:384][102]MapCheck: New page: Map Check
+[2020.04.30-00.34.48:384][102]LightingResults: New page: Lighting Build
+[2020.04.30-00.34.48:408][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.04.30-00.34.48:447][102]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-00.34.48:479][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.04.30-00.34.48:511][102]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-00.34.48:512][102]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2020.04.30-00.34.48:512][102]LogFileHelpers: Loading map 'Train_lvl_2' took 0.129
+[2020.04.30-00.34.50:311][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (scn_buildingGrayTall)
+[2020.04.30-00.34.58:883][243]MapCheck: New page: Map Check
+[2020.04.30-00.34.58:893][243]LightingResults: New page: Lighting Build - Apr 29, 2020, 12:34:58 PM
+[2020.04.30-00.34.58:930][243]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.30-00.34.58:987][243]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.30-00.34.58:998][243]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.30-00.34.59:507][243]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.30-00.34.59:507][243]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20692
+[2020.04.30-00.35.03:999][243]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.30-00.35.03:999][243]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.30-00.35.03:999][243]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.30-00.35.03:999][243]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.30-00.35.03:999][243]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.30-00.35.04:126][243]LogEditorBuildUtils: Build time 0:05
+[2020.04.30-00.35.04:311][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.04.30-00.35.22:938][800]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.35.22:938][800]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.35.24:280][881]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.35.24:280][881]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.35.58:129][695]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.35.58:129][695]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.35.58:889][733]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.35.58:889][733]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.36.34:758][652]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.36.34:758][652]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.36.35:132][675]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.36.35:132][675]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.37.03:908][113]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.37.03:908][113]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.37.09:533][623]Job is a success!
+[2020.04.30-00.37.09:733][624]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.04.30-00.37.09:733][624]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.30-00.37.09:734][624]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.04.30-00.37.09:734][624]LogVolumetricLightmapImport:      Bricks at depth
+[2020.04.30-00.37.09:734][624]LogVolumetricLightmapImport:          0: 1.8% covering 100.0% of volume
+[2020.04.30-00.37.09:734][624]LogVolumetricLightmapImport:          1: 7.1% covering 6.3% of volume
+[2020.04.30-00.37.09:734][624]LogVolumetricLightmapImport:          2: 91.1% covering 1.2% of volume
+[2020.04.30-00.37.09:734][624]LogVolumetricLightmapImport:      Bricks in each level
+[2020.04.30-00.37.09:734][624]LogVolumetricLightmapImport:          Train_lvl_2 			 56 bricks 	 100.0% (Persistent Level)
+[2020.04.30-00.37.10:855][624]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:353][624]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 2048X1024)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 2048X2048)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 2048X2048)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:354][624]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 128X64)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 128X128)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: SkyOcclusion1_29 (AutoDXT, 64X32)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 64X64)
+[2020.04.30-00.37.17:355][624]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 64X64)
+[2020.04.30-00.37.17:754][624]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 1024X1024)
+[2020.04.30-00.37.17:754][624]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X1024)
+[2020.04.30-00.37.17:754][624]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (BGRA8, 1024X1024)
+[2020.04.30-00.37.17:754][624]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 1024X1024)
+[2020.04.30-00.37.17:754][624]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 1024X1024)
+[2020.04.30-00.37.17:754][624]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 1024X1024)
+[2020.04.30-00.37.18:154][624]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 1024X1024)
+[2020.04.30-00.37.18:154][624]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (BGRA8, 1024X1024)
+[2020.04.30-00.37.18:154][624]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 1024X1024)
+[2020.04.30-00.37.18:154][624]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (BGRA8, 1024X1024)
+[2020.04.30-00.37.18:154][624]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 1024X1024)
+[2020.04.30-00.37.18:154][624]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (BGRA8, 1024X1024)
+[2020.04.30-00.37.18:356][624]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 1024X512)
+[2020.04.30-00.37.18:356][624]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 64X64)
+[2020.04.30-00.37.18:356][624]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 128X64)
+[2020.04.30-00.37.18:356][624]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 128X64)
+[2020.04.30-00.37.18:356][624]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 64X64)
+[2020.04.30-00.37.18:356][624]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 64X64)
+[2020.04.30-00.37.18:356][624]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 64X64)
+[2020.04.30-00.37.18:356][624]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 64X64)
+[2020.04.30-00.37.18:356][624]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 64X64)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 64X64)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 64X64)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 64X64)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 64X64)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 64X64)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 64X64)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 64X64)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 64X64)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 32X32)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 1024X1024)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 1024X1024)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (BGRA8, 1024X1024)
+[2020.04.30-00.37.18:357][624]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 1024X1024)
+[2020.04.30-00.37.18:481][624]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (BGRA8, 1024X1024)
+[2020.04.30-00.37.18:482][624]Lightmass on DESKTOP-KBUC8NT: 2:13 min total, 400 ms importing, 73 ms setup, 16.5 sec photons, 1:56 min processing, 0 ms extra exporting [129/129 mappings]. Threads: 13:34 min total, 8:48 min processing.
+[2020.04.30-00.37.18:490][624]LogStaticLightingSystem: Train_lvl_2_BuiltData storing lightmap data for 129 meshes in 35 LightmapResourceClusters (3.7 Meshes per cluster).
+[2020.04.30-00.37.18:534][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.04.30-00.37.18:584][624]LogStaticLightingSystem: Illumination: 2:19 min (6.51 sec encoding lightmaps, 1.04 sec encoding shadowmaps)
+[2020.04.30-00.37.18:584][624]LogStaticLightingSystem: Lightmap texture memory:  128.7 MB (128.7 MB streaming, 0.0 MB non-streaming), 58 textures
+[2020.04.30-00.37.18:584][624]LogStaticLightingSystem: Shadowmap texture memory: 77.4 MB (77.4 MB streaming, 0.0 MB non-streaming), 35 textures
+[2020.04.30-00.37.19:100][624]DumpUnbuiltLightIteractions
+[2020.04.30-00.37.19:100][624]Lights with unbuilt interactions: 0
+[2020.04.30-00.37.19:100][624]
+[2020.04.30-00.37.19:100][624]Primitives with unbuilt interactions: 0
+[2020.04.30-00.37.19:248][625]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.30-00.37.19:248][625]MapCheck: New page: Train_lvl_2 - Apr 29, 2020, 12:37:19 PM
+[2020.04.30-00.37.19:249][625]MapCheck: Warning: SitChoice1_opt1 SitChoice1_opt1 is in the same location as SitChoice1_opt4 
+[2020.04.30-00.37.19:249][625]MapCheck: Warning: SitChoice1_opt2 SitChoice1_opt2 is in the same location as SitChoice1_opt5_3 
+[2020.04.30-00.37.19:249][625]MapCheck: Warning: SitChoice1_opt4 SitChoice1_opt4 is in the same location as SitChoice1_opt1 
+[2020.04.30-00.37.19:249][625]MapCheck: Warning: SitChoice1_opt5_3 SitChoice1_opt5_3 is in the same location as SitChoice1_opt2 
+[2020.04.30-00.37.19:250][625]MapCheck: Warning: SitChoice1_opt3_0 SitChoice1_opt3_0 is in the same location as SitChoice1_opt6 
+[2020.04.30-00.37.19:250][625]MapCheck: Warning: SitChoice1_opt6 SitChoice1_opt6 is in the same location as SitChoice1_opt3_0 
+[2020.04.30-00.37.19:250][625]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 1.787ms to complete.
+[2020.04.30-00.44.57:541][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.04.30-00.44.58:460][403]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2_Auto18798AC0246CB883BFA2876B5EDA84D27.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Autosaves/Game/Levels/Train_lvl_2_Auto1.umap'
+[2020.04.30-00.44.58:467][403]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_2' took 0.947
+[2020.04.30-00.44.58:467][403]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.947
+[2020.04.30-00.46.24:244][666]LogSlate: Window 'Message Log' being destroyed
+[2020.04.30-00.46.24:249][666]LogSlate: Window 'Message Log' being destroyed
+[2020.04.30-00.46.28:585][142]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.30-00.46.28:614][142]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.30-00.46.28:647][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.04.30-00.46.30:242][142]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-00.46.30:276][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.04.30-00.46.31:183][142]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2015AF8E2467D48C60D20DE959F33DFE8.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.30-00.46.31:220][142]LogFileHelpers: Saving map 'Train_lvl_2' took 0.969
+[2020.04.30-00.46.31:220][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_2_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset" SILENT=true
+[2020.04.30-00.46.33:646][142]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2_BuiltDataA78E8B704846BCB5F7464CAEB28009E0.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset'
+[2020.04.30-00.46.33:653][142]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-00.46.33:654][142]LightingResults: New page: Lighting Build
+[2020.04.30-00.46.33:654][142]LoadErrors: New page: Loading map: Train_lvl_1.umap
+[2020.04.30-00.46.33:657][142]LogWorld: UWorld::CleanupWorld for Train_lvl_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-00.46.33:657][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-00.46.33:658][142]MapCheck: New page: Map Check
+[2020.04.30-00.46.33:658][142]LightingResults: New page: Lighting Build
+[2020.04.30-00.46.33:701][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.04.30-00.46.33:791][142]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-00.46.33:818][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.04.30-00.46.33:852][142]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-00.46.33:852][142]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2020.04.30-00.46.33:852][142]LogFileHelpers: Loading map 'Train_lvl_1' took 0.199
+[2020.04.30-00.46.33:932][142]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.30-00.46.33:932][142]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.30-00.46.34:307][142]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.30-00.46.34:334][142]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_2_BuiltData.Train_lvl_2_BuiltData
+[2020.04.30-00.46.36:178][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (scn_buildingBrn2)
+[2020.04.30-00.46.43:081][124]MapCheck: New page: Map Check
+[2020.04.30-00.46.43:091][124]LightingResults: New page: Lighting Build - Apr 29, 2020, 12:46:43 PM
+[2020.04.30-00.46.43:102][124]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.30-00.46.43:105][124]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.30-00.46.43:105][124]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.30-00.46.43:105][124]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.30-00.46.43:105][124]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20692
+[2020.04.30-00.46.47:644][124]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.30-00.46.47:644][124]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.30-00.46.47:644][124]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.30-00.46.47:644][124]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.30-00.46.47:644][124]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.30-00.46.47:746][124]LogEditorBuildUtils: Build time 0:04
+[2020.04.30-00.46.47:993][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.04.30-00.47.07:518][762]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.47.07:518][762]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.47.09:021][850]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.47.09:021][850]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.47.43:309][731]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.47.43:309][731]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.47.44:178][776]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.47.44:178][776]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.48.20:124][812]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.48.20:124][812]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.48.20:388][829]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.48.20:388][829]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.48.58:284][ 66]LightingResults: Warning: RailingOBJ Object has overlapping UVs.
+[2020.04.30-00.48.58:284][ 66]LightingResults: RailingOBJ Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.30-00.48.59:655][186]Job is a success!
+[2020.04.30-00.48.59:890][188]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.04.30-00.48.59:890][188]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.30-00.48.59:890][188]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.04.30-00.48.59:890][188]LogVolumetricLightmapImport:      Bricks at depth
+[2020.04.30-00.48.59:890][188]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2020.04.30-00.48.59:890][188]LogVolumetricLightmapImport:          1: 6.7% covering 6.3% of volume
+[2020.04.30-00.48.59:890][188]LogVolumetricLightmapImport:          2: 91.7% covering 1.3% of volume
+[2020.04.30-00.48.59:890][188]LogVolumetricLightmapImport:      Bricks in each level
+[2020.04.30-00.48.59:890][188]LogVolumetricLightmapImport:          Train_lvl_1 			 60 bricks 	 100.0% (Persistent Level)
+[2020.04.30-00.49.01:087][188]LightingResults: Warning: PointLight14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:989][188]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 2048X1024)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 2048X2048)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 1024X512)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:990][188]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_31 (AutoDXT, 128X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 128X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion0_32 (AutoDXT, 256X128)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 256X256)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 256X256)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: SkyOcclusion1_33 (AutoDXT, 64X32)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 64X64)
+[2020.04.30-00.49.07:991][188]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 64X64)
+[2020.04.30-00.49.08:390][188]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:390][188]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:390][188]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:390][188]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.04.30-00.49.08:390][188]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:390][188]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.04.30-00.49.08:590][188]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:790][188]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:790][188]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:790][188]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2020.04.30-00.49.08:790][188]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:790][188]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:993][188]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X512)
+[2020.04.30-00.49.08:993][188]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 64X64)
+[2020.04.30-00.49.08:993][188]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 64X64)
+[2020.04.30-00.49.08:993][188]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 64X64)
+[2020.04.30-00.49.08:993][188]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 64X64)
+[2020.04.30-00.49.08:993][188]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 64X64)
+[2020.04.30-00.49.08:993][188]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2020.04.30-00.49.08:993][188]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 64X64)
+[2020.04.30-00.49.08:993][188]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 64X64)
+[2020.04.30-00.49.08:993][188]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2020.04.30-00.49.08:993][188]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 64X64)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 64X64)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 64X64)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 64X64)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 64X64)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 64X64)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 64X64)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 64X64)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 256X64)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 32X32)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X1024)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X1024)
+[2020.04.30-00.49.08:994][188]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 1024X1024)
+[2020.04.30-00.49.09:051][188]Lightmass on DESKTOP-KBUC8NT: 2:20 min total, 184 ms importing, 71 ms setup, 17.8 sec photons, 2:02 min processing, 0 ms extra exporting [130/130 mappings]. Threads: 14:16 min total, 9:52 min processing.
+[2020.04.30-00.49.09:058][188]LogStaticLightingSystem: Train_lvl_1_BuiltData storing lightmap data for 130 meshes in 39 LightmapResourceClusters (3.3 Meshes per cluster).
+[2020.04.30-00.49.09:139][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.04.30-00.49.09:187][188]LogStaticLightingSystem: Illumination: 2:26 min (6.91 sec encoding lightmaps, 993 ms encoding shadowmaps)
+[2020.04.30-00.49.09:187][188]LogStaticLightingSystem: Lightmap texture memory:  131.6 MB (131.6 MB streaming, 0.0 MB non-streaming), 66 textures
+[2020.04.30-00.49.09:187][188]LogStaticLightingSystem: Shadowmap texture memory: 77.4 MB (77.4 MB streaming, 0.0 MB non-streaming), 38 textures
+[2020.04.30-00.49.09:741][188]DumpUnbuiltLightIteractions
+[2020.04.30-00.49.09:741][188]Lights with unbuilt interactions: 0
+[2020.04.30-00.49.09:741][188]
+[2020.04.30-00.49.09:741][188]Primitives with unbuilt interactions: 0
+[2020.04.30-00.49.09:891][189]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.30-00.49.09:891][189]MapCheck: New page: Train_lvl_1 - Apr 29, 2020, 12:49:09 PM
+[2020.04.30-00.49.09:892][189]MapCheck: Warning: SitChoice1_opt1 SitChoice1_opt1 is in the same location as SitChoice1_opt3 
+[2020.04.30-00.49.09:892][189]MapCheck: Warning: SitChoice1_opt2 SitChoice1_opt2 is in the same location as SitChoice1_opt4 
+[2020.04.30-00.49.09:892][189]MapCheck: Warning: SitChoice1_opt3 SitChoice1_opt3 is in the same location as SitChoice1_opt1 
+[2020.04.30-00.49.09:892][189]MapCheck: Warning: SitChoice1_opt4 SitChoice1_opt4 is in the same location as SitChoice1_opt2 
+[2020.04.30-00.49.09:893][189]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 1.49ms to complete.
+[2020.04.30-00.56.38:424][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.04.30-00.56.39:060][810]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1_Auto2A129E16B4B1AE3797E5CD683E44B9B73.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Autosaves/Game/Levels/Train_lvl_1_Auto2.umap'
+[2020.04.30-00.56.39:062][810]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_1' took 0.661
+[2020.04.30-00.56.39:063][810]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.661
+[2020.04.30-00.57.35:862][594]LogSlate: Window 'Message Log' being destroyed
+[2020.04.30-00.57.35:867][594]LogSlate: Window 'Message Log' being destroyed
+[2020.04.30-00.58.18:843][884]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6e67b025-ea54-4643-b7bf-e5b54338fe9b}.
+[2020.04.30-00.58.18:843][884]LogTemp: Resetting audio stream to device id 
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Name: Speakers (USB-BH209A)
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: Channel Order:
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-00.58.18:891][884]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-00.59.51:594][708]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Credits.Credits
+[2020.04.30-00.59.51:839][708]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.30-00.59.52:938][708]LogSlate: Took 0.004409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.30-00.59.56:779][ 25]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Info_3.Info_3
+[2020.04.30-00.59.59:563][213]LogSlate: Took 0.004847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.30-01.00.15:325][462]BlueprintLog: New page: Compile Info_3
+[2020.04.30-01.00.15:403][462]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.04.30-01.00.16:115][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Info_3" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_3.uasset" SILENT=true
+[2020.04.30-01.00.16:135][504]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Info_337445A6043CAA732105B65954C543194.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_3.uasset'
+[2020.04.30-01.00.16:154][504]AssetCheck: New page: Asset Save: Info_3
+[2020.04.30-01.00.16:154][504]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Info_3.Info_3
+[2020.04.30-01.00.17:828][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.04.30-01.00.18:986][622]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-01.00.19:055][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.30-01.00.19:750][622]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1BDB1FC8A445934F1268DAB8180A93988.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap'
+[2020.04.30-01.00.19:795][622]LogFileHelpers: Saving map 'Train_lvl_1' took 0.780
+[2020.04.30-01.00.19:796][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_1_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1_BuiltData.uasset" SILENT=true
+[2020.04.30-01.00.22:495][622]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_1_BuiltData0907012C48F3A7E2261996BE704B2E09.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1_BuiltData.uasset'
+[2020.04.30-01.00.22:527][622]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.30-01.00.22:527][622]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.30-01.00.22:527][622]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_1_BuiltData.Train_lvl_1_BuiltData
+[2020.04.30-01.03.49:047][391]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.30-01.05.02:614][508]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.30-01.05.02:665][508]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.04.30-01.05.05:626][508]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-01.05.05:632][508]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-01.05.05:633][508]LightingResults: New page: Lighting Build
+[2020.04.30-01.05.05:635][508]LoadErrors: New page: Loading map: Train_lvl_1.umap
+[2020.04.30-01.05.05:637][508]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-01.05.05:637][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-01.05.05:638][508]MapCheck: New page: Map Check
+[2020.04.30-01.05.05:638][508]LightingResults: New page: Lighting Build
+[2020.04.30-01.05.05:690][508]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.04.30-01.05.05:814][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.04.30-01.05.05:853][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.30-01.05.06:107][508]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.30-01.05.06:144][508]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-01.05.06:192][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.04.30-01.05.06:226][508]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-01.05.06:226][508]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2020.04.30-01.05.06:226][508]LogFileHelpers: Loading map 'Train_lvl_1' took 0.596
+[2020.04.30-01.05.16:732][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.04.30-01.10.01:154][ 10]LogSlate: Took 0.005778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.30-01.13.02:704][141]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.30-01.13.02:739][141]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.30-01.13.02:793][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.04.30-01.13.04:411][141]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-01.13.04:427][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Info_3" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_3.uasset" SILENT=true
+[2020.04.30-01.13.04:449][141]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Info_3D855648242DCF7126C03ECA3E9CD07E5.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_3.uasset'
+[2020.04.30-01.13.04:452][141]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-01.13.04:452][141]LightingResults: New page: Lighting Build
+[2020.04.30-01.13.04:453][141]LoadErrors: New page: Loading map: Train_lvl_2.umap
+[2020.04.30-01.13.04:454][141]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-01.13.04:455][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-01.13.04:455][141]MapCheck: New page: Map Check
+[2020.04.30-01.13.04:455][141]LightingResults: New page: Lighting Build
+[2020.04.30-01.13.04:510][141]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.04.30-01.13.04:540][141]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-01.13.04:590][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.04.30-01.13.04:622][141]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-01.13.04:631][141]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.946ms to complete.
+[2020.04.30-01.13.04:632][141]LogFileHelpers: Loading map 'Train_lvl_2' took 0.181
+[2020.04.30-01.13.04:688][141]AssetCheck: New page: Asset Save: Info_3
+[2020.04.30-01.13.04:688][141]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Info_3.Info_3
+[2020.04.30-01.13.09:015][613]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2
+[2020.04.30-01.14.01:455][785]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_4)
+[2020.04.30-01.14.22:604][643]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_4)
+[2020.04.30-01.14.29:599][932]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TriggerBoxTargetPoint)
+[2020.04.30-01.14.37:646][275]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_4)
+[2020.04.30-01.18.35:892][ 63]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_1)
+[2020.04.30-01.18.55:957][919]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (CommuterTargetPoint_5)
+[2020.04.30-01.19.10:346][498]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_1)
+[2020.04.30-01.20.16:558][240]LogTemp: Repeating last play command: Standalone Game
+[2020.04.30-01.20.16:619][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.04.30-01.20.21:210][240]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-01.20.21:283][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.04.30-01.20.22:559][240]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_226C3B484487B84FDB6116796CC703EB0.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.30-01.20.22:598][240]LogFileHelpers: Saving map 'Train_lvl_2' took 1.359
+[2020.04.30-01.20.23:340][241]AssetCheck: New page: Asset Save: Train_lvl_2
+[2020.04.30-01.20.23:340][241]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.30-01.23.32:998][945]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (CommuterTargetPoint_1)
+[2020.04.30-01.24.29:135][149]Cmd: EDIT COPY
+[2020.04.30-01.24.32:701][309]Cmd: EDIT COPY
+[2020.04.30-01.24.35:465][438]Cmd: TRANSACTION UNDO
+[2020.04.30-01.24.35:465][438]LogEditorTransaction: Undo Move Actors
+[2020.04.30-01.24.38:517][540]Cmd: EDIT COPY
+[2020.04.30-01.24.39:120][568]Cmd: EDIT PASTE
+[2020.04.30-01.25.09:157][ 21]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_1)
+[2020.04.30-01.25.11:918][151]Cmd: EDIT COPY
+[2020.04.30-01.25.12:615][183]Cmd: EDIT PASTE
+[2020.04.30-01.25.44:596][710]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_1)
+[2020.04.30-01.25.49:648][950]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.06:180][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2020.04.30-01.26.07:148][780]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.21:260][425]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_1)
+[2020.04.30-01.26.29:284][796]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.43:727][481]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.54:672][  5]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.57:369][134]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.58:166][171]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.59:326][226]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.27.01:009][307]Cmd: DELETE
+[2020.04.30-01.27.01:009][307]Cmd: ACTOR DELETE
+[2020.04.30-01.27.01:038][307]LogEditorActor: Deleted Actor: TargetPoint
+[2020.04.30-01.27.01:095][307]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.04.30-01.27.01:098][307]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2020.04.30-01.27.03:222][417]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_1)
+[2020.04.30-01.30.43:936][889]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.04.30-01.30.44:067][889]LogBlueprint: Error: [Compiler PersistentLevel.Train_lvl_2] The current value (0, 0, 0) of the ' Goal ' pin is invalid: 'Goal' in action 'Simple Move to Location' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.04.30-01.30.45:160][889]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2_Auto39844D06449894F2B414A439F7EC9232E.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Autosaves/Game/Levels/Train_lvl_2_Auto3.umap'
+[2020.04.30-01.30.45:163][889]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_2' took 1.279
+[2020.04.30-01.30.45:163][889]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.279
+[2020.04.30-01.31.28:943][894]BlueprintLog: New page: Compile Train_lvl_2
+[2020.04.30-01.31.29:497][894]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.04.30-01.32.15:410][908]BlueprintLog: New page: Compile Train_lvl_2
+[2020.04.30-01.32.15:951][908]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.04.30-01.32.20:534][ 77]LogTemp: Repeating last play command: Standalone Game
+[2020.04.30-01.32.20:596][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.04.30-01.32.25:284][ 77]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-01.32.25:354][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.04.30-01.32.26:659][ 77]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2C17CDA0B4CB07E585428D4A541EBEA57.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.30-01.32.26:696][ 77]LogFileHelpers: Saving map 'Train_lvl_2' took 1.386
+[2020.04.30-01.32.27:382][ 78]AssetCheck: New page: Asset Save: Train_lvl_2
+[2020.04.30-01.32.27:382][ 78]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.30-01.36.26:804][615]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TriggerBoxTargetPoint)
+[2020.04.30-01.36.27:756][655]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_1)
+[2020.04.30-01.36.32:658][871]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_1)
+[2020.04.30-01.36.37:193][ 72]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TriggerBoxTargetPoint)
+[2020.04.30-01.36.42:343][293]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.04.30-01.36.43:626][293]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_23478470C4F055627D8901FAA93C0EC4E.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.30-01.36.43:664][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Train_lvl_2_BuiltData" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset" SILENT=true
+[2020.04.30-01.36.47:257][293]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2_BuiltData740FD8C04D5DD76958862D8360796EAE.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2_BuiltData.uasset'
+[2020.04.30-01.36.47:291][293]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.30-01.36.47:291][293]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.30-01.36.47:291][293]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_2_BuiltData.Train_lvl_2_BuiltData
+[2020.04.30-01.36.47:922][294]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (bookBlurred)
+[2020.04.30-01.36.59:007][773]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TriggerBoxTargetPoint)
+[2020.04.30-01.37.12:885][398]Cmd: TRANSACTION UNDO
+[2020.04.30-01.37.12:885][398]LogEditorTransaction: Undo Move Actors
+[2020.04.30-01.37.14:191][416]Cmd: TRANSACTION UNDO
+[2020.04.30-01.37.14:191][416]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.30-01.37.14:847][443]Cmd: TRANSACTION UNDO
+[2020.04.30-01.37.14:847][443]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.04.30-01.37.24:305][873]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox_Harraser_Color)
+[2020.04.30-01.37.26:168][958]Cmd: TRANSACTION UNDO
+[2020.04.30-01.37.26:168][958]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.30-01.37.30:341][134]LogTemp: Repeating last play command: Standalone Game
+[2020.04.30-01.37.30:410][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
