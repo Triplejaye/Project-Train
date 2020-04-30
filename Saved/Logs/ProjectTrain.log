@@ -1299,3 +1299,106 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.30-01.00.22:527][622]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.30-01.00.22:527][622]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_1.Train_lvl_1
 [2020.04.30-01.00.22:527][622]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Train_lvl_1_BuiltData.Train_lvl_1_BuiltData
+[2020.04.30-01.03.49:047][391]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.30-01.05.02:614][508]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_1.Train_lvl_1
+[2020.04.30-01.05.02:665][508]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.04.30-01.05.05:626][508]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-01.05.05:632][508]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-01.05.05:633][508]LightingResults: New page: Lighting Build
+[2020.04.30-01.05.05:635][508]LoadErrors: New page: Loading map: Train_lvl_1.umap
+[2020.04.30-01.05.05:637][508]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-01.05.05:637][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-01.05.05:638][508]MapCheck: New page: Map Check
+[2020.04.30-01.05.05:638][508]LightingResults: New page: Lighting Build
+[2020.04.30-01.05.05:690][508]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.04.30-01.05.05:814][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.04.30-01.05.05:853][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.30-01.05.06:107][508]LogAIModule: Creating AISystem for world Train_lvl_1
+[2020.04.30-01.05.06:144][508]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-01.05.06:192][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.04.30-01.05.06:226][508]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-01.05.06:226][508]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2020.04.30-01.05.06:226][508]LogFileHelpers: Loading map 'Train_lvl_1' took 0.596
+[2020.04.30-01.05.16:732][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.04.30-01.10.01:154][ 10]LogSlate: Took 0.005778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.30-01.13.02:704][141]LogAIModule: Creating AISystem for world Train_lvl_2
+[2020.04.30-01.13.02:739][141]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.30-01.13.02:793][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.04.30-01.13.04:411][141]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-01.13.04:427][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Info_3" FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_3.uasset" SILENT=true
+[2020.04.30-01.13.04:449][141]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Info_3D855648242DCF7126C03ECA3E9CD07E5.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/UI/Info_3.uasset'
+[2020.04.30-01.13.04:452][141]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-01.13.04:452][141]LightingResults: New page: Lighting Build
+[2020.04.30-01.13.04:453][141]LoadErrors: New page: Loading map: Train_lvl_2.umap
+[2020.04.30-01.13.04:454][141]LogWorld: UWorld::CleanupWorld for Train_lvl_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-01.13.04:455][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-01.13.04:455][141]MapCheck: New page: Map Check
+[2020.04.30-01.13.04:455][141]LightingResults: New page: Lighting Build
+[2020.04.30-01.13.04:510][141]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.04.30-01.13.04:540][141]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-01.13.04:590][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.04.30-01.13.04:622][141]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-01.13.04:631][141]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.946ms to complete.
+[2020.04.30-01.13.04:632][141]LogFileHelpers: Loading map 'Train_lvl_2' took 0.181
+[2020.04.30-01.13.04:688][141]AssetCheck: New page: Asset Save: Info_3
+[2020.04.30-01.13.04:688][141]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Info_3.Info_3
+[2020.04.30-01.13.09:015][613]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Train_lvl_2.Train_lvl_2:PersistentLevel.Train_lvl_2
+[2020.04.30-01.14.01:455][785]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_4)
+[2020.04.30-01.14.22:604][643]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_4)
+[2020.04.30-01.14.29:599][932]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TriggerBoxTargetPoint)
+[2020.04.30-01.14.37:646][275]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_4)
+[2020.04.30-01.18.35:892][ 63]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_1)
+[2020.04.30-01.18.55:957][919]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (CommuterTargetPoint_5)
+[2020.04.30-01.19.10:346][498]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint_Enemy_Move_Point_Option1_1)
+[2020.04.30-01.20.16:558][240]LogTemp: Repeating last play command: Standalone Game
+[2020.04.30-01.20.16:619][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.04.30-01.20.21:210][240]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-01.20.21:283][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.04.30-01.20.22:559][240]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_226C3B484487B84FDB6116796CC703EB0.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.30-01.20.22:598][240]LogFileHelpers: Saving map 'Train_lvl_2' took 1.359
+[2020.04.30-01.20.23:340][241]AssetCheck: New page: Asset Save: Train_lvl_2
+[2020.04.30-01.20.23:340][241]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
+[2020.04.30-01.23.32:998][945]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (CommuterTargetPoint_1)
+[2020.04.30-01.24.29:135][149]Cmd: EDIT COPY
+[2020.04.30-01.24.32:701][309]Cmd: EDIT COPY
+[2020.04.30-01.24.35:465][438]Cmd: TRANSACTION UNDO
+[2020.04.30-01.24.35:465][438]LogEditorTransaction: Undo Move Actors
+[2020.04.30-01.24.38:517][540]Cmd: EDIT COPY
+[2020.04.30-01.24.39:120][568]Cmd: EDIT PASTE
+[2020.04.30-01.25.09:157][ 21]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_1)
+[2020.04.30-01.25.11:918][151]Cmd: EDIT COPY
+[2020.04.30-01.25.12:615][183]Cmd: EDIT PASTE
+[2020.04.30-01.25.44:596][710]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_1)
+[2020.04.30-01.25.49:648][950]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.06:180][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2020.04.30-01.26.07:148][780]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.21:260][425]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_1)
+[2020.04.30-01.26.29:284][796]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.43:727][481]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.54:672][  5]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.57:369][134]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.58:166][171]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.26.59:326][226]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_2)
+[2020.04.30-01.27.01:009][307]Cmd: DELETE
+[2020.04.30-01.27.01:009][307]Cmd: ACTOR DELETE
+[2020.04.30-01.27.01:038][307]LogEditorActor: Deleted Actor: TargetPoint
+[2020.04.30-01.27.01:095][307]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.04.30-01.27.01:098][307]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2020.04.30-01.27.03:222][417]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (harraser_exitpoint_1)
+[2020.04.30-01.30.43:936][889]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.04.30-01.30.44:067][889]LogBlueprint: Error: [Compiler PersistentLevel.Train_lvl_2] The current value (0, 0, 0) of the ' Goal ' pin is invalid: 'Goal' in action 'Simple Move to Location' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.04.30-01.30.45:160][889]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2_Auto39844D06449894F2B414A439F7EC9232E.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Autosaves/Game/Levels/Train_lvl_2_Auto3.umap'
+[2020.04.30-01.30.45:163][889]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Train_lvl_2' took 1.279
+[2020.04.30-01.30.45:163][889]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.279
+[2020.04.30-01.31.28:943][894]BlueprintLog: New page: Compile Train_lvl_2
+[2020.04.30-01.31.29:497][894]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.04.30-01.32.15:410][908]BlueprintLog: New page: Compile Train_lvl_2
+[2020.04.30-01.32.15:951][908]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.04.30-01.32.20:534][ 77]LogTemp: Repeating last play command: Standalone Game
+[2020.04.30-01.32.20:596][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.04.30-01.32.25:284][ 77]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-01.32.25:354][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.04.30-01.32.26:659][ 77]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Saved/Train_lvl_2C17CDA0B4CB07E585428D4A541EBEA57.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/TC2/Project-Train/Content/Levels/Train_lvl_2.umap'
+[2020.04.30-01.32.26:696][ 77]LogFileHelpers: Saving map 'Train_lvl_2' took 1.386
+[2020.04.30-01.32.27:382][ 78]AssetCheck: New page: Asset Save: Train_lvl_2
+[2020.04.30-01.32.27:382][ 78]LogContentValidation: Display: Validating World /Game/Levels/Train_lvl_2.Train_lvl_2
